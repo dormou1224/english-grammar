@@ -1,0 +1,2 @@
+async function loadContent(name){if(window.QUIZ_CONTENT)return window.QUIZ_CONTENT[name];const response=await fetch(`content/${name}.json`);if(!response.ok)throw new Error('Αδυναμία φόρτωσης');return response.json()}
+function showContentError(){const app=document.getElementById('app');app.setAttribute('aria-busy','false');app.textContent='Το περιεχόμενο δεν φορτώθηκε. Για τοπική χρήση, άνοιξε τον τοπικό server ή την έκδοση του φακέλου offline. Επίσης έλεγξε ότι το JSON είναι έγκυρο.'}

@@ -1,0 +1,906 @@
+[
+  {
+    "title": "Οι τέσσερις χρόνοι",
+    "blocks": [
+      {
+        "type": "table",
+        "headers": [
+          "Χρόνος",
+          "Σχηματισμός",
+          "Χρήση"
+        ],
+        "rows": [
+          [
+            "Simple Past",
+            "Αόριστος· άρνηση/ερώτηση: did + βασικός τύπος",
+            "Τελειωμένα γεγονότα και παλιές συνήθειες."
+          ],
+          [
+            "Past Continuous",
+            "was/were + -ing",
+            "Πράξη σε εξέλιξη σε παρελθοντική στιγμή."
+          ],
+          [
+            "Present Perfect",
+            "have/has + παθητική μετοχή",
+            "Εμπειρία ή αποτέλεσμα μέχρι τώρα."
+          ],
+          [
+            "Past Perfect",
+            "had + παθητική μετοχή",
+            "Πράξη πριν από άλλη παρελθοντική στιγμή."
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Have been / have gone",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "Have/has been to: έχει επισκεφθεί ένα μέρος και έχει επιστρέψει. I have been to London twice."
+      },
+      {
+        "type": "text",
+        "text": "Have/has gone to: έχει φύγει για εκεί και δεν έχει επιστρέψει ακόμη. She has gone to the supermarket."
+      }
+    ]
+  },
+  {
+    "title": "Ορθογραφία",
+    "blocks": [
+      {
+        "type": "table",
+        "headers": [
+          "Περίπτωση",
+          "Κανόνας και παραδείγματα"
+        ],
+        "rows": [
+          [
+            "Σύμφωνο + y",
+            "Το y γίνεται i πριν από το -ed: study → studied, carry → carried, tidy → tidied, copy → copied, try → tried, cry → cried."
+          ],
+          [
+            "Φωνήεν + y",
+            "Κρατάμε το y και προσθέτουμε -ed: play → played, enjoy → enjoyed."
+          ],
+          [
+            "Διπλασιασμός συμφώνου",
+            "Σε μονοσύλλαβα με ένα τελικό φωνήεν και ένα σύμφωνο: stop → stopped, drop → dropped, plan → planned."
+          ],
+          [
+            "Τονισμένη τελευταία συλλαβή",
+            "Σε πολυσύλλαβα με κατάλληλη κατάληξη διπλασιάζουμε όταν τονίζεται η τελευταία συλλαβή: prefer → preferred, admit → admitted."
+          ],
+          [
+            "Άτονη τελευταία συλλαβή",
+            "Δεν διπλασιάζουμε: open → opened, visit → visited."
+          ],
+          [
+            "Τελικό l",
+            "Στα βρετανικά αγγλικά, μετά από ένα φωνήεν συνήθως διπλασιάζουμε το τελικό l ακόμη και χωρίς τελικό τονισμό: travel → travelled, cancel → cancelled, label → labelled."
+          ],
+          [
+            "Τελικά w, x, y",
+            "Δεν τα διπλασιάζουμε: snow → snowed, fix → fixed, play → played."
+          ],
+          [
+            "Ανώμαλα ρήματα",
+            "Δεν ακολουθούν το -ed. Αόριστος / παθητική μετοχή: write → wrote / written, eat → ate / eaten, begin → began / begun, take → took / taken, go → went / gone."
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Ανώμαλα ρήματα",
+    "blocks": [
+      {
+        "type": "table",
+        "headers": [
+          "Βασικός τύπος",
+          "Αόριστος",
+          "Παθητική μετοχή"
+        ],
+        "rows": [
+          [
+            "be",
+            "was / were",
+            "been"
+          ],
+          [
+            "begin",
+            "began",
+            "begun"
+          ],
+          [
+            "break",
+            "broke",
+            "broken"
+          ],
+          [
+            "bring",
+            "brought",
+            "brought"
+          ],
+          [
+            "buy",
+            "bought",
+            "bought"
+          ],
+          [
+            "catch",
+            "caught",
+            "caught"
+          ],
+          [
+            "choose",
+            "chose",
+            "chosen"
+          ],
+          [
+            "come",
+            "came",
+            "come"
+          ],
+          [
+            "do",
+            "did",
+            "done"
+          ],
+          [
+            "drink",
+            "drank",
+            "drunk"
+          ],
+          [
+            "drive",
+            "drove",
+            "driven"
+          ],
+          [
+            "eat",
+            "ate",
+            "eaten"
+          ],
+          [
+            "fall",
+            "fell",
+            "fallen"
+          ],
+          [
+            "feel",
+            "felt",
+            "felt"
+          ],
+          [
+            "find",
+            "found",
+            "found"
+          ],
+          [
+            "forget",
+            "forgot",
+            "forgotten"
+          ],
+          [
+            "get",
+            "got",
+            "got"
+          ],
+          [
+            "give",
+            "gave",
+            "given"
+          ],
+          [
+            "go",
+            "went",
+            "gone"
+          ],
+          [
+            "grow",
+            "grew",
+            "grown"
+          ],
+          [
+            "have",
+            "had",
+            "had"
+          ],
+          [
+            "hear",
+            "heard",
+            "heard"
+          ],
+          [
+            "keep",
+            "kept",
+            "kept"
+          ],
+          [
+            "know",
+            "knew",
+            "known"
+          ],
+          [
+            "leave",
+            "left",
+            "left"
+          ],
+          [
+            "lose",
+            "lost",
+            "lost"
+          ],
+          [
+            "make",
+            "made",
+            "made"
+          ],
+          [
+            "meet",
+            "met",
+            "met"
+          ],
+          [
+            "put",
+            "put",
+            "put"
+          ],
+          [
+            "read",
+            "read",
+            "read"
+          ],
+          [
+            "ride",
+            "rode",
+            "ridden"
+          ],
+          [
+            "run",
+            "ran",
+            "run"
+          ],
+          [
+            "say",
+            "said",
+            "said"
+          ],
+          [
+            "see",
+            "saw",
+            "seen"
+          ],
+          [
+            "send",
+            "sent",
+            "sent"
+          ],
+          [
+            "sing",
+            "sang",
+            "sung"
+          ],
+          [
+            "sit",
+            "sat",
+            "sat"
+          ],
+          [
+            "sleep",
+            "slept",
+            "slept"
+          ],
+          [
+            "speak",
+            "spoke",
+            "spoken"
+          ],
+          [
+            "stand",
+            "stood",
+            "stood"
+          ],
+          [
+            "swim",
+            "swam",
+            "swum"
+          ],
+          [
+            "take",
+            "took",
+            "taken"
+          ],
+          [
+            "teach",
+            "taught",
+            "taught"
+          ],
+          [
+            "think",
+            "thought",
+            "thought"
+          ],
+          [
+            "understand",
+            "understood",
+            "understood"
+          ],
+          [
+            "wear",
+            "wore",
+            "worn"
+          ],
+          [
+            "win",
+            "won",
+            "won"
+          ],
+          [
+            "write",
+            "wrote",
+            "written"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Σύμφωνο + y → ied",
+    "blocks": [
+      {
+        "type": "table",
+        "headers": [
+          "Ρήμα",
+          "Αόριστος / μετοχή"
+        ],
+        "rows": [
+          [
+            "study",
+            "studied"
+          ],
+          [
+            "carry",
+            "carried"
+          ],
+          [
+            "try",
+            "tried"
+          ],
+          [
+            "cry",
+            "cried"
+          ],
+          [
+            "tidy",
+            "tidied"
+          ],
+          [
+            "copy",
+            "copied"
+          ],
+          [
+            "hurry",
+            "hurried"
+          ],
+          [
+            "worry",
+            "worried"
+          ],
+          [
+            "marry",
+            "married"
+          ],
+          [
+            "reply",
+            "replied"
+          ],
+          [
+            "apply",
+            "applied"
+          ],
+          [
+            "fry",
+            "fried"
+          ],
+          [
+            "dry",
+            "dried"
+          ],
+          [
+            "spy",
+            "spied"
+          ],
+          [
+            "bury",
+            "buried"
+          ],
+          [
+            "empty",
+            "emptied"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Φωνήεν + y: κρατάμε το y",
+    "blocks": [
+      {
+        "type": "table",
+        "headers": [
+          "Ρήμα",
+          "Αόριστος / μετοχή"
+        ],
+        "rows": [
+          [
+            "play",
+            "played"
+          ],
+          [
+            "enjoy",
+            "enjoyed"
+          ],
+          [
+            "stay",
+            "stayed"
+          ],
+          [
+            "pray",
+            "prayed"
+          ],
+          [
+            "obey",
+            "obeyed"
+          ],
+          [
+            "delay",
+            "delayed"
+          ],
+          [
+            "destroy",
+            "destroyed"
+          ],
+          [
+            "annoy",
+            "annoyed"
+          ]
+        ]
+      },
+      {
+        "type": "text",
+        "text": "Ανώμαλα: say – said, pay – paid, buy – bought."
+      }
+    ]
+  },
+  {
+    "title": "Διπλασιασμός συμφώνου",
+    "blocks": [
+      {
+        "type": "table",
+        "headers": [
+          "Ρήμα",
+          "Αόριστος / μετοχή"
+        ],
+        "rows": [
+          [
+            "stop",
+            "stopped"
+          ],
+          [
+            "plan",
+            "planned"
+          ],
+          [
+            "drop",
+            "dropped"
+          ],
+          [
+            "shop",
+            "shopped"
+          ],
+          [
+            "clap",
+            "clapped"
+          ],
+          [
+            "rub",
+            "rubbed"
+          ],
+          [
+            "rob",
+            "robbed"
+          ],
+          [
+            "nod",
+            "nodded"
+          ],
+          [
+            "slip",
+            "slipped"
+          ],
+          [
+            "skip",
+            "skipped"
+          ],
+          [
+            "prefer",
+            "preferred"
+          ],
+          [
+            "admit",
+            "admitted"
+          ],
+          [
+            "permit",
+            "permitted"
+          ],
+          [
+            "occur",
+            "occurred"
+          ],
+          [
+            "regret",
+            "regretted"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Χωρίς διπλασιασμό",
+    "blocks": [
+      {
+        "type": "table",
+        "headers": [
+          "Ρήμα",
+          "Αόριστος / μετοχή",
+          "Γιατί;"
+        ],
+        "rows": [
+          [
+            "open",
+            "opened",
+            "Άτονη τελευταία συλλαβή"
+          ],
+          [
+            "visit",
+            "visited",
+            "Άτονη τελευταία συλλαβή"
+          ],
+          [
+            "happen",
+            "happened",
+            "Άτονη τελευταία συλλαβή"
+          ],
+          [
+            "listen",
+            "listened",
+            "Άτονη τελευταία συλλαβή"
+          ],
+          [
+            "offer",
+            "offered",
+            "Άτονη τελευταία συλλαβή"
+          ],
+          [
+            "suffer",
+            "suffered",
+            "Άτονη τελευταία συλλαβή"
+          ],
+          [
+            "fix",
+            "fixed",
+            "Τελικό x"
+          ],
+          [
+            "snow",
+            "snowed",
+            "Τελικό w"
+          ],
+          [
+            "rain",
+            "rained",
+            "Δύο φωνήεντα πριν από το n"
+          ],
+          [
+            "help",
+            "helped",
+            "Δύο τελικά σύμφωνα"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Τελικό l στη βρετανική ορθογραφία",
+    "blocks": [
+      {
+        "type": "table",
+        "headers": [
+          "Ρήμα",
+          "Αόριστος / μετοχή"
+        ],
+        "rows": [
+          [
+            "travel",
+            "travelled"
+          ],
+          [
+            "cancel",
+            "cancelled"
+          ],
+          [
+            "label",
+            "labelled"
+          ],
+          [
+            "level",
+            "levelled"
+          ],
+          [
+            "model",
+            "modelled"
+          ],
+          [
+            "signal",
+            "signalled"
+          ],
+          [
+            "quarrel",
+            "quarrelled"
+          ],
+          [
+            "control",
+            "controlled"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Παρόμοια χωρίς πρόσθετο l",
+    "blocks": [
+      {
+        "type": "table",
+        "headers": [
+          "Ρήμα",
+          "Αόριστος / μετοχή"
+        ],
+        "rows": [
+          [
+            "email",
+            "emailed"
+          ],
+          [
+            "sail",
+            "sailed"
+          ],
+          [
+            "boil",
+            "boiled"
+          ],
+          [
+            "fail",
+            "failed"
+          ],
+          [
+            "mail",
+            "mailed"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Λέξεις και φράσεις-κλειδιά",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "Είναι ενδείξεις, όχι απόλυτοι κανόνες. Οι ενεστωτικοί περιλαμβάνονται εδώ μόνο για σύγκριση."
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Λέξη / φράση",
+          "Πιθανοί χρόνοι",
+          "Παραδείγματα"
+        ],
+        "rows": [
+          [
+            "every day / week, usually, often, sometimes, always, never",
+            "Simple Present για συνήθειες τώρα. Simple Past για παλιές συνήθειες.",
+            "She usually walks to school.\nWhen she was young, she usually walked to school."
+          ],
+          [
+            "now, right now, at the moment",
+            "Συνήθως Present Continuous για πράξη σε εξέλιξη τώρα.",
+            "She is studying now.\nΜε ρήματα κατάστασης μπορεί να έχουμε Simple Present: I understand now."
+          ],
+          [
+            "yesterday, last night / week / year, two days ago, in 2020",
+            "Συνήθως Simple Past για ολοκληρωμένο γεγονός σε τελειωμένο χρόνο. Μπορούν να συνοδεύουν Past Continuous όταν περιγράφουμε διάρκεια.",
+            "I visited her yesterday.\nAt eight yesterday, I was studying."
+          ],
+          [
+            "at five yesterday, at this time yesterday",
+            "Συχνά Past Continuous: πράξη σε εξέλιξη εκείνη την ώρα. Simple Past αν δηλώνεται ένα γεγονός εκείνη την ώρα.",
+            "At five, I was reading.\nThe train arrived at five yesterday."
+          ],
+          [
+            "while / as",
+            "Συχνά Past Continuous για πράξη σε εξέλιξη στο παρελθόν. Μπορούν να χρησιμοποιηθούν και με άλλους χρόνους.",
+            "While I was cooking, he called.\nWhile I cook, I listen to music."
+          ],
+          [
+            "when",
+            "Δεν καθορίζει μόνο του τον χρόνο. Simple Past + Past Continuous για γεγονός μέσα σε διάρκεια. Simple Past + Past Perfect για προηγούμενη πράξη. Επίσης Simple Present για συνήθεια.",
+            "I was reading when he called.\nWhen I arrived, he had left.\nWhen I finish work, I walk home."
+          ],
+          [
+            "ever / never",
+            "Present Perfect για εμπειρίες μέχρι τώρα. Past Perfect για εμπειρίες μέχρι ένα σημείο στο παρελθόν. Simple Present / Simple Past για συνήθειες.",
+            "Have you ever flown?\nBefore that trip, I had never flown.\nHe never drinks coffee."
+          ],
+          [
+            "already / just / yet",
+            "Συχνά Present Perfect για σχέση με το παρόν. Past Perfect όταν το σημείο αναφοράς είναι στο παρελθόν.",
+            "I have just finished.\nI haven’t finished yet.\nWhen he called, I had already finished."
+          ],
+          [
+            "for + διάρκεια",
+            "Present Perfect: κατάσταση από το παρελθόν έως τώρα. Simple Past: τελειωμένη διάρκεια. Past Perfect: διάρκεια μέχρι ένα παρελθοντικό σημείο.",
+            "I have lived here for five years.\nI lived there for five years, then moved.\nBy 2020, I had lived there for five years."
+          ],
+          [
+            "since + αφετηρία",
+            "Συχνά Present Perfect μέχρι τώρα ή Past Perfect μέχρι ένα σημείο στο παρελθόν. Μετά το since μπορεί να υπάρχει Simple Past.",
+            "I have known her since 2020.\nI have known her since we met.\nBy 2024, I had known her since 2020."
+          ],
+          [
+            "so far, up to now, until now",
+            "Συνήθως Present Perfect: απολογισμός μέχρι τώρα.",
+            "We have completed three exercises so far."
+          ],
+          [
+            "recently / lately",
+            "Συχνά Present Perfect. Το recently μπορεί επίσης να συνοδεύει Simple Past για πρόσφατο ολοκληρωμένο γεγονός.",
+            "I have seen her recently.\nI recently bought a bike."
+          ],
+          [
+            "today, this week / month / year",
+            "Present Perfect όταν μετράμε γεγονότα σε διάστημα που φτάνει έως τώρα. Simple Past για συγκεκριμένο τελειωμένο γεγονός μέσα στο ίδιο διάστημα.",
+            "I have read two books this week.\nI spoke to her at nine today."
+          ],
+          [
+            "by + χρονικό σημείο στο παρελθόν",
+            "Συχνά Past Perfect: ολοκλήρωση μέχρι εκείνο το σημείο. Δεν είναι αποκλειστικό γνώρισμα του χρόνου.",
+            "By eight last night, I had finished my work."
+          ],
+          [
+            "by the time + παρελθοντική πρόταση",
+            "Συχνά Simple Past στη δευτερεύουσα + Past Perfect για πράξη ήδη ολοκληρωμένη. Μπορεί να υπάρχει και Past Continuous για κατάσταση σε εξέλιξη.",
+            "By the time we arrived, he had left.\nBy the time we arrived, it was raining."
+          ],
+          [
+            "before / after",
+            "Δείχνουν σειρά, αλλά δεν επιβάλλουν Past Perfect. Μπορούν να συνδυάζονται με Simple Past ή με ενεστωτικούς χρόνους.",
+            "After I had eaten, I went out.\nAfter I ate, I went out.\nI brush my teeth before I go to bed."
+          ],
+          [
+            "once, twice, three times",
+            "Present Perfect για εμπειρίες έως τώρα. Simple Past σε τελειωμένο διάστημα. Past Perfect έως ένα παρελθοντικό σημείο.",
+            "I have visited Paris twice.\nI visited Paris twice last year.\nBefore 2020, I had visited Paris twice."
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Ρήματα κατάστασης",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "Συνήθως δεν χρησιμοποιούνται σε continuous όταν δηλώνουν κατάσταση. Δεν πρόκειται για απόλυτη απαγόρευση."
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Κατηγορία",
+          "Ρήματα",
+          "Παραδείγματα"
+        ],
+        "rows": [
+          [
+            "Γνώση και σκέψη",
+            "know (γνωρίζω), understand (καταλαβαίνω), believe (πιστεύω), remember (θυμάμαι), forget (ξεχνώ), mean (σημαίνω)",
+            "I knew the answer.\nΌχι: I was knowing the answer."
+          ],
+          [
+            "Επιθυμία και προτίμηση",
+            "want (θέλω), need (χρειάζομαι), prefer (προτιμώ)",
+            "She wanted a new bike.\nΌχι: She was wanting a new bike."
+          ],
+          [
+            "Συναισθήματα",
+            "like (μου αρέσει), love (αγαπώ), hate (μισώ), dislike (δεν μου αρέσει)",
+            "He liked the film.\nΓια ουδέτερο σχολικό λόγο αποφεύγουμε το was liking."
+          ],
+          [
+            "Κατοχή και σχέση",
+            "have (έχω / κατέχω), own (κατέχω), possess (κατέχω), belong to (ανήκω σε)",
+            "They had a car.\nΌχι: They were having a car."
+          ],
+          [
+            "Εντύπωση και σύσταση",
+            "seem (φαίνομαι), appear (φαίνομαι), resemble (μοιάζω), contain (περιέχω), consist of (αποτελούμαι από)",
+            "The box contained books.\nShe seemed tired."
+          ],
+          [
+            "Αισθήσεις ως κατάσταση",
+            "see (βλέπω), hear (ακούω), smell (έχω μυρωδιά), taste (έχω γεύση)",
+            "The soup tasted good.\nI could hear the music."
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Όταν αλλάζει η σημασία",
+    "blocks": [
+      {
+        "type": "table",
+        "headers": [
+          "Ρήμα",
+          "Κατάσταση",
+          "Διαφορετική χρήση"
+        ],
+        "rows": [
+          [
+            "have",
+            "Κατοχή: She had a bicycle.",
+            "Δραστηριότητα / εμπειρία: She was having a shower when I called."
+          ],
+          [
+            "think",
+            "Γνώμη / πεποίθηση: I thought he was right.",
+            "Σκέψη σε εξέλιξη: I was thinking about the problem."
+          ],
+          [
+            "see",
+            "Όραση / αντίληψη: I could see the mountains.",
+            "Συνάντηση / επίσκεψη: She was seeing the dentist at five."
+          ],
+          [
+            "taste",
+            "Γεύση του πράγματος: The soup tasted salty.",
+            "Δοκιμή: The chef was tasting the soup."
+          ],
+          [
+            "smell",
+            "Μυρωδιά του πράγματος: The flowers smelled lovely.",
+            "Ενέργεια: She was smelling the flowers."
+          ],
+          [
+            "look",
+            "Εντύπωση: He looked tired.",
+            "Ενέργεια: He was looking at a photograph."
+          ],
+          [
+            "feel",
+            "Αίσθημα: I felt tired.",
+            "Μπορεί να χρησιμοποιηθεί και continuous για προσωρινή αίσθηση: I was feeling tired. Επίσης ενέργεια αφής: She was feeling the fabric."
+          ],
+          [
+            "be",
+            "Κατάσταση / χαρακτηριστικό: He was rude.",
+            "Προσωρινή συμπεριφορά: He was being rude to the waiter."
+          ]
+        ]
+      }
+    ]
+  }
+]

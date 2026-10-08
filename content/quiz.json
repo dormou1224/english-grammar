@@ -1,0 +1,242 @@
+[
+  {
+    "question": "Yesterday, Helen ___ (study) for her English test.",
+    "options": [
+      "studyed",
+      "has studied",
+      "studied",
+      "had studyed"
+    ],
+    "correctIndex": 2,
+    "hint": "Πρόσεξε το yesterday και το γράμμα πριν από το y.",
+    "explanation": "Yesterday: Simple Past. Σύμφωνο + y: studied."
+  },
+  {
+    "question": "While Dad ___ (wash) the car, the phone ___ (ring).",
+    "options": [
+      "was washing — rang",
+      "washed — was ringing",
+      "has washed — has rung",
+      "was wash — ringed"
+    ],
+    "correctIndex": 0,
+    "hint": "Μία πράξη ήταν σε εξέλιξη όταν συνέβη η άλλη.",
+    "explanation": "Was washing: πράξη σε εξέλιξη. Rang: σύντομο γεγονός."
+  },
+  {
+    "question": "I ___ never ___ (eat) sushi.",
+    "options": [
+      "have — ate",
+      "has — eaten",
+      "have — eat",
+      "have — eaten"
+    ],
+    "correctIndex": 3,
+    "hint": "Εμπειρία ζωής μέχρι τώρα.",
+    "explanation": "Present Perfect: have + eaten. Eat → ate → eaten."
+  },
+  {
+    "question": "By the time we ___ (reach) the station, the train ___ already ___ (leave).",
+    "options": [
+      "had reached — left",
+      "reached — had already left",
+      "reached — has already left",
+      "reach — had already leave"
+    ],
+    "correctIndex": 1,
+    "hint": "Το τρένο έφυγε πριν φτάσουμε.",
+    "explanation": "Reached: παρελθοντικό σημείο. Had left: προηγούμενη πράξη."
+  },
+  {
+    "question": "Mum isn’t here. She ___ to the supermarket and hasn’t returned yet.",
+    "options": [
+      "has been",
+      "have gone",
+      "has gone",
+      "has went"
+    ],
+    "correctIndex": 2,
+    "hint": "Έχει επιστρέψει;",
+    "explanation": "Has gone: έχει φύγει και δεν έχει επιστρέψει."
+  },
+  {
+    "question": "They ___ (play) basketball last Saturday.",
+    "options": [
+      "played",
+      "plaied",
+      "have played",
+      "playyed"
+    ],
+    "correctIndex": 0,
+    "hint": "Πριν από το y υπάρχει φωνήεν ή σύμφωνο;",
+    "explanation": "Last Saturday: Simple Past. Φωνήεν + y: played."
+  },
+  {
+    "question": "Συμπλήρωσε με Past Continuous: At eight o’clock last night, we ___ (have) dinner.",
+    "options": [
+      "was having",
+      "were have",
+      "were haveing",
+      "were having"
+    ],
+    "correctIndex": 3,
+    "hint": "Το have δηλώνει δραστηριότητα.",
+    "explanation": "We + were having. Το have εδώ σημαίνει δραστηριότητα."
+  },
+  {
+    "question": "___ you ever ___ (be) to Italy?",
+    "options": [
+      "Has — been",
+      "Have — been",
+      "Have — was",
+      "Did — been"
+    ],
+    "correctIndex": 1,
+    "hint": "Ρωτά για εμπειρία επίσκεψης.",
+    "explanation": "Have you ever been to…? Εμπειρία ζωής."
+  },
+  {
+    "question": "When Anna ___ (open) her bag, she ___ (realise) that she ___ (forget) her keys.",
+    "options": [
+      "opened — realised — had forgotten",
+      "openned — realised — had forgotten",
+      "opened — realised — had forgot",
+      "opened — realised — has forgotten"
+    ],
+    "correctIndex": 0,
+    "hint": "Η παράλειψη έγινε πριν ανοίξει την τσάντα.",
+    "explanation": "Opened / realised: αόριστος. Had forgotten: προηγούμενη παράλειψη. Το open δεν διπλασιάζει το n."
+  },
+  {
+    "question": "The bus ___ (stop) outside our school yesterday.",
+    "options": [
+      "stoped",
+      "has stopped",
+      "stopped",
+      "stopt"
+    ],
+    "correctIndex": 2,
+    "hint": "Το stop είναι μονοσύλλαβο.",
+    "explanation": "Stop → stopped, με διπλό p."
+  },
+  {
+    "question": "We ___ (not / finish) our project yet.",
+    "options": [
+      "haven’t finish",
+      "haven’t finished",
+      "hasn’t finished",
+      "haven’t finishing"
+    ],
+    "correctIndex": 1,
+    "hint": "Το έργο δεν έχει ολοκληρωθεί μέχρι τώρα.",
+    "explanation": "We + haven’t finished: εκκρεμότητα έως τώρα."
+  },
+  {
+    "question": "While I ___ (walk) home, I ___ (see) an old friend.",
+    "options": [
+      "was walking — seen",
+      "was walk — saw",
+      "was walking — seed",
+      "was walking — saw"
+    ],
+    "correctIndex": 3,
+    "hint": "Το περπάτημα είναι το πλαίσιο της συνάντησης.",
+    "explanation": "Was walking: διάρκεια. Saw: αόριστος του see."
+  },
+  {
+    "question": "By the time the guests ___ (arrive), Mum ___ (prepare) dinner.",
+    "options": [
+      "arrived — has prepared",
+      "had arrived — prepared",
+      "arrived — had prepared",
+      "arrived — had prepare"
+    ],
+    "correctIndex": 2,
+    "hint": "Το δείπνο είχε ετοιμαστεί πριν από την άφιξη.",
+    "explanation": "Arrived: αόριστος. Had prepared: προγενέστερη ολοκλήρωση."
+  },
+  {
+    "question": "My parents ___ (travel) to London last summer. Χρησιμοποίησε βρετανική ορθογραφία.",
+    "options": [
+      "travelled",
+      "travellied",
+      "have travelled",
+      "travelleded"
+    ],
+    "correctIndex": 0,
+    "hint": "Θυμήσου τη βρετανική ορθογραφία του τελικού l.",
+    "explanation": "Last summer: Simple Past. Βρετανική ορθογραφία: travelled."
+  },
+  {
+    "question": "“Where are Tom and Ben?” “They ___ to the park. They’ll be back soon.”",
+    "options": [
+      "have been",
+      "have gone",
+      "has gone",
+      "have went"
+    ],
+    "correctIndex": 1,
+    "hint": "Απουσιάζουν ακόμη.",
+    "explanation": "They + have gone: δεν έχουν επιστρέψει."
+  },
+  {
+    "question": "Jack ___ (drop) his phone yesterday.",
+    "options": [
+      "droped",
+      "has dropped",
+      "dropt",
+      "dropped"
+    ],
+    "correctIndex": 3,
+    "hint": "Έλεγξε το τελικό σύμφωνο.",
+    "explanation": "Drop → dropped με διπλό p."
+  },
+  {
+    "question": "Συμπλήρωσε με Past Continuous: At this time yesterday, Mary ___ (write) an email.",
+    "options": [
+      "was writing",
+      "were writing",
+      "was writeing",
+      "was written"
+    ],
+    "correctIndex": 0,
+    "hint": "Mary: ενικός και τύπος -ing.",
+    "explanation": "Mary + was writing. Αφαιρούμε το e πριν από το -ing."
+  },
+  {
+    "question": "She ___ just ___ (carry) the shopping into the kitchen.",
+    "options": [
+      "has — carryed",
+      "have — carried",
+      "has — carried",
+      "has — carrying"
+    ],
+    "correctIndex": 2,
+    "hint": "Πρόσφατη ολοκλήρωση και σύμφωνο + y.",
+    "explanation": "She + has carried. Σύμφωνο + y → ied."
+  },
+  {
+    "question": "When we ___ (get) to the cinema, we ___ (discover) that the film ___ already ___ (begin).",
+    "options": [
+      "got — discovered — had already began",
+      "got — discovered — has already begun",
+      "getted — discovered — had already begun",
+      "got — discovered — had already begun"
+    ],
+    "correctIndex": 3,
+    "hint": "Η έναρξη προηγήθηκε της άφιξης.",
+    "explanation": "Got / discovered: αόριστος. Had begun: προηγούμενη έναρξη."
+  },
+  {
+    "question": "We ___ (enjoy) the school trip last Friday.",
+    "options": [
+      "enjoied",
+      "enjoyed",
+      "have enjoyed",
+      "enjoyyed"
+    ],
+    "correctIndex": 1,
+    "hint": "Ποιο γράμμα προηγείται του y;",
+    "explanation": "Last Friday: Simple Past. Φωνήεν + y: enjoyed."
+  }
+]
