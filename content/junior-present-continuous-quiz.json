@@ -1,0 +1,158 @@
+[
+  {
+    "topic": "present-continuous",
+    "question": "Look! The children ___ (clap).",
+    "options": [
+      "are clapping",
+      "is clapping",
+      "are claping",
+      "clap"
+    ],
+    "correctIndex": 0,
+    "hint": "Χρειάζεται be και προσοχή στο τελικό p.",
+    "explanation": "Children + are. Clap → clapping με διπλό p."
+  },
+  {
+    "topic": "present-continuous",
+    "question": "I ___ (read) a story now.",
+    "options": [
+      "is reading",
+      "am reading",
+      "am read",
+      "are reading"
+    ],
+    "correctIndex": 1,
+    "hint": "Το now δείχνει πράξη σε εξέλιξη.",
+    "explanation": "I + am + reading."
+  },
+  {
+    "topic": "present-continuous",
+    "question": "She ___ (write) in her notebook now.",
+    "options": [
+      "is writeing",
+      "are writing",
+      "is writing",
+      "is write"
+    ],
+    "correctIndex": 2,
+    "hint": "Πρόσεξε το τελικό e του write.",
+    "explanation": "Write → writing, χωρίς το e."
+  },
+  {
+    "topic": "present-continuous",
+    "question": "The wolf ___ (run) now.",
+    "options": [
+      "is runing",
+      "are running",
+      "is run",
+      "is running"
+    ],
+    "correctIndex": 3,
+    "hint": "Το run έχει ένα τελικό φωνήεν και ένα σύμφωνο.",
+    "explanation": "Run → running με διπλό n."
+  },
+  {
+    "topic": "present-continuous",
+    "question": "They ___ (not / play) now.",
+    "options": [
+      "aren’t playing",
+      "isn’t playing",
+      "don’t playing",
+      "aren’t play"
+    ],
+    "correctIndex": 0,
+    "hint": "Η άρνηση σχηματίζεται με το be.",
+    "explanation": "They + are not + playing."
+  },
+  {
+    "topic": "present-continuous",
+    "question": "___ he ___ (fly) now?",
+    "options": [
+      "Does — flying",
+      "Is — flying",
+      "Are — flying",
+      "Is — fliing"
+    ],
+    "correctIndex": 1,
+    "hint": "Το fly κρατά το y πριν από το -ing.",
+    "explanation": "Is he flying? Fly → flying."
+  },
+  {
+    "topic": "present-continuous",
+    "question": "“Are you reading?” Απάντησε θετικά για τον εαυτό σου.",
+    "options": [
+      "Yes, I’m.",
+      "Yes, I do.",
+      "Yes, I am.",
+      "Yes, you are."
+    ],
+    "correctIndex": 2,
+    "hint": "Χρησιμοποίησε be στη σύντομη απάντηση.",
+    "explanation": "Are you reading? → Yes, I am."
+  },
+  {
+    "topic": "present-continuous",
+    "question": "“Is she singing?” Απάντησε αρνητικά.",
+    "options": [
+      "No, she doesn’t.",
+      "No, she hasn’t.",
+      "No, she aren’t.",
+      "No, she isn’t."
+    ],
+    "correctIndex": 3,
+    "hint": "Κράτησε το βοηθητικό ρήμα της ερώτησης.",
+    "explanation": "Is she…? → No, she isn’t."
+  },
+  {
+    "topic": "present-continuous",
+    "question": "Γράψε τον τύπο -ing του swim.",
+    "options": [
+      "swimming",
+      "swiming",
+      "swimying",
+      "swimminging"
+    ],
+    "correctIndex": 0,
+    "hint": "Έλεγξε το τελικό σύμφωνο.",
+    "explanation": "Swim → swimming με διπλό m."
+  },
+  {
+    "topic": "present-continuous",
+    "question": "Γράψε τον τύπο -ing του dance.",
+    "options": [
+      "danceing",
+      "dancing",
+      "dancinng",
+      "danccing"
+    ],
+    "correctIndex": 1,
+    "hint": "Το dance τελειώνει σε e.",
+    "explanation": "Αφαιρούμε το τελικό e: dancing."
+  },
+  {
+    "topic": "present-continuous",
+    "question": "Κάνε ερώτηση: You are drawing a giant.",
+    "options": [
+      "Do you drawing a giant?",
+      "You drawing are a giant?",
+      "Are you drawing a giant?",
+      "Is you drawing a giant?"
+    ],
+    "correctIndex": 2,
+    "hint": "Το be μπαίνει πριν από το υποκείμενο.",
+    "explanation": "Are + you + drawing…?"
+  },
+  {
+    "topic": "present-continuous",
+    "question": "Κάνε άρνηση: I am clapping.",
+    "options": [
+      "I don’t clapping.",
+      "I amn’t clapping.",
+      "I not am clap.",
+      "I’m not clapping."
+    ],
+    "correctIndex": 3,
+    "hint": "Το I am not έχει ιδιαίτερη σύντμηση.",
+    "explanation": "I am not clapping → I’m not clapping."
+  }
+]

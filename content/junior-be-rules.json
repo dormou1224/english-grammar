@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Το ρήμα be",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "I am, he/she/it is, you/we/they are. Το be περιγράφει ηλικία, χαρακτηριστικά και κατάσταση."
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Πρόσωπο",
+          "Κατάφαση",
+          "Άρνηση",
+          "Ερώτηση"
+        ],
+        "rows": [
+          [
+            "I",
+            "I am / I’m",
+            "I am not / I’m not",
+            "Am I?"
+          ],
+          [
+            "he / she / it",
+            "is / ’s",
+            "is not / isn’t",
+            "Is he/she/it?"
+          ],
+          [
+            "you / we / they",
+            "are / ’re",
+            "are not / aren’t",
+            "Are you/we/they?"
+          ]
+        ]
+      },
+      {
+        "type": "text",
+        "text": "Σύντομες απαντήσεις: Yes, I am. No, I’m not. Yes, she is. No, she isn’t. Δεν συντομεύουμε το be στο τέλος θετικής σύντομης απάντησης."
+      }
+    ]
+  }
+]

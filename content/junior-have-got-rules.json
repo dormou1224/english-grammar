@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Have got / has got",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "I/you/we/they have got. He/she/it has got. Χρησιμοποιείται για κατοχή και χαρακτηριστικά."
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Μορφή",
+          "Παράδειγμα"
+        ],
+        "rows": [
+          [
+            "Κατάφαση",
+            "She has got glasses. / She’s got glasses."
+          ],
+          [
+            "Άρνηση",
+            "She has not got glasses. / She hasn’t got glasses."
+          ],
+          [
+            "Ερώτηση",
+            "Has she got glasses?"
+          ],
+          [
+            "Θετική σύντομη απάντηση",
+            "Yes, she has."
+          ],
+          [
+            "Αρνητική σύντομη απάντηση",
+            "No, she hasn’t."
+          ]
+        ]
+      },
+      {
+        "type": "text",
+        "text": "Στις σύντομες απαντήσεις δεν βάζουμε got. Have you got a drum? → Yes, I have. / No, I haven’t."
+      }
+    ]
+  }
+]

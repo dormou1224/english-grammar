@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Κτητικά επίθετα",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "Δείχνουν σε ποιον ανήκει κάτι και μπαίνουν πριν από ουσιαστικό."
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Προσωπική αντωνυμία",
+          "Κτητικό επίθετο"
+        ],
+        "rows": [
+          [
+            "I",
+            "my"
+          ],
+          [
+            "you",
+            "your"
+          ],
+          [
+            "he",
+            "his"
+          ],
+          [
+            "she",
+            "her"
+          ],
+          [
+            "it",
+            "its"
+          ],
+          [
+            "we",
+            "our"
+          ],
+          [
+            "they",
+            "their"
+          ]
+        ]
+      },
+      {
+        "type": "text",
+        "text": "Its name is Rex. Its = του. It’s = it is ή it has. My hair, όχι I hair."
+      }
+    ]
+  }
+]

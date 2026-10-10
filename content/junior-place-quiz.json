@@ -1,0 +1,54 @@
+[
+  {
+    "topic": "place",
+    "question": "Η μπάλα είναι δίπλα στο κουτί: The ball is ___ the box.",
+    "options": [
+      "next to",
+      "behind",
+      "between",
+      "opposite"
+    ],
+    "correctIndex": 0,
+    "hint": "next to = δίπλα σε, behind = πίσω από, opposite = απέναντι από, between = ανάμεσα σε.",
+    "explanation": "next to = δίπλα σε, behind = πίσω από, opposite = απέναντι από, between = ανάμεσα σε."
+  },
+  {
+    "topic": "place",
+    "question": "Η γάτα είναι πίσω από την καρέκλα: The cat is ___ the chair.",
+    "options": [
+      "behind",
+      "opposite",
+      "between",
+      "next to"
+    ],
+    "correctIndex": 0,
+    "hint": "next to = δίπλα σε, behind = πίσω από, opposite = απέναντι από, between = ανάμεσα σε.",
+    "explanation": "next to = δίπλα σε, behind = πίσω από, opposite = απέναντι από, between = ανάμεσα σε."
+  },
+  {
+    "topic": "place",
+    "question": "Το σπίτι είναι απέναντι από το σχολείο: The house is ___ the school.",
+    "options": [
+      "opposite",
+      "behind",
+      "next to",
+      "between"
+    ],
+    "correctIndex": 0,
+    "hint": "next to = δίπλα σε, behind = πίσω από, opposite = απέναντι από, between = ανάμεσα σε.",
+    "explanation": "next to = δίπλα σε, behind = πίσω από, opposite = απέναντι από, between = ανάμεσα σε."
+  },
+  {
+    "topic": "place",
+    "question": "Το παιδί είναι ανάμεσα στα δύο δέντρα: The child is ___ the two trees.",
+    "options": [
+      "between",
+      "behind",
+      "opposite",
+      "next to"
+    ],
+    "correctIndex": 0,
+    "hint": "next to = δίπλα σε, behind = πίσω από, opposite = απέναντι από, between = ανάμεσα σε.",
+    "explanation": "next to = δίπλα σε, behind = πίσω από, opposite = απέναντι από, between = ανάμεσα σε."
+  }
+]

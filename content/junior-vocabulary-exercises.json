@@ -1,0 +1,471 @@
+[
+  {
+    "topic": "vocabulary",
+    "question": "Μετάφρασε στα ελληνικά: beautiful",
+    "answer": "όμορφος"
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Μετάφρασε στα ελληνικά: ugly",
+    "answer": "άσχημος"
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Μετάφρασε στα ελληνικά: old",
+    "answer": "ηλικιωμένος"
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Μετάφρασε στα ελληνικά: young",
+    "answer": "νέος"
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Μετάφρασε στα ελληνικά: brave",
+    "answer": "γενναίος"
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Μετάφρασε στα ελληνικά: poor",
+    "answer": "φτωχός"
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Μετάφρασε στα ελληνικά: kind",
+    "answer": "ευγενικός"
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Μετάφρασε στα ελληνικά: fat",
+    "answer": "χοντρός"
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Μετάφρασε στα ελληνικά: thin",
+    "answer": "αδύνατος"
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Μετάφρασε στα ελληνικά: tall",
+    "answer": "ψηλός"
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Μετάφρασε στα ελληνικά: short",
+    "answer": "κοντός"
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Μετάφρασε στα ελληνικά: giant",
+    "answer": "γίγαντας"
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Μετάφρασε στα ελληνικά: chicken",
+    "answer": "κότα"
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Μετάφρασε στα ελληνικά: sweet",
+    "answer": "γλυκός"
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Μετάφρασε στα ελληνικά: small",
+    "answer": "μικρός"
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Μετάφρασε στα ελληνικά: clever",
+    "answer": "έξυπνος"
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Μετάφρασε στα ελληνικά: long hair",
+    "answer": "μακριά μαλλιά"
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Μετάφρασε στα ελληνικά: fly",
+    "answer": "πετάω"
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Μετάφρασε στα ελληνικά: chef",
+    "answer": "σεφ"
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Μετάφρασε στα ελληνικά: cookbook",
+    "answer": "βιβλίο μαγειρικής"
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Μετάφρασε στα ελληνικά: straight hair",
+    "answer": "ίσια μαλλιά"
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Μετάφρασε στα ελληνικά: curly hair",
+    "answer": "σγουρά μαλλιά"
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Μετάφρασε στα ελληνικά: dark hair",
+    "answer": "σκουρόχρωμα μαλλιά"
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Μετάφρασε στα ελληνικά: fair hair",
+    "answer": "ανοιχτόχρωμα μαλλιά"
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Μετάφρασε στα ελληνικά: moustache",
+    "answer": "μουστάκι"
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Μετάφρασε στα ελληνικά: beard",
+    "answer": "μούσι"
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Μετάφρασε στα ελληνικά: freckles",
+    "answer": "φακίδες"
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Μετάφρασε στα ελληνικά: glasses",
+    "answer": "γυαλιά"
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Μετάφρασε στα ελληνικά: clothes",
+    "answer": "ρούχα"
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Μετάφρασε στα ελληνικά: wolf",
+    "answer": "λύκος"
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Μετάφρασε στα ελληνικά: happy",
+    "answer": "χαρούμενος"
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Μετάφρασε στα ελληνικά: sad",
+    "answer": "λυπημένος"
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Μετάφρασε στα ελληνικά: scared",
+    "answer": "τρομαγμένος"
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Μετάφρασε στα ελληνικά: bored",
+    "answer": "βαριεστημένος"
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Μετάφρασε στα ελληνικά: house",
+    "answer": "σπίτι"
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Μετάφρασε στα ελληνικά: king",
+    "answer": "βασιλιάς"
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Μετάφρασε στα ελληνικά: crown",
+    "answer": "στέμμα"
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Μετάφρασε στα ελληνικά: crab",
+    "answer": "καβούρι"
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Μετάφρασε στα ελληνικά: drum",
+    "answer": "τύμπανο"
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Μετάφρασε στα ελληνικά: story",
+    "answer": "ιστορία"
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Μετάφρασε στα ελληνικά: favourite",
+    "answer": "αγαπημένος"
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Μετάφρασε στα ελληνικά: World Book Day",
+    "answer": "Παγκόσμια Ημέρα Βιβλίου"
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Μετάφρασε στα ελληνικά: He’s over there.",
+    "answer": "Είναι εκεί πέρα."
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Μετάφρασε στα ελληνικά: Look at me!",
+    "answer": "Κοίταξέ με!"
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Μετάφρασε στα ελληνικά: That’s right!",
+    "answer": "Σωστά!"
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Μετάφρασε στα ελληνικά: What does he look like?",
+    "answer": "Πώς είναι η εξωτερική του εμφάνιση;"
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Μετάφρασε στα ελληνικά: What is he like?",
+    "answer": "Τι χαρακτήρα έχει;"
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Μετάφρασε στα ελληνικά: storybook character",
+    "answer": "ήρωας παραμυθιού"
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Μετάφρασε στα αγγλικά: Έχει σγουρά μαλλιά. (she)",
+    "answer": "She has got curly hair.",
+    "note": "Ενδεικτική λύση· πλήρεις και σωστοί σύντομοι τύποι είναι αποδεκτοί."
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Μετάφρασε στα αγγλικά: Τα μάτια του είναι πράσινα.",
+    "answer": "His eyes are green.",
+    "note": "Ενδεικτική λύση· πλήρεις και σωστοί σύντομοι τύποι είναι αποδεκτοί."
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Μετάφρασε στα αγγλικά: Δεν έχουν γυαλιά.",
+    "answer": "They haven’t got glasses.",
+    "note": "Ενδεικτική λύση· πλήρεις και σωστοί σύντομοι τύποι είναι αποδεκτοί."
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Μετάφρασε στα αγγλικά: Είναι ευγενική και έξυπνη.",
+    "answer": "She is kind and clever.",
+    "note": "Ενδεικτική λύση· πλήρεις και σωστοί σύντομοι τύποι είναι αποδεκτοί."
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Μετάφρασε στα αγγλικά: Διαβάζω ένα βιβλίο τώρα.",
+    "answer": "I am reading a book now.",
+    "note": "Ενδεικτική λύση· πλήρεις και σωστοί σύντομοι τύποι είναι αποδεκτοί."
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Μετάφρασε στα αγγλικά: Τα παιδιά χειροκροτούν τώρα.",
+    "answer": "The children are clapping now.",
+    "note": "Ενδεικτική λύση· πλήρεις και σωστοί σύντομοι τύποι είναι αποδεκτοί."
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Μετάφρασε στα αγγλικά: Δύο λύκοι και τρία παιδιά.",
+    "answer": "Two wolves and three children.",
+    "note": "Ενδεικτική λύση· πλήρεις και σωστοί σύντομοι τύποι είναι αποδεκτοί."
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Μετάφρασε στα αγγλικά: Έχεις μουστάκι;",
+    "answer": "Have you got a moustache?",
+    "note": "Ενδεικτική λύση· πλήρεις και σωστοί σύντομοι τύποι είναι αποδεκτοί."
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Μετάφρασε στα αγγλικά: Αυτή είναι η δική μας ιστορία.",
+    "answer": "This is our story.",
+    "note": "Ενδεικτική λύση· πλήρεις και σωστοί σύντομοι τύποι είναι αποδεκτοί."
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Μετάφρασε στα αγγλικά: Πώς είναι η εξωτερική του εμφάνιση;",
+    "answer": "What does he look like?",
+    "note": "Ενδεικτική λύση· πλήρεις και σωστοί σύντομοι τύποι είναι αποδεκτοί."
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Μετάφρασε στα αγγλικά: Τι χαρακτήρα έχει;",
+    "answer": "What is he like?",
+    "note": "Ενδεικτική λύση· πλήρεις και σωστοί σύντομοι τύποι είναι αποδεκτοί."
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Τι σημαίνει beautiful;",
+    "answer": "όμορφος",
+    "hint": "Σκέψου τη σημασία της λέξης στις περιγραφές."
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Τι σημαίνει ugly;",
+    "answer": "άσχημος",
+    "hint": "Σκέψου τη σημασία της λέξης στις περιγραφές."
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Τι σημαίνει old;",
+    "answer": "ηλικιωμένος",
+    "hint": "Σκέψου τη σημασία της λέξης στις περιγραφές."
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Τι σημαίνει young;",
+    "answer": "νέος",
+    "hint": "Σκέψου τη σημασία της λέξης στις περιγραφές."
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Τι σημαίνει brave;",
+    "answer": "γενναίος",
+    "hint": "Σκέψου τη σημασία της λέξης στις περιγραφές."
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Τι σημαίνει poor;",
+    "answer": "φτωχός",
+    "hint": "Σκέψου τη σημασία της λέξης στις περιγραφές."
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Τι σημαίνει kind;",
+    "answer": "ευγενικός",
+    "hint": "Σκέψου τη σημασία της λέξης στις περιγραφές."
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Τι σημαίνει fat;",
+    "answer": "χοντρός",
+    "hint": "Σκέψου τη σημασία της λέξης στις περιγραφές."
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Τι σημαίνει thin;",
+    "answer": "αδύνατος",
+    "hint": "Σκέψου τη σημασία της λέξης στις περιγραφές."
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Τι σημαίνει tall;",
+    "answer": "ψηλός",
+    "hint": "Σκέψου τη σημασία της λέξης στις περιγραφές."
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Τι σημαίνει short;",
+    "answer": "κοντός",
+    "hint": "Σκέψου τη σημασία της λέξης στις περιγραφές."
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Τι σημαίνει giant;",
+    "answer": "γίγαντας",
+    "hint": "Σκέψου τη σημασία της λέξης στις περιγραφές."
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Γράψε το αντίθετο: beautiful",
+    "answer": "ugly"
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Γράψε το αντίθετο: young",
+    "answer": "old"
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Γράψε το αντίθετο: tall",
+    "answer": "short"
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Γράψε το αντίθετο: thin",
+    "answer": "fat"
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Γράψε το αντίθετο: happy",
+    "answer": "sad"
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Διόρθωσε: Her are happy.",
+    "answer": "She is happy."
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Διόρθωσε: They has got a dog.",
+    "answer": "They have got a dog."
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Διόρθωσε: He is swiming.",
+    "answer": "He is swimming."
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Συμπλήρωσε br, cr ή dr: ___um",
+    "answer": "dr → drum"
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Συμπλήρωσε br, cr ή dr: ___ab",
+    "answer": "cr → crab"
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Συμπλήρωσε br, cr ή dr: ___own",
+    "answer": "br → brown"
+  },
+  {
+    "topic": "vocabulary",
+    "question": "How old is Mia?",
+    "answer": "She is nine years old.",
+    "passage": "Mia is nine years old. She is kind and clever. She has got long, curly hair and green eyes. Her favourite book is about a brave king. Today she is reading her book and her brother Leo is drawing a crown."
+  },
+  {
+    "topic": "vocabulary",
+    "question": "What is Mia like?",
+    "answer": "She is kind and clever.",
+    "passage": "Mia is nine years old. She is kind and clever. She has got long, curly hair and green eyes. Her favourite book is about a brave king. Today she is reading her book and her brother Leo is drawing a crown."
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Has Mia got straight hair?",
+    "answer": "No, she hasn’t. She has got curly hair.",
+    "passage": "Mia is nine years old. She is kind and clever. She has got long, curly hair and green eyes. Her favourite book is about a brave king. Today she is reading her book and her brother Leo is drawing a crown."
+  },
+  {
+    "topic": "vocabulary",
+    "question": "What colour are her eyes?",
+    "answer": "They are green.",
+    "passage": "Mia is nine years old. She is kind and clever. She has got long, curly hair and green eyes. Her favourite book is about a brave king. Today she is reading her book and her brother Leo is drawing a crown."
+  },
+  {
+    "topic": "vocabulary",
+    "question": "What is Mia doing today?",
+    "answer": "She is reading her book.",
+    "passage": "Mia is nine years old. She is kind and clever. She has got long, curly hair and green eyes. Her favourite book is about a brave king. Today she is reading her book and her brother Leo is drawing a crown."
+  },
+  {
+    "topic": "vocabulary",
+    "question": "What is Leo drawing?",
+    "answer": "He is drawing a crown.",
+    "passage": "Mia is nine years old. She is kind and clever. She has got long, curly hair and green eyes. Her favourite book is about a brave king. Today she is reading her book and her brother Leo is drawing a crown."
+  }
+]

@@ -1,0 +1,158 @@
+[
+  {
+    "topic": "vocabulary",
+    "question": "Τι σημαίνει beautiful;",
+    "options": [
+      "όμορφος",
+      "άσχημος",
+      "νέος",
+      "φτωχός"
+    ],
+    "correctIndex": 0,
+    "hint": "Σκέψου τη σημασία της λέξης στις περιγραφές.",
+    "explanation": "beautiful = όμορφος."
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Τι σημαίνει ugly;",
+    "options": [
+      "ηλικιωμένος",
+      "άσχημος",
+      "γενναίος",
+      "ευγενικός"
+    ],
+    "correctIndex": 1,
+    "hint": "Σκέψου τη σημασία της λέξης στις περιγραφές.",
+    "explanation": "ugly = άσχημος."
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Τι σημαίνει old;",
+    "options": [
+      "νέος",
+      "φτωχός",
+      "ηλικιωμένος",
+      "χοντρός"
+    ],
+    "correctIndex": 2,
+    "hint": "Σκέψου τη σημασία της λέξης στις περιγραφές.",
+    "explanation": "old = ηλικιωμένος."
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Τι σημαίνει young;",
+    "options": [
+      "γενναίος",
+      "ευγενικός",
+      "αδύνατος",
+      "νέος"
+    ],
+    "correctIndex": 3,
+    "hint": "Σκέψου τη σημασία της λέξης στις περιγραφές.",
+    "explanation": "young = νέος."
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Τι σημαίνει brave;",
+    "options": [
+      "γενναίος",
+      "φτωχός",
+      "χοντρός",
+      "ψηλός"
+    ],
+    "correctIndex": 0,
+    "hint": "Σκέψου τη σημασία της λέξης στις περιγραφές.",
+    "explanation": "brave = γενναίος."
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Τι σημαίνει poor;",
+    "options": [
+      "ευγενικός",
+      "φτωχός",
+      "αδύνατος",
+      "κοντός"
+    ],
+    "correctIndex": 1,
+    "hint": "Σκέψου τη σημασία της λέξης στις περιγραφές.",
+    "explanation": "poor = φτωχός."
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Τι σημαίνει kind;",
+    "options": [
+      "χοντρός",
+      "ψηλός",
+      "ευγενικός",
+      "γίγαντας"
+    ],
+    "correctIndex": 2,
+    "hint": "Σκέψου τη σημασία της λέξης στις περιγραφές.",
+    "explanation": "kind = ευγενικός."
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Τι σημαίνει fat;",
+    "options": [
+      "αδύνατος",
+      "κοντός",
+      "όμορφος",
+      "χοντρός"
+    ],
+    "correctIndex": 3,
+    "hint": "Σκέψου τη σημασία της λέξης στις περιγραφές.",
+    "explanation": "fat = χοντρός."
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Τι σημαίνει thin;",
+    "options": [
+      "αδύνατος",
+      "ψηλός",
+      "γίγαντας",
+      "άσχημος"
+    ],
+    "correctIndex": 0,
+    "hint": "Σκέψου τη σημασία της λέξης στις περιγραφές.",
+    "explanation": "thin = αδύνατος."
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Τι σημαίνει tall;",
+    "options": [
+      "κοντός",
+      "ψηλός",
+      "όμορφος",
+      "ηλικιωμένος"
+    ],
+    "correctIndex": 1,
+    "hint": "Σκέψου τη σημασία της λέξης στις περιγραφές.",
+    "explanation": "tall = ψηλός."
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Τι σημαίνει short;",
+    "options": [
+      "γίγαντας",
+      "άσχημος",
+      "κοντός",
+      "νέος"
+    ],
+    "correctIndex": 2,
+    "hint": "Σκέψου τη σημασία της λέξης στις περιγραφές.",
+    "explanation": "short = κοντός."
+  },
+  {
+    "topic": "vocabulary",
+    "question": "Τι σημαίνει giant;",
+    "options": [
+      "όμορφος",
+      "ηλικιωμένος",
+      "γενναίος",
+      "γίγαντας"
+    ],
+    "correctIndex": 3,
+    "hint": "Σκέψου τη σημασία της λέξης στις περιγραφές.",
+    "explanation": "giant = γίγαντας."
+  }
+]

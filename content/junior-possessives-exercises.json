@@ -1,0 +1,50 @@
+[
+  {
+    "topic": "possessives",
+    "question": "I am Anna. This is ___ book.",
+    "answer": "my",
+    "hint": "Η Άννα μιλά για τον εαυτό της."
+  },
+  {
+    "topic": "possessives",
+    "question": "This is Leo. ___ hair is dark.",
+    "answer": "His",
+    "hint": "Ο ιδιοκτήτης είναι ο Leo."
+  },
+  {
+    "topic": "possessives",
+    "question": "This is Emma. ___ eyes are green.",
+    "answer": "Her",
+    "hint": "Η Emma είναι το πρόσωπο που έχει τα μάτια."
+  },
+  {
+    "topic": "possessives",
+    "question": "We are sisters. This is ___ house.",
+    "answer": "our",
+    "hint": "Οι αδελφές μιλούν για το δικό τους σπίτι."
+  },
+  {
+    "topic": "possessives",
+    "question": "They are friends. ___ bags are blue.",
+    "answer": "Their",
+    "hint": "Οι τσάντες ανήκουν σε περισσότερα πρόσωπα."
+  },
+  {
+    "topic": "possessives",
+    "question": "This is my dog. ___ name is Rex.",
+    "answer": "Its",
+    "hint": "Χρειάζεται κτητικό επίθετο πριν από το name."
+  },
+  {
+    "topic": "possessives",
+    "question": "You have got a bike. ___ bike is red.",
+    "answer": "Your",
+    "hint": "Ο ιδιοκτήτης είναι το you."
+  },
+  {
+    "topic": "possessives",
+    "question": "Διάλεξε τη σωστή πρόταση.",
+    "answer": "Her hair is long.",
+    "hint": "Πριν από ουσιαστικό χρησιμοποιούμε κτητικό επίθετο."
+  }
+]

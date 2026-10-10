@@ -1,0 +1,669 @@
+[
+  {
+    "title": "Το ρήμα be",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "I am, he/she/it is, you/we/they are. Το be περιγράφει ηλικία, χαρακτηριστικά και κατάσταση."
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Πρόσωπο",
+          "Κατάφαση",
+          "Άρνηση",
+          "Ερώτηση"
+        ],
+        "rows": [
+          [
+            "I",
+            "I am / I’m",
+            "I am not / I’m not",
+            "Am I?"
+          ],
+          [
+            "he / she / it",
+            "is / ’s",
+            "is not / isn’t",
+            "Is he/she/it?"
+          ],
+          [
+            "you / we / they",
+            "are / ’re",
+            "are not / aren’t",
+            "Are you/we/they?"
+          ]
+        ]
+      },
+      {
+        "type": "text",
+        "text": "Σύντομες απαντήσεις: Yes, I am. No, I’m not. Yes, she is. No, she isn’t. Δεν συντομεύουμε το be στο τέλος θετικής σύντομης απάντησης."
+      }
+    ]
+  },
+  {
+    "title": "Κτητικά επίθετα",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "Δείχνουν σε ποιον ανήκει κάτι και μπαίνουν πριν από ουσιαστικό."
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Προσωπική αντωνυμία",
+          "Κτητικό επίθετο"
+        ],
+        "rows": [
+          [
+            "I",
+            "my"
+          ],
+          [
+            "you",
+            "your"
+          ],
+          [
+            "he",
+            "his"
+          ],
+          [
+            "she",
+            "her"
+          ],
+          [
+            "it",
+            "its"
+          ],
+          [
+            "we",
+            "our"
+          ],
+          [
+            "they",
+            "their"
+          ]
+        ]
+      },
+      {
+        "type": "text",
+        "text": "Its name is Rex. Its = του. It’s = it is ή it has. My hair, όχι I hair."
+      }
+    ]
+  },
+  {
+    "title": "Have got / has got",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "I/you/we/they have got. He/she/it has got. Χρησιμοποιείται για κατοχή και χαρακτηριστικά."
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Μορφή",
+          "Παράδειγμα"
+        ],
+        "rows": [
+          [
+            "Κατάφαση",
+            "She has got glasses. / She’s got glasses."
+          ],
+          [
+            "Άρνηση",
+            "She has not got glasses. / She hasn’t got glasses."
+          ],
+          [
+            "Ερώτηση",
+            "Has she got glasses?"
+          ],
+          [
+            "Θετική σύντομη απάντηση",
+            "Yes, she has."
+          ],
+          [
+            "Αρνητική σύντομη απάντηση",
+            "No, she hasn’t."
+          ]
+        ]
+      },
+      {
+        "type": "text",
+        "text": "Στις σύντομες απαντήσεις δεν βάζουμε got. Have you got a drum? → Yes, I have. / No, I haven’t."
+      }
+    ]
+  },
+  {
+    "title": "Present Continuous",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "Για πράξη σε εξέλιξη τώρα: am/is/are + ρήμα σε -ing. Ενδείξεις: now, right now, at the moment, Look!, Listen!"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Μορφή",
+          "Παράδειγμα"
+        ],
+        "rows": [
+          [
+            "Κατάφαση",
+            "I am clapping. / I’m clapping."
+          ],
+          [
+            "Άρνηση",
+            "I am not clapping. / I’m not clapping."
+          ],
+          [
+            "Ερώτηση",
+            "Am I clapping?"
+          ],
+          [
+            "Σύντομη απάντηση",
+            "Yes, I am. / No, I’m not."
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Πρόσωπο",
+          "Κατάφαση",
+          "Άρνηση",
+          "Ερώτηση"
+        ],
+        "rows": [
+          [
+            "I",
+            "I am clapping.",
+            "I am not clapping.",
+            "Am I clapping?"
+          ],
+          [
+            "You",
+            "You are clapping.",
+            "You are not clapping.",
+            "Are you clapping?"
+          ],
+          [
+            "He",
+            "He is clapping.",
+            "He is not clapping.",
+            "Is he clapping?"
+          ],
+          [
+            "She",
+            "She is clapping.",
+            "She is not clapping.",
+            "Is she clapping?"
+          ],
+          [
+            "It",
+            "It is clapping.",
+            "It is not clapping.",
+            "Is it clapping?"
+          ],
+          [
+            "We",
+            "We are clapping.",
+            "We are not clapping.",
+            "Are we clapping?"
+          ],
+          [
+            "They",
+            "They are clapping.",
+            "They are not clapping.",
+            "Are they clapping?"
+          ]
+        ]
+      },
+      {
+        "type": "text",
+        "text": "Are you reading? → Yes, I am. / No, I’m not. Is she singing? → Yes, she is. / No, she isn’t."
+      }
+    ]
+  },
+  {
+    "title": "Ορθογραφία του -ing",
+    "blocks": [
+      {
+        "type": "table",
+        "headers": [
+          "Κανόνας",
+          "Παραδείγματα"
+        ],
+        "rows": [
+          [
+            "Συνήθως προσθέτουμε -ing",
+            "read → reading, draw → drawing"
+          ],
+          [
+            "Τελικό e: το αφαιρούμε",
+            "write → writing, dance → dancing"
+          ],
+          [
+            "Σε απλά μονοσύλλαβα με ένα τελικό φωνήεν + ένα σύμφωνο, διπλασιάζουμε",
+            "clap → clapping, run → running, swim → swimming"
+          ],
+          [
+            "Το y παραμένει",
+            "fly → flying, play → playing"
+          ],
+          [
+            "Δεν διπλασιάζουμε w, x, y",
+            "draw → drawing, fix → fixing, play → playing"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Πληθυντικός ουσιαστικών",
+    "blocks": [
+      {
+        "type": "table",
+        "headers": [
+          "Κανόνας",
+          "Ενικός → πληθυντικός"
+        ],
+        "rows": [
+          [
+            "Συνήθως -s",
+            "book → books, king → kings, crown → crowns"
+          ],
+          [
+            "Τελικά s, ss, sh, ch, x: -es",
+            "bus → buses, class → classes, brush → brushes, watch → watches, box → boxes"
+          ],
+          [
+            "Σύμφωνο + y → ies",
+            "baby → babies, story → stories"
+          ],
+          [
+            "Φωνήεν + y: προσθέτουμε -s",
+            "boy → boys, toy → toys"
+          ],
+          [
+            "Ορισμένα f/fe → ves",
+            "wolf → wolves, leaf → leaves, knife → knives"
+          ],
+          [
+            "Δεν αλλάζουν όλα τα f σε v",
+            "chef → chefs, roof → roofs"
+          ],
+          [
+            "Ανώμαλοι",
+            "child → children, man → men, woman → women, foot → feet, tooth → teeth, mouse → mice"
+          ],
+          [
+            "Ίδιος τύπος",
+            "sheep → sheep, fish → fish (συνήθης χρήση)"
+          ]
+        ]
+      },
+      {
+        "type": "text",
+        "text": "Το a/an δεν μπαίνει μπροστά σε πληθυντικό: a book → books. This is a child. → These are children. Hair για τα μαλλιά είναι συνήθως μη μετρήσιμο: Her hair is long. Glasses και clothes χρησιμοποιούνται εδώ στον πληθυντικό."
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Ενικός",
+          "Πληθυντικός"
+        ],
+        "rows": [
+          [
+            "man",
+            "men"
+          ],
+          [
+            "woman",
+            "women"
+          ],
+          [
+            "child",
+            "children"
+          ],
+          [
+            "fish",
+            "fish"
+          ],
+          [
+            "mouse",
+            "mice"
+          ],
+          [
+            "sheep",
+            "sheep"
+          ],
+          [
+            "foot",
+            "feet"
+          ],
+          [
+            "tooth",
+            "teeth"
+          ],
+          [
+            "person",
+            "people"
+          ]
+        ]
+      },
+      {
+        "type": "text",
+        "text": "Πολλά ουσιαστικά σε -f / -fe γίνονται -ves (knife → knives), αλλά υπάρχουν εξαιρέσεις: chef → chefs. Σε -o: potato → potatoes, αλλά photo → photos. Μαθαίνουμε κάθε λέξη μαζί με τον πληθυντικό της."
+      }
+    ]
+  },
+  {
+    "title": "Εμφάνιση και χαρακτήρας",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "What does he look like? → εξωτερική εμφάνιση: He is tall. He has got dark hair. What is he like? → χαρακτήρας: He is kind and brave."
+      },
+      {
+        "type": "text",
+        "text": "Χρησιμοποιούμε το λεξιλόγιο για περιγραφές φανταστικών προσώπων και χαρακτήρων."
+      }
+    ]
+  },
+  {
+    "title": "Λεξιλόγιο και μεταφράσεις",
+    "blocks": [
+      {
+        "type": "table",
+        "headers": [
+          "English",
+          "Ελληνικά"
+        ],
+        "rows": [
+          [
+            "beautiful",
+            "όμορφος"
+          ],
+          [
+            "ugly",
+            "άσχημος"
+          ],
+          [
+            "old",
+            "ηλικιωμένος"
+          ],
+          [
+            "young",
+            "νέος"
+          ],
+          [
+            "brave",
+            "γενναίος"
+          ],
+          [
+            "poor",
+            "φτωχός"
+          ],
+          [
+            "kind",
+            "ευγενικός"
+          ],
+          [
+            "fat",
+            "χοντρός"
+          ],
+          [
+            "thin",
+            "αδύνατος"
+          ],
+          [
+            "tall",
+            "ψηλός"
+          ],
+          [
+            "short",
+            "κοντός"
+          ],
+          [
+            "giant",
+            "γίγαντας"
+          ],
+          [
+            "chicken",
+            "κότα"
+          ],
+          [
+            "sweet",
+            "γλυκός"
+          ],
+          [
+            "small",
+            "μικρός"
+          ],
+          [
+            "clever",
+            "έξυπνος"
+          ],
+          [
+            "long hair",
+            "μακριά μαλλιά"
+          ],
+          [
+            "fly",
+            "πετάω"
+          ],
+          [
+            "chef",
+            "σεφ"
+          ],
+          [
+            "cookbook",
+            "βιβλίο μαγειρικής"
+          ],
+          [
+            "straight hair",
+            "ίσια μαλλιά"
+          ],
+          [
+            "curly hair",
+            "σγουρά μαλλιά"
+          ],
+          [
+            "dark hair",
+            "σκουρόχρωμα μαλλιά"
+          ],
+          [
+            "fair hair",
+            "ανοιχτόχρωμα μαλλιά"
+          ],
+          [
+            "moustache",
+            "μουστάκι"
+          ],
+          [
+            "beard",
+            "μούσι"
+          ],
+          [
+            "freckles",
+            "φακίδες"
+          ],
+          [
+            "glasses",
+            "γυαλιά"
+          ],
+          [
+            "clothes",
+            "ρούχα"
+          ],
+          [
+            "wolf",
+            "λύκος"
+          ],
+          [
+            "happy",
+            "χαρούμενος"
+          ],
+          [
+            "sad",
+            "λυπημένος"
+          ],
+          [
+            "scared",
+            "τρομαγμένος"
+          ],
+          [
+            "bored",
+            "βαριεστημένος"
+          ],
+          [
+            "house",
+            "σπίτι"
+          ],
+          [
+            "king",
+            "βασιλιάς"
+          ],
+          [
+            "crown",
+            "στέμμα"
+          ],
+          [
+            "crab",
+            "καβούρι"
+          ],
+          [
+            "drum",
+            "τύμπανο"
+          ],
+          [
+            "story",
+            "ιστορία"
+          ],
+          [
+            "favourite",
+            "αγαπημένος"
+          ],
+          [
+            "World Book Day",
+            "Παγκόσμια Ημέρα Βιβλίου"
+          ],
+          [
+            "He’s over there.",
+            "Είναι εκεί πέρα."
+          ],
+          [
+            "Look at me!",
+            "Κοίταξέ με!"
+          ],
+          [
+            "That’s right!",
+            "Σωστά!"
+          ],
+          [
+            "What does he look like?",
+            "Πώς είναι η εξωτερική του εμφάνιση;"
+          ],
+          [
+            "What is he like?",
+            "Τι χαρακτήρα έχει;"
+          ],
+          [
+            "storybook character",
+            "ήρωας παραμυθιού"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Can — Μπορώ",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "Το can δείχνει ικανότητα και είναι ίδιο σε όλα τα πρόσωπα. Μετά βάζουμε το βασικό ρήμα χωρίς to: She can swim. Άρνηση: She cannot swim / She can’t swim. Ερώτηση: Can she swim? Σύντομη απάντηση: Yes, she can. / No, she can’t."
+      }
+    ]
+  },
+  {
+    "title": "Προσωπικές αντωνυμίες",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "Οι αντωνυμίες υποκειμένου δηλώνουν ποιος κάνει την πράξη. Οι αντωνυμίες αντικειμένου χρησιμοποιούνται ως αντικείμενο ρήματος ή μετά από πρόθεση: I see her. / Look at him."
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Υποκείμενο",
+          "Αντικείμενο"
+        ],
+        "rows": [
+          [
+            "I",
+            "me"
+          ],
+          [
+            "you",
+            "you"
+          ],
+          [
+            "he",
+            "him"
+          ],
+          [
+            "she",
+            "her"
+          ],
+          [
+            "it",
+            "it"
+          ],
+          [
+            "we",
+            "us"
+          ],
+          [
+            "they",
+            "them"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Προθέσεις τόπου",
+    "blocks": [
+      {
+        "type": "table",
+        "headers": [
+          "Αγγλικά",
+          "Ελληνικά",
+          "Παράδειγμα"
+        ],
+        "rows": [
+          [
+            "next to",
+            "δίπλα σε",
+            "The chair is next to the table."
+          ],
+          [
+            "opposite",
+            "απέναντι από",
+            "The house is opposite the school."
+          ],
+          [
+            "behind",
+            "πίσω από",
+            "The cat is behind the box."
+          ],
+          [
+            "between",
+            "ανάμεσα σε",
+            "The ball is between the chairs."
+          ]
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "topic": "be",
+    "question": "I ___ nine years old.",
+    "options": [
+      "am",
+      "is",
+      "are",
+      "has"
+    ],
+    "correctIndex": 0,
+    "hint": "Ποιος τύπος του be ταιριάζει με το I;",
+    "explanation": "I + am."
+  },
+  {
+    "topic": "be",
+    "question": "The giant ___ tall.",
+    "options": [
+      "am",
+      "is",
+      "are",
+      "have"
+    ],
+    "correctIndex": 1,
+    "hint": "Το giant είναι ενικός.",
+    "explanation": "He / she / it και ενικό ουσιαστικό + is."
+  },
+  {
+    "topic": "be",
+    "question": "The children ___ happy.",
+    "options": [
+      "is",
+      "am",
+      "are",
+      "has"
+    ],
+    "correctIndex": 2,
+    "hint": "Σκέψου αν μιλάμε για ένα ή πολλά παιδιά.",
+    "explanation": "Children είναι πληθυντικός: are."
+  },
+  {
+    "topic": "be",
+    "question": "___ she kind?",
+    "options": [
+      "Are",
+      "Am",
+      "Has",
+      "Is"
+    ],
+    "correctIndex": 3,
+    "hint": "Η ερώτηση αφορά χαρακτηριστικό.",
+    "explanation": "Στις ερωτήσεις με be βάζουμε is πριν από το she."
+  },
+  {
+    "topic": "be",
+    "question": "“Are they young?” Απάντησε αρνητικά.",
+    "options": [
+      "No, they aren’t.",
+      "No, they isn’t.",
+      "No, they haven’t.",
+      "No, they are."
+    ],
+    "correctIndex": 0,
+    "hint": "Χρησιμοποίησε το ίδιο βοηθητικό ρήμα της ερώτησης.",
+    "explanation": "Are they…? → No, they aren’t."
+  },
+  {
+    "topic": "be",
+    "question": "“Is he brave?” Απάντησε θετικά.",
+    "options": [
+      "Yes, he’s.",
+      "Yes, he is.",
+      "Yes, he has.",
+      "Yes, he are."
+    ],
+    "correctIndex": 1,
+    "hint": "Στη θετική σύντομη απάντηση δεν συντομεύουμε το be.",
+    "explanation": "Yes, he is. Δεν γράφουμε Yes, he’s."
+  },
+  {
+    "topic": "be",
+    "question": "Κάνε σύντομο τύπο: I am not sad.",
+    "options": [
+      "I amn’t sad.",
+      "I isn’t sad.",
+      "I’m not sad.",
+      "I aren’t sad."
+    ],
+    "correctIndex": 2,
+    "hint": "Η άρνηση του I am έχει ιδιαίτερο σύντομο τύπο.",
+    "explanation": "I am not → I’m not."
+  },
+  {
+    "topic": "be",
+    "question": "Διόρθωσε: We is brothers.",
+    "options": [
+      "We am brothers.",
+      "We has brothers.",
+      "We is brother.",
+      "We are brothers."
+    ],
+    "correctIndex": 3,
+    "hint": "Το υποκείμενο είναι we.",
+    "explanation": "We + are."
+  }
+]

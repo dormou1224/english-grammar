@@ -1,0 +1,163 @@
+[
+  {
+    "topic": "plurals",
+    "question": "Γράψε τον πληθυντικό: book",
+    "answer": "books",
+    "hint": "Συνήθως προσθέτουμε -s."
+  },
+  {
+    "topic": "plurals",
+    "question": "Γράψε τον πληθυντικό: box",
+    "answer": "boxes",
+    "hint": "Το box τελειώνει σε x."
+  },
+  {
+    "topic": "plurals",
+    "question": "Γράψε τον πληθυντικό: baby",
+    "answer": "babies",
+    "hint": "Έλεγξε το γράμμα πριν από το y."
+  },
+  {
+    "topic": "plurals",
+    "question": "Γράψε τον πληθυντικό: boy",
+    "answer": "boys",
+    "hint": "Πριν από το y υπάρχει φωνήεν."
+  },
+  {
+    "topic": "plurals",
+    "question": "Γράψε τον πληθυντικό: wolf",
+    "answer": "wolves",
+    "hint": "Ο πληθυντικός αλλάζει το τελικό f."
+  },
+  {
+    "topic": "plurals",
+    "question": "Γράψε τον πληθυντικό: child",
+    "answer": "children",
+    "hint": "Πρόκειται για ανώμαλο πληθυντικό."
+  },
+  {
+    "topic": "plurals",
+    "question": "Γράψε τον πληθυντικό: man",
+    "answer": "men",
+    "hint": "Πρόκειται για ανώμαλο πληθυντικό."
+  },
+  {
+    "topic": "plurals",
+    "question": "Γράψε τον πληθυντικό: woman",
+    "answer": "women",
+    "hint": "Άλλαξε το εσωτερικό φωνήεν."
+  },
+  {
+    "topic": "plurals",
+    "question": "Γράψε τον πληθυντικό: foot",
+    "answer": "feet",
+    "hint": "Πρόκειται για ανώμαλο πληθυντικό."
+  },
+  {
+    "topic": "plurals",
+    "question": "Γράψε τον πληθυντικό: tooth",
+    "answer": "teeth",
+    "hint": "Πρόκειται για ανώμαλο πληθυντικό."
+  },
+  {
+    "topic": "plurals",
+    "question": "Γράψε τον πληθυντικό: mouse",
+    "answer": "mice",
+    "hint": "Πρόκειται για ανώμαλο πληθυντικό."
+  },
+  {
+    "topic": "plurals",
+    "question": "Γράψε τον πληθυντικό: sheep",
+    "answer": "sheep",
+    "hint": "Ο τύπος είναι ίδιος στον ενικό και στον πληθυντικό."
+  },
+  {
+    "topic": "plurals",
+    "question": "Γράψε τον πληθυντικό: man",
+    "answer": "men",
+    "hint": "Πρόκειται για ανώμαλο πληθυντικό."
+  },
+  {
+    "topic": "plurals",
+    "question": "Γράψε τον πληθυντικό: woman",
+    "answer": "women",
+    "hint": "Άλλαξε το εσωτερικό φωνήεν."
+  },
+  {
+    "topic": "plurals",
+    "question": "Γράψε τον πληθυντικό: child",
+    "answer": "children",
+    "hint": "Πρόκειται για ανώμαλο πληθυντικό."
+  },
+  {
+    "topic": "plurals",
+    "question": "Γράψε τον πληθυντικό: fish",
+    "answer": "fish"
+  },
+  {
+    "topic": "plurals",
+    "question": "Γράψε τον πληθυντικό: mouse",
+    "answer": "mice",
+    "hint": "Πρόκειται για ανώμαλο πληθυντικό."
+  },
+  {
+    "topic": "plurals",
+    "question": "Γράψε τον πληθυντικό: sheep",
+    "answer": "sheep",
+    "hint": "Ο τύπος είναι ίδιος στον ενικό και στον πληθυντικό."
+  },
+  {
+    "topic": "plurals",
+    "question": "Γράψε τον πληθυντικό: foot",
+    "answer": "feet",
+    "hint": "Πρόκειται για ανώμαλο πληθυντικό."
+  },
+  {
+    "topic": "plurals",
+    "question": "Γράψε τον πληθυντικό: tooth",
+    "answer": "teeth",
+    "hint": "Πρόκειται για ανώμαλο πληθυντικό."
+  },
+  {
+    "topic": "plurals",
+    "question": "Γράψε τον πληθυντικό: person",
+    "answer": "people"
+  },
+  {
+    "topic": "plurals",
+    "question": "Γράψε τον πληθυντικό: glass",
+    "answer": "glasses"
+  },
+  {
+    "topic": "plurals",
+    "question": "Γράψε τον πληθυντικό: dish",
+    "answer": "dishes"
+  },
+  {
+    "topic": "plurals",
+    "question": "Γράψε τον πληθυντικό: watch",
+    "answer": "watches"
+  },
+  {
+    "topic": "plurals",
+    "question": "Γράψε τον πληθυντικό: potato",
+    "answer": "potatoes"
+  },
+  {
+    "topic": "plurals",
+    "question": "Γράψε τον πληθυντικό: knife",
+    "answer": "knives"
+  },
+  {
+    "topic": "plurals",
+    "question": "Γράψε τον πληθυντικό: baby",
+    "answer": "babies",
+    "hint": "Έλεγξε το γράμμα πριν από το y."
+  },
+  {
+    "topic": "plurals",
+    "question": "Γράψε τον πληθυντικό: boy",
+    "answer": "boys",
+    "hint": "Πριν από το y υπάρχει φωνήεν."
+  }
+]

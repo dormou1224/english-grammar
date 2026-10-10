@@ -1,0 +1,106 @@
+[
+  {
+    "topic": "have-got",
+    "question": "She ___ got curly hair.",
+    "options": [
+      "has",
+      "have",
+      "is",
+      "are"
+    ],
+    "correctIndex": 0,
+    "hint": "Σκέψου ποιον τύπο παίρνει το she.",
+    "explanation": "He / she / it + has got."
+  },
+  {
+    "topic": "have-got",
+    "question": "We ___ got a cookbook.",
+    "options": [
+      "has",
+      "have",
+      "are",
+      "is"
+    ],
+    "correctIndex": 1,
+    "hint": "Το υποκείμενο είναι we.",
+    "explanation": "I / you / we / they + have got."
+  },
+  {
+    "topic": "have-got",
+    "question": "He has got dark hair, not fair hair. He ___ got fair hair.",
+    "options": [
+      "haven’t",
+      "isn’t",
+      "hasn’t",
+      "aren’t"
+    ],
+    "correctIndex": 2,
+    "hint": "Κράτησε τη δομή have got στην άρνηση.",
+    "explanation": "He + hasn’t got."
+  },
+  {
+    "topic": "have-got",
+    "question": "___ they got glasses?",
+    "options": [
+      "Has",
+      "Are",
+      "Is",
+      "Have"
+    ],
+    "correctIndex": 3,
+    "hint": "Η ερώτηση αφορά κατοχή.",
+    "explanation": "Have they got…?"
+  },
+  {
+    "topic": "have-got",
+    "question": "“Has she got freckles?” Απάντησε θετικά.",
+    "options": [
+      "Yes, she has.",
+      "Yes, she has got.",
+      "Yes, she is.",
+      "Yes, she have."
+    ],
+    "correctIndex": 0,
+    "hint": "Στη σύντομη απάντηση παραλείπουμε το got.",
+    "explanation": "Has she got…? → Yes, she has."
+  },
+  {
+    "topic": "have-got",
+    "question": "“Have you got a drum?” Απάντησε αρνητικά για τον εαυτό σου.",
+    "options": [
+      "No, you haven’t.",
+      "No, I haven’t.",
+      "No, I hasn’t.",
+      "No, I’m not."
+    ],
+    "correctIndex": 1,
+    "hint": "Η ερώτηση απευθύνεται σε εσένα· απαντάς με I.",
+    "explanation": "Have you got…? → No, I haven’t."
+  },
+  {
+    "topic": "have-got",
+    "question": "Κάνε σύντομο τύπο: He has got a beard.",
+    "options": [
+      "He’ve got a beard.",
+      "He’s a got beard.",
+      "He’s got a beard.",
+      "He got’s a beard."
+    ],
+    "correctIndex": 2,
+    "hint": "Το has συντομεύεται μετά το he.",
+    "explanation": "He has got → He’s got."
+  },
+  {
+    "topic": "have-got",
+    "question": "Διάλεξε τη σωστή ερώτηση.",
+    "options": [
+      "Have your dad got a moustache?",
+      "Is your dad got a moustache?",
+      "Your dad has got a moustache?",
+      "Has your dad got a moustache?"
+    ],
+    "correctIndex": 3,
+    "hint": "Στη γραπτή άσκηση θέλουμε την κανονική σειρά ερώτησης.",
+    "explanation": "Has + ενικό υποκείμενο + got."
+  }
+]

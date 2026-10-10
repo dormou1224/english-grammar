@@ -1,0 +1,48 @@
+[
+  {
+    "topic": "can",
+    "question": "She ___ swim very well.",
+    "answer": "can",
+    "hint": "Το can είναι ίδιο για όλα τα πρόσωπα και ακολουθείται από το ρήμα χωρίς to ή -ing. Ερώτηση: Can + πρόσωπο + ρήμα; Άρνηση: cannot / can’t."
+  },
+  {
+    "topic": "can",
+    "question": "Can he fly? Απάντησε αρνητικά.",
+    "answer": "No, he can’t.",
+    "hint": "Το can είναι ίδιο για όλα τα πρόσωπα και ακολουθείται από το ρήμα χωρίς to ή -ing. Ερώτηση: Can + πρόσωπο + ρήμα; Άρνηση: cannot / can’t."
+  },
+  {
+    "topic": "can",
+    "question": "Can they play the piano? Απάντησε θετικά.",
+    "answer": "Yes, they can.",
+    "hint": "Το can είναι ίδιο για όλα τα πρόσωπα και ακολουθείται από το ρήμα χωρίς to ή -ing. Ερώτηση: Can + πρόσωπο + ρήμα; Άρνηση: cannot / can’t."
+  },
+  {
+    "topic": "can",
+    "question": "He can ___ a picture.",
+    "answer": "draw",
+    "hint": "Το can είναι ίδιο για όλα τα πρόσωπα και ακολουθείται από το ρήμα χωρίς to ή -ing. Ερώτηση: Can + πρόσωπο + ρήμα; Άρνηση: cannot / can’t."
+  },
+  {
+    "topic": "can",
+    "question": "Κάνε ερώτηση: You can dance.",
+    "answer": "Can you dance?",
+    "hint": "Το can είναι ίδιο για όλα τα πρόσωπα και ακολουθείται από το ρήμα χωρίς to ή -ing. Ερώτηση: Can + πρόσωπο + ρήμα; Άρνηση: cannot / can’t."
+  },
+  {
+    "topic": "can",
+    "question": "Γράψε τον σύντομο τύπο: cannot",
+    "answer": "can’t",
+    "hint": "Το can είναι ίδιο για όλα τα πρόσωπα και ακολουθείται από το ρήμα χωρίς to ή -ing. Ερώτηση: Can + πρόσωπο + ρήμα; Άρνηση: cannot / can’t."
+  },
+  {
+    "topic": "can",
+    "question": "Μετάφρασε στα αγγλικά: Μπορείς να κολυμπήσεις;",
+    "answer": "Can you swim?"
+  },
+  {
+    "topic": "can",
+    "question": "Μετάφρασε στα αγγλικά: Δεν μπορώ να πετάξω.",
+    "answer": "I cannot fly. / I can’t fly."
+  }
+]

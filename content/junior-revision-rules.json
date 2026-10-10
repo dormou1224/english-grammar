@@ -1,0 +1,433 @@
+[
+  {
+    "title": "Το ρήμα be",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "I am, he/she/it is, you/we/they are. Το be περιγράφει ηλικία, χαρακτηριστικά και κατάσταση."
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Πρόσωπο",
+          "Κατάφαση",
+          "Άρνηση",
+          "Ερώτηση"
+        ],
+        "rows": [
+          [
+            "I",
+            "I am / I’m",
+            "I am not / I’m not",
+            "Am I?"
+          ],
+          [
+            "he / she / it",
+            "is / ’s",
+            "is not / isn’t",
+            "Is he/she/it?"
+          ],
+          [
+            "you / we / they",
+            "are / ’re",
+            "are not / aren’t",
+            "Are you/we/they?"
+          ]
+        ]
+      },
+      {
+        "type": "text",
+        "text": "Σύντομες απαντήσεις: Yes, I am. No, I’m not. Yes, she is. No, she isn’t. Δεν συντομεύουμε το be στο τέλος θετικής σύντομης απάντησης."
+      }
+    ]
+  },
+  {
+    "title": "Κτητικά επίθετα",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "Δείχνουν σε ποιον ανήκει κάτι και μπαίνουν πριν από ουσιαστικό."
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Προσωπική αντωνυμία",
+          "Κτητικό επίθετο"
+        ],
+        "rows": [
+          [
+            "I",
+            "my"
+          ],
+          [
+            "you",
+            "your"
+          ],
+          [
+            "he",
+            "his"
+          ],
+          [
+            "she",
+            "her"
+          ],
+          [
+            "it",
+            "its"
+          ],
+          [
+            "we",
+            "our"
+          ],
+          [
+            "they",
+            "their"
+          ]
+        ]
+      },
+      {
+        "type": "text",
+        "text": "Its name is Rex. Its = του. It’s = it is ή it has. My hair, όχι I hair."
+      }
+    ]
+  },
+  {
+    "title": "Have got / has got",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "I/you/we/they have got. He/she/it has got. Χρησιμοποιείται για κατοχή και χαρακτηριστικά."
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Μορφή",
+          "Παράδειγμα"
+        ],
+        "rows": [
+          [
+            "Κατάφαση",
+            "She has got glasses. / She’s got glasses."
+          ],
+          [
+            "Άρνηση",
+            "She has not got glasses. / She hasn’t got glasses."
+          ],
+          [
+            "Ερώτηση",
+            "Has she got glasses?"
+          ],
+          [
+            "Θετική σύντομη απάντηση",
+            "Yes, she has."
+          ],
+          [
+            "Αρνητική σύντομη απάντηση",
+            "No, she hasn’t."
+          ]
+        ]
+      },
+      {
+        "type": "text",
+        "text": "Στις σύντομες απαντήσεις δεν βάζουμε got. Have you got a drum? → Yes, I have. / No, I haven’t."
+      }
+    ]
+  },
+  {
+    "title": "Present Continuous",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "Για πράξη σε εξέλιξη τώρα: am/is/are + ρήμα σε -ing. Ενδείξεις: now, right now, at the moment, Look!, Listen!"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Μορφή",
+          "Παράδειγμα"
+        ],
+        "rows": [
+          [
+            "Κατάφαση",
+            "I am clapping. / I’m clapping."
+          ],
+          [
+            "Άρνηση",
+            "I am not clapping. / I’m not clapping."
+          ],
+          [
+            "Ερώτηση",
+            "Am I clapping?"
+          ],
+          [
+            "Σύντομη απάντηση",
+            "Yes, I am. / No, I’m not."
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Πρόσωπο",
+          "Κατάφαση",
+          "Άρνηση",
+          "Ερώτηση"
+        ],
+        "rows": [
+          [
+            "I",
+            "I am clapping.",
+            "I am not clapping.",
+            "Am I clapping?"
+          ],
+          [
+            "You",
+            "You are clapping.",
+            "You are not clapping.",
+            "Are you clapping?"
+          ],
+          [
+            "He",
+            "He is clapping.",
+            "He is not clapping.",
+            "Is he clapping?"
+          ],
+          [
+            "She",
+            "She is clapping.",
+            "She is not clapping.",
+            "Is she clapping?"
+          ],
+          [
+            "It",
+            "It is clapping.",
+            "It is not clapping.",
+            "Is it clapping?"
+          ],
+          [
+            "We",
+            "We are clapping.",
+            "We are not clapping.",
+            "Are we clapping?"
+          ],
+          [
+            "They",
+            "They are clapping.",
+            "They are not clapping.",
+            "Are they clapping?"
+          ]
+        ]
+      },
+      {
+        "type": "text",
+        "text": "Are you reading? → Yes, I am. / No, I’m not. Is she singing? → Yes, she is. / No, she isn’t."
+      }
+    ]
+  },
+  {
+    "title": "Λεξιλόγιο και μεταφράσεις",
+    "blocks": [
+      {
+        "type": "table",
+        "headers": [
+          "English",
+          "Ελληνικά"
+        ],
+        "rows": [
+          [
+            "beautiful",
+            "όμορφος"
+          ],
+          [
+            "ugly",
+            "άσχημος"
+          ],
+          [
+            "old",
+            "ηλικιωμένος"
+          ],
+          [
+            "young",
+            "νέος"
+          ],
+          [
+            "brave",
+            "γενναίος"
+          ],
+          [
+            "poor",
+            "φτωχός"
+          ],
+          [
+            "kind",
+            "ευγενικός"
+          ],
+          [
+            "fat",
+            "χοντρός"
+          ],
+          [
+            "thin",
+            "αδύνατος"
+          ],
+          [
+            "tall",
+            "ψηλός"
+          ],
+          [
+            "short",
+            "κοντός"
+          ],
+          [
+            "giant",
+            "γίγαντας"
+          ],
+          [
+            "chicken",
+            "κότα"
+          ],
+          [
+            "sweet",
+            "γλυκός"
+          ],
+          [
+            "small",
+            "μικρός"
+          ],
+          [
+            "clever",
+            "έξυπνος"
+          ],
+          [
+            "long hair",
+            "μακριά μαλλιά"
+          ],
+          [
+            "fly",
+            "πετάω"
+          ],
+          [
+            "chef",
+            "σεφ"
+          ],
+          [
+            "cookbook",
+            "βιβλίο μαγειρικής"
+          ],
+          [
+            "straight hair",
+            "ίσια μαλλιά"
+          ],
+          [
+            "curly hair",
+            "σγουρά μαλλιά"
+          ],
+          [
+            "dark hair",
+            "σκουρόχρωμα μαλλιά"
+          ],
+          [
+            "fair hair",
+            "ανοιχτόχρωμα μαλλιά"
+          ],
+          [
+            "moustache",
+            "μουστάκι"
+          ],
+          [
+            "beard",
+            "μούσι"
+          ],
+          [
+            "freckles",
+            "φακίδες"
+          ],
+          [
+            "glasses",
+            "γυαλιά"
+          ],
+          [
+            "clothes",
+            "ρούχα"
+          ],
+          [
+            "wolf",
+            "λύκος"
+          ],
+          [
+            "happy",
+            "χαρούμενος"
+          ],
+          [
+            "sad",
+            "λυπημένος"
+          ],
+          [
+            "scared",
+            "τρομαγμένος"
+          ],
+          [
+            "bored",
+            "βαριεστημένος"
+          ],
+          [
+            "house",
+            "σπίτι"
+          ],
+          [
+            "king",
+            "βασιλιάς"
+          ],
+          [
+            "crown",
+            "στέμμα"
+          ],
+          [
+            "crab",
+            "καβούρι"
+          ],
+          [
+            "drum",
+            "τύμπανο"
+          ],
+          [
+            "story",
+            "ιστορία"
+          ],
+          [
+            "favourite",
+            "αγαπημένος"
+          ],
+          [
+            "World Book Day",
+            "Παγκόσμια Ημέρα Βιβλίου"
+          ],
+          [
+            "He’s over there.",
+            "Είναι εκεί πέρα."
+          ],
+          [
+            "Look at me!",
+            "Κοίταξέ με!"
+          ],
+          [
+            "That’s right!",
+            "Σωστά!"
+          ],
+          [
+            "What does he look like?",
+            "Πώς είναι η εξωτερική του εμφάνιση;"
+          ],
+          [
+            "What is he like?",
+            "Τι χαρακτήρα έχει;"
+          ],
+          [
+            "storybook character",
+            "ήρωας παραμυθιού"
+          ]
+        ]
+      }
+    ]
+  }
+]

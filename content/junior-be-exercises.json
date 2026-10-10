@@ -1,0 +1,50 @@
+[
+  {
+    "topic": "be",
+    "question": "I ___ nine years old.",
+    "answer": "am",
+    "hint": "Ποιος τύπος του be ταιριάζει με το I;"
+  },
+  {
+    "topic": "be",
+    "question": "The giant ___ tall.",
+    "answer": "is",
+    "hint": "Το giant είναι ενικός."
+  },
+  {
+    "topic": "be",
+    "question": "The children ___ happy.",
+    "answer": "are",
+    "hint": "Σκέψου αν μιλάμε για ένα ή πολλά παιδιά."
+  },
+  {
+    "topic": "be",
+    "question": "___ she kind?",
+    "answer": "Is",
+    "hint": "Η ερώτηση αφορά χαρακτηριστικό."
+  },
+  {
+    "topic": "be",
+    "question": "“Are they young?” Απάντησε αρνητικά.",
+    "answer": "No, they aren’t.",
+    "hint": "Χρησιμοποίησε το ίδιο βοηθητικό ρήμα της ερώτησης."
+  },
+  {
+    "topic": "be",
+    "question": "“Is he brave?” Απάντησε θετικά.",
+    "answer": "Yes, he is.",
+    "hint": "Στη θετική σύντομη απάντηση δεν συντομεύουμε το be."
+  },
+  {
+    "topic": "be",
+    "question": "Κάνε σύντομο τύπο: I am not sad.",
+    "answer": "I’m not sad.",
+    "hint": "Η άρνηση του I am έχει ιδιαίτερο σύντομο τύπο."
+  },
+  {
+    "topic": "be",
+    "question": "Διόρθωσε: We is brothers.",
+    "answer": "We are brothers.",
+    "hint": "Το υποκείμενο είναι we."
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "topic": "pronouns",
+    "question": "Anna is kind. ___ is my friend.",
+    "answer": "She",
+    "hint": "Υποκείμενο: I, you, he, she, it, we, they. Αντικείμενο μετά από ρήμα ή πρόθεση: me, you, him, her, it, us, them."
+  },
+  {
+    "topic": "pronouns",
+    "question": "Look at the boys! Look at ___.",
+    "answer": "them",
+    "hint": "Υποκείμενο: I, you, he, she, it, we, they. Αντικείμενο μετά από ρήμα ή πρόθεση: me, you, him, her, it, us, them."
+  },
+  {
+    "topic": "pronouns",
+    "question": "Give Tom the ball. Give ___ the ball.",
+    "answer": "him",
+    "hint": "Υποκείμενο: I, you, he, she, it, we, they. Αντικείμενο μετά από ρήμα ή πρόθεση: me, you, him, her, it, us, them."
+  },
+  {
+    "topic": "pronouns",
+    "question": "My sister and I are happy. ___ are happy.",
+    "answer": "We",
+    "hint": "Υποκείμενο: I, you, he, she, it, we, they. Αντικείμενο μετά από ρήμα ή πρόθεση: me, you, him, her, it, us, them."
+  },
+  {
+    "topic": "pronouns",
+    "question": "This is my cat. I love ___.",
+    "answer": "it",
+    "hint": "Υποκείμενο: I, you, he, she, it, we, they. Αντικείμενο μετά από ρήμα ή πρόθεση: me, you, him, her, it, us, them."
+  },
+  {
+    "topic": "pronouns",
+    "question": "Come with Anna and me. Come with ___.",
+    "answer": "us",
+    "hint": "Υποκείμενο: I, you, he, she, it, we, they. Αντικείμενο μετά από ρήμα ή πρόθεση: me, you, him, her, it, us, them."
+  },
+  {
+    "topic": "pronouns",
+    "question": "Look at Mary. Look at ___.",
+    "answer": "her",
+    "hint": "Υποκείμενο: I, you, he, she, it, we, they. Αντικείμενο μετά από ρήμα ή πρόθεση: me, you, him, her, it, us, them."
+  },
+  {
+    "topic": "pronouns",
+    "question": "The boys can swim. ___ can swim.",
+    "answer": "They",
+    "hint": "Υποκείμενο: I, you, he, she, it, we, they. Αντικείμενο μετά από ρήμα ή πρόθεση: me, you, him, her, it, us, them."
+  },
+  {
+    "topic": "pronouns",
+    "question": "Μετάφρασε στα αγγλικά: Κοίταξέ τους!",
+    "answer": "Look at them!"
+  },
+  {
+    "topic": "pronouns",
+    "question": "Μετάφρασε στα αγγλικά: Δώσε της το βιβλίο.",
+    "answer": "Give her the book."
+  }
+]

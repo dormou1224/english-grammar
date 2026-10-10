@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Προθέσεις τόπου",
+    "blocks": [
+      {
+        "type": "table",
+        "headers": [
+          "Αγγλικά",
+          "Ελληνικά",
+          "Παράδειγμα"
+        ],
+        "rows": [
+          [
+            "next to",
+            "δίπλα σε",
+            "The chair is next to the table."
+          ],
+          [
+            "opposite",
+            "απέναντι από",
+            "The house is opposite the school."
+          ],
+          [
+            "behind",
+            "πίσω από",
+            "The cat is behind the box."
+          ],
+          [
+            "between",
+            "ανάμεσα σε",
+            "The ball is between the chairs."
+          ]
+        ]
+      }
+    ]
+  }
+]

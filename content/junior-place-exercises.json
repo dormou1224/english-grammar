@@ -1,0 +1,31 @@
+[
+  {
+    "topic": "place",
+    "question": "Η μπάλα είναι δίπλα στο κουτί: The ball is ___ the box.",
+    "answer": "next to",
+    "hint": "next to = δίπλα σε, behind = πίσω από, opposite = απέναντι από, between = ανάμεσα σε."
+  },
+  {
+    "topic": "place",
+    "question": "Η γάτα είναι πίσω από την καρέκλα: The cat is ___ the chair.",
+    "answer": "behind",
+    "hint": "next to = δίπλα σε, behind = πίσω από, opposite = απέναντι από, between = ανάμεσα σε."
+  },
+  {
+    "topic": "place",
+    "question": "Το σπίτι είναι απέναντι από το σχολείο: The house is ___ the school.",
+    "answer": "opposite",
+    "hint": "next to = δίπλα σε, behind = πίσω από, opposite = απέναντι από, between = ανάμεσα σε."
+  },
+  {
+    "topic": "place",
+    "question": "Το παιδί είναι ανάμεσα στα δύο δέντρα: The child is ___ the two trees.",
+    "answer": "between",
+    "hint": "next to = δίπλα σε, behind = πίσω από, opposite = απέναντι από, between = ανάμεσα σε."
+  },
+  {
+    "topic": "place",
+    "question": "Μετάφρασε στα αγγλικά: Είναι δίπλα στο σπίτι.",
+    "answer": "It is next to the house."
+  }
+]

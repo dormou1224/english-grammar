@@ -1,0 +1,84 @@
+[
+  {
+    "topic": "present-continuous",
+    "question": "Look! The children ___ (clap).",
+    "answer": "are clapping",
+    "hint": "Χρειάζεται be και προσοχή στο τελικό p."
+  },
+  {
+    "topic": "present-continuous",
+    "question": "I ___ (read) a story now.",
+    "answer": "am reading",
+    "hint": "Το now δείχνει πράξη σε εξέλιξη."
+  },
+  {
+    "topic": "present-continuous",
+    "question": "She ___ (write) in her notebook now.",
+    "answer": "is writing",
+    "hint": "Πρόσεξε το τελικό e του write."
+  },
+  {
+    "topic": "present-continuous",
+    "question": "The wolf ___ (run) now.",
+    "answer": "is running",
+    "hint": "Το run έχει ένα τελικό φωνήεν και ένα σύμφωνο."
+  },
+  {
+    "topic": "present-continuous",
+    "question": "They ___ (not / play) now.",
+    "answer": "aren’t playing",
+    "hint": "Η άρνηση σχηματίζεται με το be."
+  },
+  {
+    "topic": "present-continuous",
+    "question": "___ he ___ (fly) now?",
+    "answer": "Is — flying",
+    "hint": "Το fly κρατά το y πριν από το -ing."
+  },
+  {
+    "topic": "present-continuous",
+    "question": "“Are you reading?” Απάντησε θετικά για τον εαυτό σου.",
+    "answer": "Yes, I am.",
+    "hint": "Χρησιμοποίησε be στη σύντομη απάντηση."
+  },
+  {
+    "topic": "present-continuous",
+    "question": "“Is she singing?” Απάντησε αρνητικά.",
+    "answer": "No, she isn’t.",
+    "hint": "Κράτησε το βοηθητικό ρήμα της ερώτησης."
+  },
+  {
+    "topic": "present-continuous",
+    "question": "Γράψε τον τύπο -ing του swim.",
+    "answer": "swimming",
+    "hint": "Έλεγξε το τελικό σύμφωνο."
+  },
+  {
+    "topic": "present-continuous",
+    "question": "Γράψε τον τύπο -ing του dance.",
+    "answer": "dancing",
+    "hint": "Το dance τελειώνει σε e."
+  },
+  {
+    "topic": "present-continuous",
+    "question": "Κάνε ερώτηση: You are drawing a giant.",
+    "answer": "Are you drawing a giant?",
+    "hint": "Το be μπαίνει πριν από το υποκείμενο."
+  },
+  {
+    "topic": "present-continuous",
+    "question": "Κάνε άρνηση: I am clapping.",
+    "answer": "I’m not clapping.",
+    "hint": "Το I am not έχει ιδιαίτερη σύντμηση."
+  },
+  {
+    "topic": "present-continuous",
+    "question": "Μετάφρασε στα αγγλικά: Παίζουν τώρα.",
+    "answer": "They are playing now. / They’re playing now."
+  },
+  {
+    "topic": "present-continuous",
+    "question": "Μετάφρασε στα αγγλικά: Δεν τρέχει τώρα. (αυτός)",
+    "answer": "He is not running now. / He isn’t running now."
+  }
+]

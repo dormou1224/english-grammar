@@ -1,0 +1,158 @@
+[
+  {
+    "topic": "plurals",
+    "question": "Γράψε τον πληθυντικό: book",
+    "options": [
+      "books",
+      "bookes",
+      "bookies",
+      "book"
+    ],
+    "correctIndex": 0,
+    "hint": "Συνήθως προσθέτουμε -s.",
+    "explanation": "Book → books."
+  },
+  {
+    "topic": "plurals",
+    "question": "Γράψε τον πληθυντικό: box",
+    "options": [
+      "boxs",
+      "boxes",
+      "boxies",
+      "boxen"
+    ],
+    "correctIndex": 1,
+    "hint": "Το box τελειώνει σε x.",
+    "explanation": "Με τελικό x προσθέτουμε -es."
+  },
+  {
+    "topic": "plurals",
+    "question": "Γράψε τον πληθυντικό: baby",
+    "options": [
+      "babys",
+      "babyes",
+      "babies",
+      "babieses"
+    ],
+    "correctIndex": 2,
+    "hint": "Έλεγξε το γράμμα πριν από το y.",
+    "explanation": "Σύμφωνο + y → ies."
+  },
+  {
+    "topic": "plurals",
+    "question": "Γράψε τον πληθυντικό: boy",
+    "options": [
+      "boies",
+      "boyes",
+      "boyies",
+      "boys"
+    ],
+    "correctIndex": 3,
+    "hint": "Πριν από το y υπάρχει φωνήεν.",
+    "explanation": "Φωνήεν + y: κρατάμε το y και προσθέτουμε -s."
+  },
+  {
+    "topic": "plurals",
+    "question": "Γράψε τον πληθυντικό: wolf",
+    "options": [
+      "wolves",
+      "wolfs",
+      "wolfes",
+      "wolfies"
+    ],
+    "correctIndex": 0,
+    "hint": "Ο πληθυντικός αλλάζει το τελικό f.",
+    "explanation": "Wolf → wolves."
+  },
+  {
+    "topic": "plurals",
+    "question": "Γράψε τον πληθυντικό: child",
+    "options": [
+      "childs",
+      "children",
+      "childes",
+      "childrens"
+    ],
+    "correctIndex": 1,
+    "hint": "Πρόκειται για ανώμαλο πληθυντικό.",
+    "explanation": "Child → children, χωρίς πρόσθετο -s."
+  },
+  {
+    "topic": "plurals",
+    "question": "Γράψε τον πληθυντικό: man",
+    "options": [
+      "mans",
+      "manes",
+      "men",
+      "mens"
+    ],
+    "correctIndex": 2,
+    "hint": "Πρόκειται για ανώμαλο πληθυντικό.",
+    "explanation": "Man → men."
+  },
+  {
+    "topic": "plurals",
+    "question": "Γράψε τον πληθυντικό: woman",
+    "options": [
+      "womans",
+      "womanes",
+      "womens",
+      "women"
+    ],
+    "correctIndex": 3,
+    "hint": "Άλλαξε το εσωτερικό φωνήεν.",
+    "explanation": "Woman → women."
+  },
+  {
+    "topic": "plurals",
+    "question": "Γράψε τον πληθυντικό: foot",
+    "options": [
+      "feet",
+      "foots",
+      "footies",
+      "feets"
+    ],
+    "correctIndex": 0,
+    "hint": "Πρόκειται για ανώμαλο πληθυντικό.",
+    "explanation": "Foot → feet."
+  },
+  {
+    "topic": "plurals",
+    "question": "Γράψε τον πληθυντικό: tooth",
+    "options": [
+      "tooths",
+      "teeth",
+      "toothes",
+      "teeths"
+    ],
+    "correctIndex": 1,
+    "hint": "Πρόκειται για ανώμαλο πληθυντικό.",
+    "explanation": "Tooth → teeth."
+  },
+  {
+    "topic": "plurals",
+    "question": "Γράψε τον πληθυντικό: mouse",
+    "options": [
+      "mouses",
+      "mices",
+      "mice",
+      "mousees"
+    ],
+    "correctIndex": 2,
+    "hint": "Πρόκειται για ανώμαλο πληθυντικό.",
+    "explanation": "Mouse → mice."
+  },
+  {
+    "topic": "plurals",
+    "question": "Γράψε τον πληθυντικό: sheep",
+    "options": [
+      "sheeps",
+      "sheepes",
+      "sheepies",
+      "sheep"
+    ],
+    "correctIndex": 3,
+    "hint": "Ο τύπος είναι ίδιος στον ενικό και στον πληθυντικό.",
+    "explanation": "One sheep, two sheep."
+  }
+]

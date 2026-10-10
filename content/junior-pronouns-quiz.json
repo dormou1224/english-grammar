@@ -1,0 +1,106 @@
+[
+  {
+    "topic": "pronouns",
+    "question": "Anna is kind. ___ is my friend.",
+    "options": [
+      "She",
+      "Her",
+      "Him",
+      "They"
+    ],
+    "correctIndex": 0,
+    "hint": "Υποκείμενο: I, you, he, she, it, we, they. Αντικείμενο μετά από ρήμα ή πρόθεση: me, you, him, her, it, us, them.",
+    "explanation": "Υποκείμενο: I, you, he, she, it, we, they. Αντικείμενο μετά από ρήμα ή πρόθεση: me, you, him, her, it, us, them."
+  },
+  {
+    "topic": "pronouns",
+    "question": "Look at the boys! Look at ___.",
+    "options": [
+      "them",
+      "they",
+      "their",
+      "he"
+    ],
+    "correctIndex": 0,
+    "hint": "Υποκείμενο: I, you, he, she, it, we, they. Αντικείμενο μετά από ρήμα ή πρόθεση: me, you, him, her, it, us, them.",
+    "explanation": "Υποκείμενο: I, you, he, she, it, we, they. Αντικείμενο μετά από ρήμα ή πρόθεση: me, you, him, her, it, us, them."
+  },
+  {
+    "topic": "pronouns",
+    "question": "Give Tom the ball. Give ___ the ball.",
+    "options": [
+      "him",
+      "he",
+      "his",
+      "her"
+    ],
+    "correctIndex": 0,
+    "hint": "Υποκείμενο: I, you, he, she, it, we, they. Αντικείμενο μετά από ρήμα ή πρόθεση: me, you, him, her, it, us, them.",
+    "explanation": "Υποκείμενο: I, you, he, she, it, we, they. Αντικείμενο μετά από ρήμα ή πρόθεση: me, you, him, her, it, us, them."
+  },
+  {
+    "topic": "pronouns",
+    "question": "My sister and I are happy. ___ are happy.",
+    "options": [
+      "We",
+      "Us",
+      "Our",
+      "Them"
+    ],
+    "correctIndex": 0,
+    "hint": "Υποκείμενο: I, you, he, she, it, we, they. Αντικείμενο μετά από ρήμα ή πρόθεση: me, you, him, her, it, us, them.",
+    "explanation": "Υποκείμενο: I, you, he, she, it, we, they. Αντικείμενο μετά από ρήμα ή πρόθεση: me, you, him, her, it, us, them."
+  },
+  {
+    "topic": "pronouns",
+    "question": "This is my cat. I love ___.",
+    "options": [
+      "it",
+      "its",
+      "he",
+      "they"
+    ],
+    "correctIndex": 0,
+    "hint": "Υποκείμενο: I, you, he, she, it, we, they. Αντικείμενο μετά από ρήμα ή πρόθεση: me, you, him, her, it, us, them.",
+    "explanation": "Υποκείμενο: I, you, he, she, it, we, they. Αντικείμενο μετά από ρήμα ή πρόθεση: me, you, him, her, it, us, them."
+  },
+  {
+    "topic": "pronouns",
+    "question": "Come with Anna and me. Come with ___.",
+    "options": [
+      "us",
+      "we",
+      "our",
+      "they"
+    ],
+    "correctIndex": 0,
+    "hint": "Υποκείμενο: I, you, he, she, it, we, they. Αντικείμενο μετά από ρήμα ή πρόθεση: me, you, him, her, it, us, them.",
+    "explanation": "Υποκείμενο: I, you, he, she, it, we, they. Αντικείμενο μετά από ρήμα ή πρόθεση: me, you, him, her, it, us, them."
+  },
+  {
+    "topic": "pronouns",
+    "question": "Look at Mary. Look at ___.",
+    "options": [
+      "her",
+      "she",
+      "his",
+      "he"
+    ],
+    "correctIndex": 0,
+    "hint": "Υποκείμενο: I, you, he, she, it, we, they. Αντικείμενο μετά από ρήμα ή πρόθεση: me, you, him, her, it, us, them.",
+    "explanation": "Υποκείμενο: I, you, he, she, it, we, they. Αντικείμενο μετά από ρήμα ή πρόθεση: me, you, him, her, it, us, them."
+  },
+  {
+    "topic": "pronouns",
+    "question": "The boys can swim. ___ can swim.",
+    "options": [
+      "They",
+      "Them",
+      "Their",
+      "Us"
+    ],
+    "correctIndex": 0,
+    "hint": "Υποκείμενο: I, you, he, she, it, we, they. Αντικείμενο μετά από ρήμα ή πρόθεση: me, you, him, her, it, us, them.",
+    "explanation": "Υποκείμενο: I, you, he, she, it, we, they. Αντικείμενο μετά από ρήμα ή πρόθεση: me, you, him, her, it, us, them."
+  }
+]

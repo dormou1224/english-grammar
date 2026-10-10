@@ -1,0 +1,93 @@
+[
+  {
+    "title": "Present Continuous",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "Για πράξη σε εξέλιξη τώρα: am/is/are + ρήμα σε -ing. Ενδείξεις: now, right now, at the moment, Look!, Listen!"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Μορφή",
+          "Παράδειγμα"
+        ],
+        "rows": [
+          [
+            "Κατάφαση",
+            "I am clapping. / I’m clapping."
+          ],
+          [
+            "Άρνηση",
+            "I am not clapping. / I’m not clapping."
+          ],
+          [
+            "Ερώτηση",
+            "Am I clapping?"
+          ],
+          [
+            "Σύντομη απάντηση",
+            "Yes, I am. / No, I’m not."
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Πρόσωπο",
+          "Κατάφαση",
+          "Άρνηση",
+          "Ερώτηση"
+        ],
+        "rows": [
+          [
+            "I",
+            "I am clapping.",
+            "I am not clapping.",
+            "Am I clapping?"
+          ],
+          [
+            "You",
+            "You are clapping.",
+            "You are not clapping.",
+            "Are you clapping?"
+          ],
+          [
+            "He",
+            "He is clapping.",
+            "He is not clapping.",
+            "Is he clapping?"
+          ],
+          [
+            "She",
+            "She is clapping.",
+            "She is not clapping.",
+            "Is she clapping?"
+          ],
+          [
+            "It",
+            "It is clapping.",
+            "It is not clapping.",
+            "Is it clapping?"
+          ],
+          [
+            "We",
+            "We are clapping.",
+            "We are not clapping.",
+            "Are we clapping?"
+          ],
+          [
+            "They",
+            "They are clapping.",
+            "They are not clapping.",
+            "Are they clapping?"
+          ]
+        ]
+      },
+      {
+        "type": "text",
+        "text": "Are you reading? → Yes, I am. / No, I’m not. Is she singing? → Yes, she is. / No, she isn’t."
+      }
+    ]
+  }
+]

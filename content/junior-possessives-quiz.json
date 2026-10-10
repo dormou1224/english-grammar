@@ -1,0 +1,106 @@
+[
+  {
+    "topic": "possessives",
+    "question": "I am Anna. This is ___ book.",
+    "options": [
+      "my",
+      "her",
+      "his",
+      "their"
+    ],
+    "correctIndex": 0,
+    "hint": "Η Άννα μιλά για τον εαυτό της.",
+    "explanation": "I → my."
+  },
+  {
+    "topic": "possessives",
+    "question": "This is Leo. ___ hair is dark.",
+    "options": [
+      "Her",
+      "His",
+      "Its",
+      "Our"
+    ],
+    "correctIndex": 1,
+    "hint": "Ο ιδιοκτήτης είναι ο Leo.",
+    "explanation": "He → his."
+  },
+  {
+    "topic": "possessives",
+    "question": "This is Emma. ___ eyes are green.",
+    "options": [
+      "His",
+      "Their",
+      "Her",
+      "My"
+    ],
+    "correctIndex": 2,
+    "hint": "Η Emma είναι το πρόσωπο που έχει τα μάτια.",
+    "explanation": "She → her."
+  },
+  {
+    "topic": "possessives",
+    "question": "We are sisters. This is ___ house.",
+    "options": [
+      "their",
+      "your",
+      "its",
+      "our"
+    ],
+    "correctIndex": 3,
+    "hint": "Οι αδελφές μιλούν για το δικό τους σπίτι.",
+    "explanation": "We → our."
+  },
+  {
+    "topic": "possessives",
+    "question": "They are friends. ___ bags are blue.",
+    "options": [
+      "Their",
+      "Our",
+      "His",
+      "Its"
+    ],
+    "correctIndex": 0,
+    "hint": "Οι τσάντες ανήκουν σε περισσότερα πρόσωπα.",
+    "explanation": "They → their."
+  },
+  {
+    "topic": "possessives",
+    "question": "This is my dog. ___ name is Rex.",
+    "options": [
+      "It’s",
+      "Its",
+      "His’s",
+      "Our"
+    ],
+    "correctIndex": 1,
+    "hint": "Χρειάζεται κτητικό επίθετο πριν από το name.",
+    "explanation": "Its = του. It’s = it is / it has."
+  },
+  {
+    "topic": "possessives",
+    "question": "You have got a bike. ___ bike is red.",
+    "options": [
+      "My",
+      "Our",
+      "Your",
+      "Their"
+    ],
+    "correctIndex": 2,
+    "hint": "Ο ιδιοκτήτης είναι το you.",
+    "explanation": "You → your."
+  },
+  {
+    "topic": "possessives",
+    "question": "Διάλεξε τη σωστή πρόταση.",
+    "options": [
+      "She hair is long.",
+      "Hers hair is long.",
+      "Her is hair long.",
+      "Her hair is long."
+    ],
+    "correctIndex": 3,
+    "hint": "Πριν από ουσιαστικό χρησιμοποιούμε κτητικό επίθετο.",
+    "explanation": "Her + hair. Το she είναι προσωπική αντωνυμία."
+  }
+]

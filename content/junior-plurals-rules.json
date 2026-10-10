@@ -1,0 +1,101 @@
+[
+  {
+    "title": "Πληθυντικός ουσιαστικών",
+    "blocks": [
+      {
+        "type": "table",
+        "headers": [
+          "Κανόνας",
+          "Ενικός → πληθυντικός"
+        ],
+        "rows": [
+          [
+            "Συνήθως -s",
+            "book → books, king → kings, crown → crowns"
+          ],
+          [
+            "Τελικά s, ss, sh, ch, x: -es",
+            "bus → buses, class → classes, brush → brushes, watch → watches, box → boxes"
+          ],
+          [
+            "Σύμφωνο + y → ies",
+            "baby → babies, story → stories"
+          ],
+          [
+            "Φωνήεν + y: προσθέτουμε -s",
+            "boy → boys, toy → toys"
+          ],
+          [
+            "Ορισμένα f/fe → ves",
+            "wolf → wolves, leaf → leaves, knife → knives"
+          ],
+          [
+            "Δεν αλλάζουν όλα τα f σε v",
+            "chef → chefs, roof → roofs"
+          ],
+          [
+            "Ανώμαλοι",
+            "child → children, man → men, woman → women, foot → feet, tooth → teeth, mouse → mice"
+          ],
+          [
+            "Ίδιος τύπος",
+            "sheep → sheep, fish → fish (συνήθης χρήση)"
+          ]
+        ]
+      },
+      {
+        "type": "text",
+        "text": "Το a/an δεν μπαίνει μπροστά σε πληθυντικό: a book → books. This is a child. → These are children. Hair για τα μαλλιά είναι συνήθως μη μετρήσιμο: Her hair is long. Glasses και clothes χρησιμοποιούνται εδώ στον πληθυντικό."
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Ενικός",
+          "Πληθυντικός"
+        ],
+        "rows": [
+          [
+            "man",
+            "men"
+          ],
+          [
+            "woman",
+            "women"
+          ],
+          [
+            "child",
+            "children"
+          ],
+          [
+            "fish",
+            "fish"
+          ],
+          [
+            "mouse",
+            "mice"
+          ],
+          [
+            "sheep",
+            "sheep"
+          ],
+          [
+            "foot",
+            "feet"
+          ],
+          [
+            "tooth",
+            "teeth"
+          ],
+          [
+            "person",
+            "people"
+          ]
+        ]
+      },
+      {
+        "type": "text",
+        "text": "Πολλά ουσιαστικά σε -f / -fe γίνονται -ves (knife → knives), αλλά υπάρχουν εξαιρέσεις: chef → chefs. Σε -o: potato → potatoes, αλλά photo → photos. Μαθαίνουμε κάθε λέξη μαζί με τον πληθυντικό της."
+      }
+    ]
+  }
+]
