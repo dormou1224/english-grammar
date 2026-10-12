@@ -6,7 +6,10 @@ content={p.stem:json.loads(p.read_text(encoding='utf-8')) for p in (root/'conten
 for name,items in content.items():
  assert items,name
  if name.endswith('quiz'):
-  for q in items:assert len(q['options'])==4 and len(set(q['options']))==4 and 0<=q['correctIndex']<4 and q['hint'] and q['explanation']
+  for q in items:
+   assert q['hint'] and q['explanation']
+   if q.get('type')=='typing':assert q['acceptedAnswers'] and all(isinstance(a,str) and a.strip() for a in q['acceptedAnswers'])
+   else:assert len(q['options'])==4 and len(set(q['options']))==4 and 0<=q['correctIndex']<4
  elif name.endswith('exercises'):
   for q in items:assert q['question'] and q['answer']
  elif name.endswith('rules'):
