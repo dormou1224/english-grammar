@@ -154,5 +154,278 @@
     "correctIndex": 3,
     "hint": "Το I am not έχει ιδιαίτερη σύντμηση.",
     "explanation": "I am not clapping → I’m not clapping."
+  },
+  {
+    "topic": "present-continuous",
+    "question": "Ποιος είναι ο σωστός τύπος του run σε -ing;",
+    "options": [
+      "running",
+      "runing",
+      "run",
+      "runs"
+    ],
+    "correctIndex": 0,
+    "hint": "Διπλασιάζουμε: ένα φωνήεν + ένα τελικό σύμφωνο σε τονισμένη συλλαβή.",
+    "explanation": "run → running. Διπλασιάζουμε: ένα φωνήεν + ένα τελικό σύμφωνο σε τονισμένη συλλαβή."
+  },
+  {
+    "topic": "present-continuous",
+    "question": "Ποιος είναι ο σωστός τύπος του swim σε -ing;",
+    "options": [
+      "swiming",
+      "swimming",
+      "swim",
+      "swims"
+    ],
+    "correctIndex": 1,
+    "hint": "Διπλασιάζουμε το m.",
+    "explanation": "swim → swimming. Διπλασιάζουμε το m."
+  },
+  {
+    "topic": "present-continuous",
+    "question": "Ποιος είναι ο σωστός τύπος του sit σε -ing;",
+    "options": [
+      "siting",
+      "sit",
+      "sitting",
+      "sits"
+    ],
+    "correctIndex": 2,
+    "hint": "Διπλασιάζουμε το t.",
+    "explanation": "sit → sitting. Διπλασιάζουμε το t."
+  },
+  {
+    "topic": "present-continuous",
+    "question": "Ποιος είναι ο σωστός τύπος του stop σε -ing;",
+    "options": [
+      "stoping",
+      "stop",
+      "stops",
+      "stopping"
+    ],
+    "correctIndex": 3,
+    "hint": "Διπλασιάζουμε το p.",
+    "explanation": "stop → stopping. Διπλασιάζουμε το p."
+  },
+  {
+    "topic": "present-continuous",
+    "question": "Ποιος είναι ο σωστός τύπος του get σε -ing;",
+    "options": [
+      "getting",
+      "geting",
+      "get",
+      "gets"
+    ],
+    "correctIndex": 0,
+    "hint": "Διπλασιάζουμε το t.",
+    "explanation": "get → getting. Διπλασιάζουμε το t."
+  },
+  {
+    "topic": "present-continuous",
+    "question": "Ποιος είναι ο σωστός τύπος του shop σε -ing;",
+    "options": [
+      "shoping",
+      "shopping",
+      "shop",
+      "shops"
+    ],
+    "correctIndex": 1,
+    "hint": "Διπλασιάζουμε το p.",
+    "explanation": "shop → shopping. Διπλασιάζουμε το p."
+  },
+  {
+    "topic": "present-continuous",
+    "question": "Ποιος είναι ο σωστός τύπος του begin σε -ing;",
+    "options": [
+      "begining",
+      "begin",
+      "beginning",
+      "begins"
+    ],
+    "correctIndex": 2,
+    "hint": "Η τελευταία συλλαβή τονίζεται: beGIN.",
+    "explanation": "begin → beginning. Η τελευταία συλλαβή τονίζεται: beGIN."
+  },
+  {
+    "topic": "present-continuous",
+    "question": "Ποιος είναι ο σωστός τύπος του open σε -ing;",
+    "options": [
+      "openning",
+      "open",
+      "opens",
+      "opening"
+    ],
+    "correctIndex": 3,
+    "hint": "Η τελευταία συλλαβή δεν τονίζεται: Open.",
+    "explanation": "open → opening. Η τελευταία συλλαβή δεν τονίζεται: Open."
+  },
+  {
+    "topic": "present-continuous",
+    "question": "Ποιος είναι ο σωστός τύπος του listen σε -ing;",
+    "options": [
+      "listening",
+      "listenning",
+      "listen",
+      "listens"
+    ],
+    "correctIndex": 0,
+    "hint": "Η τελευταία συλλαβή δεν τονίζεται: LISten.",
+    "explanation": "listen → listening. Η τελευταία συλλαβή δεν τονίζεται: LISten."
+  },
+  {
+    "topic": "present-continuous",
+    "question": "Ποιος είναι ο σωστός τύπος του visit σε -ing;",
+    "options": [
+      "visitting",
+      "visiting",
+      "visit",
+      "visits"
+    ],
+    "correctIndex": 1,
+    "hint": "Η τελευταία συλλαβή δεν τονίζεται: VIsit.",
+    "explanation": "visit → visiting. Η τελευταία συλλαβή δεν τονίζεται: VIsit."
+  },
+  {
+    "topic": "present-continuous",
+    "question": "Ποιος είναι ο σωστός τύπος του help σε -ing;",
+    "options": [
+      "helpping",
+      "help",
+      "helping",
+      "helps"
+    ],
+    "correctIndex": 2,
+    "hint": "Υπάρχουν δύο τελικά σύμφωνα, l και p: δεν διπλασιάζουμε.",
+    "explanation": "help → helping. Υπάρχουν δύο τελικά σύμφωνα, l και p: δεν διπλασιάζουμε."
+  },
+  {
+    "topic": "present-continuous",
+    "question": "Ποιος είναι ο σωστός τύπος του rain σε -ing;",
+    "options": [
+      "rainning",
+      "rain",
+      "rains",
+      "raining"
+    ],
+    "correctIndex": 3,
+    "hint": "Πριν από το n υπάρχουν δύο φωνήεντα: ai.",
+    "explanation": "rain → raining. Πριν από το n υπάρχουν δύο φωνήεντα: ai."
+  },
+  {
+    "topic": "present-continuous",
+    "question": "Ποιος είναι ο σωστός τύπος του draw σε -ing;",
+    "options": [
+      "drawing",
+      "drawwing",
+      "draw",
+      "draws"
+    ],
+    "correctIndex": 0,
+    "hint": "Το w δεν διπλασιάζεται.",
+    "explanation": "draw → drawing. Το w δεν διπλασιάζεται."
+  },
+  {
+    "topic": "present-continuous",
+    "question": "Ποιος είναι ο σωστός τύπος του fix σε -ing;",
+    "options": [
+      "fixxing",
+      "fixing",
+      "fix",
+      "fixs"
+    ],
+    "correctIndex": 1,
+    "hint": "Το x δεν διπλασιάζεται.",
+    "explanation": "fix → fixing. Το x δεν διπλασιάζεται."
+  },
+  {
+    "topic": "present-continuous",
+    "question": "Ποιος είναι ο σωστός τύπος του play σε -ing;",
+    "options": [
+      "plaing",
+      "play",
+      "playing",
+      "plays"
+    ],
+    "correctIndex": 2,
+    "hint": "Διατηρούμε το y και προσθέτουμε -ing.",
+    "explanation": "play → playing. Διατηρούμε το y και προσθέτουμε -ing."
+  },
+  {
+    "topic": "present-continuous",
+    "question": "Ποιος είναι ο σωστός τύπος του study σε -ing;",
+    "options": [
+      "studiing",
+      "study",
+      "studys",
+      "studying"
+    ],
+    "correctIndex": 3,
+    "hint": "Στο -ing διατηρούμε το y, ακόμη και μετά από σύμφωνο.",
+    "explanation": "study → studying. Στο -ing διατηρούμε το y, ακόμη και μετά από σύμφωνο."
+  },
+  {
+    "topic": "present-continuous",
+    "question": "Ποιος είναι ο σωστός τύπος του fly σε -ing;",
+    "options": [
+      "flying",
+      "fliing",
+      "fly",
+      "flys"
+    ],
+    "correctIndex": 0,
+    "hint": "Στο -ing το y παραμένει.",
+    "explanation": "fly → flying. Στο -ing το y παραμένει."
+  },
+  {
+    "topic": "present-continuous",
+    "question": "Ποιος είναι ο σωστός τύπος του write σε -ing;",
+    "options": [
+      "writeing",
+      "writing",
+      "write",
+      "writes"
+    ],
+    "correctIndex": 1,
+    "hint": "Αφαιρούμε το τελικό άφωνο e.",
+    "explanation": "write → writing. Αφαιρούμε το τελικό άφωνο e."
+  },
+  {
+    "topic": "present-continuous",
+    "question": "Ποιος είναι ο σωστός τύπος του dance σε -ing;",
+    "options": [
+      "danceing",
+      "dance",
+      "dancing",
+      "dances"
+    ],
+    "correctIndex": 2,
+    "hint": "Αφαιρούμε το τελικό άφωνο e.",
+    "explanation": "dance → dancing. Αφαιρούμε το τελικό άφωνο e."
+  },
+  {
+    "topic": "present-continuous",
+    "question": "Ποιος είναι ο σωστός τύπος του make σε -ing;",
+    "options": [
+      "makeing",
+      "make",
+      "makes",
+      "making"
+    ],
+    "correctIndex": 3,
+    "hint": "Αφαιρούμε το τελικό άφωνο e.",
+    "explanation": "make → making. Αφαιρούμε το τελικό άφωνο e."
+  },
+  {
+    "topic": "present-continuous",
+    "question": "Ποιος είναι ο σωστός τύπος του see σε -ing;",
+    "options": [
+      "seeing",
+      "seing",
+      "see",
+      "sees"
+    ],
+    "correctIndex": 0,
+    "hint": "Το -ee διατηρείται: seeing.",
+    "explanation": "see → seeing. Το -ee διατηρείται: seeing."
   }
 ]

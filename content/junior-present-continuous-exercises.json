@@ -80,5 +80,131 @@
     "topic": "present-continuous",
     "question": "Μετάφρασε στα αγγλικά: Δεν τρέχει τώρα. (αυτός)",
     "answer": "He is not running now. / He isn’t running now."
+  },
+  {
+    "topic": "present-continuous",
+    "question": "Γράψε το run σε -ing και εξήγησε αν αλλάζει η ορθογραφία.",
+    "answer": "running",
+    "hint": "Διπλασιάζουμε: ένα φωνήεν + ένα τελικό σύμφωνο σε τονισμένη συλλαβή."
+  },
+  {
+    "topic": "present-continuous",
+    "question": "Γράψε το swim σε -ing και εξήγησε αν αλλάζει η ορθογραφία.",
+    "answer": "swimming",
+    "hint": "Διπλασιάζουμε το m."
+  },
+  {
+    "topic": "present-continuous",
+    "question": "Γράψε το sit σε -ing και εξήγησε αν αλλάζει η ορθογραφία.",
+    "answer": "sitting",
+    "hint": "Διπλασιάζουμε το t."
+  },
+  {
+    "topic": "present-continuous",
+    "question": "Γράψε το stop σε -ing και εξήγησε αν αλλάζει η ορθογραφία.",
+    "answer": "stopping",
+    "hint": "Διπλασιάζουμε το p."
+  },
+  {
+    "topic": "present-continuous",
+    "question": "Γράψε το get σε -ing και εξήγησε αν αλλάζει η ορθογραφία.",
+    "answer": "getting",
+    "hint": "Διπλασιάζουμε το t."
+  },
+  {
+    "topic": "present-continuous",
+    "question": "Γράψε το shop σε -ing και εξήγησε αν αλλάζει η ορθογραφία.",
+    "answer": "shopping",
+    "hint": "Διπλασιάζουμε το p."
+  },
+  {
+    "topic": "present-continuous",
+    "question": "Γράψε το begin σε -ing και εξήγησε αν αλλάζει η ορθογραφία.",
+    "answer": "beginning",
+    "hint": "Η τελευταία συλλαβή τονίζεται: beGIN."
+  },
+  {
+    "topic": "present-continuous",
+    "question": "Γράψε το open σε -ing και εξήγησε αν αλλάζει η ορθογραφία.",
+    "answer": "opening",
+    "hint": "Η τελευταία συλλαβή δεν τονίζεται: Open."
+  },
+  {
+    "topic": "present-continuous",
+    "question": "Γράψε το listen σε -ing και εξήγησε αν αλλάζει η ορθογραφία.",
+    "answer": "listening",
+    "hint": "Η τελευταία συλλαβή δεν τονίζεται: LISten."
+  },
+  {
+    "topic": "present-continuous",
+    "question": "Γράψε το visit σε -ing και εξήγησε αν αλλάζει η ορθογραφία.",
+    "answer": "visiting",
+    "hint": "Η τελευταία συλλαβή δεν τονίζεται: VIsit."
+  },
+  {
+    "topic": "present-continuous",
+    "question": "Γράψε το help σε -ing και εξήγησε αν αλλάζει η ορθογραφία.",
+    "answer": "helping",
+    "hint": "Υπάρχουν δύο τελικά σύμφωνα, l και p: δεν διπλασιάζουμε."
+  },
+  {
+    "topic": "present-continuous",
+    "question": "Γράψε το rain σε -ing και εξήγησε αν αλλάζει η ορθογραφία.",
+    "answer": "raining",
+    "hint": "Πριν από το n υπάρχουν δύο φωνήεντα: ai."
+  },
+  {
+    "topic": "present-continuous",
+    "question": "Γράψε το draw σε -ing και εξήγησε αν αλλάζει η ορθογραφία.",
+    "answer": "drawing",
+    "hint": "Το w δεν διπλασιάζεται."
+  },
+  {
+    "topic": "present-continuous",
+    "question": "Γράψε το fix σε -ing και εξήγησε αν αλλάζει η ορθογραφία.",
+    "answer": "fixing",
+    "hint": "Το x δεν διπλασιάζεται."
+  },
+  {
+    "topic": "present-continuous",
+    "question": "Γράψε το play σε -ing και εξήγησε αν αλλάζει η ορθογραφία.",
+    "answer": "playing",
+    "hint": "Διατηρούμε το y και προσθέτουμε -ing."
+  },
+  {
+    "topic": "present-continuous",
+    "question": "Γράψε το study σε -ing και εξήγησε αν αλλάζει η ορθογραφία.",
+    "answer": "studying",
+    "hint": "Στο -ing διατηρούμε το y, ακόμη και μετά από σύμφωνο."
+  },
+  {
+    "topic": "present-continuous",
+    "question": "Γράψε το fly σε -ing και εξήγησε αν αλλάζει η ορθογραφία.",
+    "answer": "flying",
+    "hint": "Στο -ing το y παραμένει."
+  },
+  {
+    "topic": "present-continuous",
+    "question": "Γράψε το write σε -ing και εξήγησε αν αλλάζει η ορθογραφία.",
+    "answer": "writing",
+    "hint": "Αφαιρούμε το τελικό άφωνο e."
+  },
+  {
+    "topic": "present-continuous",
+    "question": "Γράψε το dance σε -ing και εξήγησε αν αλλάζει η ορθογραφία.",
+    "answer": "dancing",
+    "hint": "Αφαιρούμε το τελικό άφωνο e."
+  },
+  {
+    "topic": "present-continuous",
+    "question": "Γράψε το make σε -ing και εξήγησε αν αλλάζει η ορθογραφία.",
+    "answer": "making",
+    "hint": "Αφαιρούμε το τελικό άφωνο e."
+  },
+  {
+    "topic": "present-continuous",
+    "question": "Γράψε το see σε -ing και εξήγησε αν αλλάζει η ορθογραφία.",
+    "answer": "seeing",
+    "hint": "Το -ee διατηρείται: seeing."
   }
 ]

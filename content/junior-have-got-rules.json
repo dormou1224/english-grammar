@@ -40,5 +40,44 @@
         "text": "Στις σύντομες απαντήσεις δεν βάζουμε got. Have you got a drum? → Yes, I have. / No, I haven’t."
       }
     ]
+  },
+  {
+    "title": "Σύντομες απαντήσεις — χωρίς got",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "Στις σύντομες απαντήσεις κρατάμε μόνο have / has ή haven’t / hasn’t. Δεν επαναλαμβάνουμε το got. Στη θετική απάντηση δεν γράφουμε Yes, I’ve ή Yes, she’s."
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Ερώτηση",
+          "Θετική απάντηση",
+          "Αρνητική απάντηση"
+        ],
+        "rows": [
+          [
+            "Have you got a dog?",
+            "Yes, I have.",
+            "No, I haven’t."
+          ],
+          [
+            "Has he got a bike?",
+            "Yes, he has.",
+            "No, he hasn’t."
+          ],
+          [
+            "Has she got glasses?",
+            "Yes, she has.",
+            "No, she hasn’t."
+          ],
+          [
+            "Have they got books?",
+            "Yes, they have.",
+            "No, they haven’t."
+          ]
+        ]
+      }
+    ]
   }
 ]

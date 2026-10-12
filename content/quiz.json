@@ -238,5 +238,245 @@
     "correctIndex": 1,
     "hint": "Ποιο γράμμα προηγείται του y;",
     "explanation": "Last Friday: Simple Past. Φωνήεν + y: enjoyed."
+  },
+  {
+    "question": "Yesterday / last week / two days ago συνήθως δείχνουν:",
+    "options": [
+      "Simple Past",
+      "Present Perfect",
+      "Past Perfect",
+      "Present Continuous"
+    ],
+    "correctIndex": 0,
+    "hint": "Εξέτασε το χρονικό σημείο αναφοράς και τη σειρά των γεγονότων.",
+    "explanation": "Δίνουν συγκεκριμένο ολοκληρωμένο χρόνο στο παρελθόν."
+  },
+  {
+    "question": "So far / up to now, για εμπειρίες ή αποτελέσματα μέχρι τώρα, συνήθως δείχνουν:",
+    "options": [
+      "Simple Past",
+      "Present Perfect",
+      "Past Perfect",
+      "Past Continuous"
+    ],
+    "correctIndex": 1,
+    "hint": "Εξέτασε το χρονικό σημείο αναφοράς και τη σειρά των γεγονότων.",
+    "explanation": "Το χρονικό πλαίσιο φτάνει μέχρι το παρόν."
+  },
+  {
+    "question": "Have you finished yet? Ποιος χρόνος χρησιμοποιείται;",
+    "options": [
+      "Simple Past",
+      "Past Perfect",
+      "Present Perfect",
+      "Past Continuous"
+    ],
+    "correctIndex": 2,
+    "hint": "Εξέτασε το χρονικό σημείο αναφοράς και τη σειρά των γεγονότων.",
+    "explanation": "Το yet εδώ αφορά κάτι που περιμένουμε να έχει γίνει μέχρι τώρα."
+  },
+  {
+    "question": "She has lived here since 2020. Ποιος χρόνος χρησιμοποιείται;",
+    "options": [
+      "Simple Past",
+      "Past Perfect",
+      "Past Continuous",
+      "Present Perfect"
+    ],
+    "correctIndex": 3,
+    "hint": "Εξέτασε το χρονικό σημείο αναφοράς και τη σειρά των γεγονότων.",
+    "explanation": "Το since δηλώνει την αρχή μιας κατάστασης που συνεχίζεται μέχρι τώρα."
+  },
+  {
+    "question": "She had lived there for ten years when she moved. Το for εδώ συνοδεύει:",
+    "options": [
+      "Past Perfect",
+      "Μόνο Present Perfect",
+      "Μόνο Simple Present",
+      "Present Continuous"
+    ],
+    "correctIndex": 0,
+    "hint": "Εξέτασε το χρονικό σημείο αναφοράς και τη σειρά των γεγονότων.",
+    "explanation": "Το for δηλώνει διάρκεια. Δεν ορίζει μόνο του τον χρόνο: εδώ η διάρκεια προηγείται της μετακόμισης."
+  },
+  {
+    "question": "At eight yesterday, I was studying. Ποιος χρόνος δείχνει την πράξη σε εξέλιξη;",
+    "options": [
+      "Present Perfect",
+      "Past Continuous",
+      "Past Perfect",
+      "Simple Present"
+    ],
+    "correctIndex": 1,
+    "hint": "Εξέτασε το χρονικό σημείο αναφοράς και τη σειρά των γεγονότων.",
+    "explanation": "Η πράξη ήταν σε εξέλιξη σε συγκεκριμένη στιγμή στο παρελθόν."
+  },
+  {
+    "question": "Το when επιβάλλει πάντα Simple Past;",
+    "options": [
+      "Ναι, πάντα.",
+      "Επιβάλλει πάντα Past Perfect.",
+      "Όχι, ο χρόνος εξαρτάται από το νόημα.",
+      "Επιβάλλει πάντα Present Perfect."
+    ],
+    "correctIndex": 2,
+    "hint": "Εξέτασε το χρονικό σημείο αναφοράς και τη σειρά των γεγονότων.",
+    "explanation": "When I arrived, she was sleeping: Simple Past και Past Continuous. Δεν επιλέγουμε χρόνο μόνο από μία λέξη."
+  },
+  {
+    "question": "By the time she ___ (arrive), we ___ (finish). Η ολοκλήρωση έγινε πριν από την άφιξη. Ποιοι χρόνοι ταιριάζουν;",
+    "options": [
+      "had arrived / finished",
+      "arrived / have finished",
+      "was arriving / finish",
+      "arrived / had finished"
+    ],
+    "correctIndex": 3,
+    "hint": "Εξέτασε το χρονικό σημείο αναφοράς και τη σειρά των γεγονότων.",
+    "explanation": "Στο συγκεκριμένο παρελθοντικό παράδειγμα: μετά το by the time Simple Past· στην πράξη που είχε ήδη ολοκληρωθεί Past Perfect."
+  },
+  {
+    "question": "By the time the film started, they had found their seats. Τι χρόνος βρίσκεται αμέσως μετά το by the time;",
+    "options": [
+      "Simple Past",
+      "Past Perfect",
+      "Present Perfect",
+      "Past Continuous"
+    ],
+    "correctIndex": 0,
+    "hint": "Εξέτασε το χρονικό σημείο αναφοράς και τη σειρά των γεγονότων.",
+    "explanation": "Started = Simple Past. Το had found είναι Past Perfect και περιγράφει το προγενέστερο γεγονός."
+  },
+  {
+    "question": "By the time the film started, they had found their seats. Ποιος χρόνος βρίσκεται στην υπόλοιπη πρόταση;",
+    "options": [
+      "Simple Past",
+      "Past Perfect",
+      "Present Perfect",
+      "Past Continuous"
+    ],
+    "correctIndex": 1,
+    "hint": "Εξέτασε το χρονικό σημείο αναφοράς και τη σειρά των γεγονότων.",
+    "explanation": "Had found: είχαν βρει τις θέσεις πριν αρχίσει η ταινία."
+  },
+  {
+    "question": "Before he left, he had locked the door. Ποιοι χρόνοι χρησιμοποιούνται με τη σειρά;",
+    "options": [
+      "Past Perfect / Simple Past",
+      "Present Perfect / Simple Past",
+      "Simple Past / Past Perfect",
+      "Past Continuous / Present Perfect"
+    ],
+    "correctIndex": 2,
+    "hint": "Εξέτασε το χρονικό σημείο αναφοράς και τη σειρά των γεγονότων.",
+    "explanation": "Left: μεταγενέστερο γεγονός. Had locked: προγενέστερο γεγονός."
+  },
+  {
+    "question": "She had packed her bag before she left. Ποιος χρόνος είναι μετά το before;",
+    "options": [
+      "Past Perfect",
+      "Present Perfect",
+      "Simple Present",
+      "Simple Past"
+    ],
+    "correctIndex": 3,
+    "hint": "Εξέτασε το χρονικό σημείο αναφοράς και τη σειρά των γεγονότων.",
+    "explanation": "Το left έπεται χρονικά του had packed. Η θέση της δευτερεύουσας δεν αλλάζει τη σειρά των γεγονότων."
+  },
+  {
+    "question": "After she had finished her homework, she went out. Ποιος χρόνος είναι μετά το after;",
+    "options": [
+      "Past Perfect",
+      "Simple Present",
+      "Present Perfect",
+      "Past Continuous"
+    ],
+    "correctIndex": 0,
+    "hint": "Εξέτασε το χρονικό σημείο αναφοράς και τη σειρά των γεγονότων.",
+    "explanation": "Η ολοκλήρωση προηγείται της εξόδου: had finished. Στην υπόλοιπη πρόταση went = Simple Past."
+  },
+  {
+    "question": "He went to bed after he had brushed his teeth. Ποιοι χρόνοι εμφανίζονται με τη σειρά;",
+    "options": [
+      "Past Perfect / Simple Past",
+      "Simple Past / Past Perfect",
+      "Present Perfect / Past Continuous",
+      "Simple Present / Past Perfect"
+    ],
+    "correctIndex": 1,
+    "hint": "Εξέτασε το χρονικό σημείο αναφοράς και τη σειρά των γεγονότων.",
+    "explanation": "Πρώτα έπλυνε τα δόντια του και μετά πήγε για ύπνο."
+  },
+  {
+    "question": "Before και after απαιτούν πάντα Past Perfect;",
+    "options": [
+      "Ναι, πάντα.",
+      "Απαιτούν Present Perfect.",
+      "Όχι· συχνά είναι σωστό και Simple Past και στα δύο μέρη.",
+      "Απαιτούν Past Continuous."
+    ],
+    "correctIndex": 2,
+    "hint": "Εξέτασε το χρονικό σημείο αναφοράς και τη σειρά των γεγονότων.",
+    "explanation": "After she finished her homework, she went out είναι επίσης σωστό. Ο Past Perfect τονίζει ότι η πρώτη πράξη είχε ήδη ολοκληρωθεί."
+  },
+  {
+    "question": "By midnight, he had finished the report. Τι ακολουθεί το by;",
+    "options": [
+      "Υποχρεωτικά Simple Past.",
+      "Υποχρεωτικά Past Perfect.",
+      "Πάντα ένα ρήμα.",
+      "Χρονικό σημείο — όχι δευτερεύουσα πρόταση."
+    ],
+    "correctIndex": 3,
+    "hint": "Εξέτασε το χρονικό σημείο αναφοράς και τη σειρά των γεγονότων.",
+    "explanation": "By midnight = μέχρι τα μεσάνυχτα. Το had finished δείχνει ολοκλήρωση μέχρι αυτό το παρελθοντικό σημείο αναφοράς."
+  },
+  {
+    "question": "Για ολοκλήρωση μέχρι ένα παρελθοντικό σημείο: By ten last night, she ___ the work.",
+    "options": [
+      "had completed",
+      "has completed",
+      "complete",
+      "is completing"
+    ],
+    "correctIndex": 0,
+    "hint": "Εξέτασε το χρονικό σημείο αναφοράς και τη σειρά των γεγονότων.",
+    "explanation": "Ο Past Perfect ταιριάζει στην ολοκλήρωση μέχρι το συγκεκριμένο παρελθοντικό σημείο αναφοράς."
+  },
+  {
+    "question": "Already, just και never δείχνουν αποκλειστικά Present Perfect;",
+    "options": [
+      "Ναι, αποκλειστικά.",
+      "Όχι, μπορούν να εμφανιστούν και με άλλους χρόνους.",
+      "Δείχνουν μόνο Simple Past.",
+      "Δείχνουν μόνο Past Continuous."
+    ],
+    "correctIndex": 1,
+    "hint": "Εξέτασε το χρονικό σημείο αναφοράς και τη σειρά των γεγονότων.",
+    "explanation": "She has already left / She had already left when I arrived. Η χρονική αναφορά καθορίζει την επιλογή."
+  },
+  {
+    "question": "While I was cooking, he was studying. Ποιοι χρόνοι περιγράφουν τις δύο παράλληλες πράξεις;",
+    "options": [
+      "Simple Past / Past Perfect",
+      "Present Perfect / Present Perfect",
+      "Past Continuous / Past Continuous",
+      "Past Perfect / Simple Past"
+    ],
+    "correctIndex": 2,
+    "hint": "Εξέτασε το χρονικό σημείο αναφοράς και τη σειρά των γεγονότων.",
+    "explanation": "Δύο πράξεις ήταν ταυτόχρονα σε εξέλιξη στο παρελθόν."
+  },
+  {
+    "question": "I was walking when it started raining. Ποια χρονική σχέση υπάρχει;",
+    "options": [
+      "Past Perfect και στα δύο.",
+      "Present Perfect και στα δύο.",
+      "Το when απαιτεί Past Continuous και στα δύο.",
+      "Past Continuous για την πράξη σε εξέλιξη, Simple Past για το γεγονός που συνέβη."
+    ],
+    "correctIndex": 3,
+    "hint": "Εξέτασε το χρονικό σημείο αναφοράς και τη σειρά των γεγονότων.",
+    "explanation": "Was walking: εξέλιξη. Started: γεγονός που συνέβη κατά τη διάρκειά της."
   }
 ]

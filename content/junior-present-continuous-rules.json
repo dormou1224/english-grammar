@@ -89,5 +89,163 @@
         "text": "Are you reading? → Yes, I am. / No, I’m not. Is she singing? → Yes, she is. / No, she isn’t."
       }
     ]
+  },
+  {
+    "title": "Σύντομοι τύποι του clap",
+    "blocks": [
+      {
+        "type": "table",
+        "headers": [
+          "Πρόσωπο",
+          "Κατάφαση",
+          "Άρνηση"
+        ],
+        "rows": [
+          [
+            "I",
+            "I’m clapping.",
+            "I’m not clapping."
+          ],
+          [
+            "You",
+            "You’re clapping.",
+            "You aren’t clapping."
+          ],
+          [
+            "He",
+            "He’s clapping.",
+            "He isn’t clapping."
+          ],
+          [
+            "She",
+            "She’s clapping.",
+            "She isn’t clapping."
+          ],
+          [
+            "It",
+            "It’s clapping.",
+            "It isn’t clapping."
+          ],
+          [
+            "We",
+            "We’re clapping.",
+            "We aren’t clapping."
+          ],
+          [
+            "They",
+            "They’re clapping.",
+            "They aren’t clapping."
+          ]
+        ]
+      },
+      {
+        "type": "text",
+        "text": "Μπορούμε επίσης να γράψουμε you’re not, he’s not, she’s not, it’s not, we’re not, they’re not. Στις θετικές σύντομες απαντήσεις δεν συντομεύουμε το be: Yes, she is. Στις σύντομες απαντήσεις δεν επαναλαμβάνουμε το ρήμα σε -ing."
+      }
+    ]
+  },
+  {
+    "title": "Ερωτήσεις και σύντομες απαντήσεις",
+    "blocks": [
+      {
+        "type": "table",
+        "headers": [
+          "Ερώτηση",
+          "Ναι",
+          "Όχι"
+        ],
+        "rows": [
+          [
+            "Are you eating? (σε ένα άτομο)",
+            "Yes, I am.",
+            "No, I’m not."
+          ],
+          [
+            "Are you swimming? (σε ομάδα)",
+            "Yes, we are.",
+            "No, we aren’t."
+          ],
+          [
+            "Is he running?",
+            "Yes, he is.",
+            "No, he isn’t."
+          ],
+          [
+            "Is she dancing?",
+            "Yes, she is.",
+            "No, she isn’t."
+          ],
+          [
+            "Is it sleeping?",
+            "Yes, it is.",
+            "No, it isn’t."
+          ],
+          [
+            "Are they playing?",
+            "Yes, they are.",
+            "No, they aren’t."
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Ορθογραφία του -ing",
+    "blocks": [
+      {
+        "type": "table",
+        "headers": [
+          "Κανόνας",
+          "Παραδείγματα"
+        ],
+        "rows": [
+          [
+            "Συνήθως προσθέτουμε -ing",
+            "play → playing, read → reading, eat → eating"
+          ],
+          [
+            "Αφαιρούμε το τελικό άφωνο -e",
+            "dance → dancing, write → writing, make → making"
+          ],
+          [
+            "Ένα φωνήεν + ένα τελικό σύμφωνο, με τονισμό στην τελευταία συλλαβή: διπλασιάζουμε το σύμφωνο",
+            "run → running, get → getting, swim → swimming, clap → clapping"
+          ],
+          [
+            "Χωρίς τονισμό στην τελευταία συλλαβή: δεν διπλασιάζουμε",
+            "open → opening, listen → listening"
+          ],
+          [
+            "Δεν διπλασιάζουμε w, x, y",
+            "draw → drawing, fix → fixing, play → playing"
+          ],
+          [
+            "Διατηρούμε το y",
+            "fly → flying, study → studying"
+          ],
+          [
+            "Το -ie γίνεται -y πριν από το -ing",
+            "lie → lying, die → dying"
+          ]
+        ]
+      },
+      {
+        "type": "text",
+        "text": "clap → clapping, με δύο p. Το διπλασιασμένο σύμφωνο είναι μέρος της σωστής ορθογραφίας, σε κατάφαση, άρνηση και ερώτηση."
+      }
+    ]
+  },
+  {
+    "title": "Λέξεις που βοηθούν",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "now, right now, at the moment = τώρα / αυτή τη στιγμή. Τα Look! και Listen! συχνά εισάγουν κάτι που συμβαίνει τώρα. Το today μπορεί να συνοδεύει Present Continuous, όταν περιγράφουμε μια πράξη ή προσωρινή κατάσταση σήμερα, αλλά από μόνο του δεν ορίζει τον χρόνο."
+      },
+      {
+        "type": "text",
+        "text": "Σχηματισμός: πρόσωπο + am/is/are + -ing. Άρνηση: πρόσωπο + am/is/are + not + -ing. Ερώτηση: Am/Is/Are + πρόσωπο + -ing; Δεν παραλείπουμε το be: She is running."
+      }
+    ]
   }
 ]
