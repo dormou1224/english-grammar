@@ -318,5 +318,325 @@
   {
     "question": "I was walking when it started raining. Ποια χρονική σχέση υπάρχει;",
     "answer": "Past Continuous για την πράξη σε εξέλιξη, Simple Past για το γεγονός που συνέβη. — Was walking: εξέλιξη. Started: γεγονός που συνέβη κατά τη διάρκειά της."
+  },
+  {
+    "question": "Ανώμαλο ρήμα go: πληκτρολόγησε τον αόριστο (Simple Past).",
+    "answer": "went — go → went → gone."
+  },
+  {
+    "question": "Ανώμαλο ρήμα go: πληκτρολόγησε τη μετοχή (past participle).",
+    "answer": "gone — go → went → gone."
+  },
+  {
+    "question": "Ανώμαλο ρήμα see: πληκτρολόγησε τον αόριστο (Simple Past).",
+    "answer": "saw — see → saw → seen."
+  },
+  {
+    "question": "Ανώμαλο ρήμα see: πληκτρολόγησε τη μετοχή (past participle).",
+    "answer": "seen — see → saw → seen."
+  },
+  {
+    "question": "Ανώμαλο ρήμα write: πληκτρολόγησε τον αόριστο (Simple Past).",
+    "answer": "wrote — write → wrote → written."
+  },
+  {
+    "question": "Ανώμαλο ρήμα write: πληκτρολόγησε τη μετοχή (past participle).",
+    "answer": "written — write → wrote → written."
+  },
+  {
+    "question": "Ανώμαλο ρήμα eat: πληκτρολόγησε τον αόριστο (Simple Past).",
+    "answer": "ate — eat → ate → eaten."
+  },
+  {
+    "question": "Ανώμαλο ρήμα eat: πληκτρολόγησε τη μετοχή (past participle).",
+    "answer": "eaten — eat → ate → eaten."
+  },
+  {
+    "question": "Ανώμαλο ρήμα take: πληκτρολόγησε τον αόριστο (Simple Past).",
+    "answer": "took — take → took → taken."
+  },
+  {
+    "question": "Ανώμαλο ρήμα take: πληκτρολόγησε τη μετοχή (past participle).",
+    "answer": "taken — take → took → taken."
+  },
+  {
+    "question": "Ανώμαλο ρήμα give: πληκτρολόγησε τον αόριστο (Simple Past).",
+    "answer": "gave — give → gave → given."
+  },
+  {
+    "question": "Ανώμαλο ρήμα give: πληκτρολόγησε τη μετοχή (past participle).",
+    "answer": "given — give → gave → given."
+  },
+  {
+    "question": "Ανώμαλο ρήμα come: πληκτρολόγησε τον αόριστο (Simple Past).",
+    "answer": "came — come → came → come."
+  },
+  {
+    "question": "Ανώμαλο ρήμα come: πληκτρολόγησε τη μετοχή (past participle).",
+    "answer": "come — come → came → come."
+  },
+  {
+    "question": "Ανώμαλο ρήμα begin: πληκτρολόγησε τον αόριστο (Simple Past).",
+    "answer": "began — begin → began → begun."
+  },
+  {
+    "question": "Ανώμαλο ρήμα begin: πληκτρολόγησε τη μετοχή (past participle).",
+    "answer": "begun — begin → began → begun."
+  },
+  {
+    "question": "Ανώμαλο ρήμα break: πληκτρολόγησε τον αόριστο (Simple Past).",
+    "answer": "broke — break → broke → broken."
+  },
+  {
+    "question": "Ανώμαλο ρήμα break: πληκτρολόγησε τη μετοχή (past participle).",
+    "answer": "broken — break → broke → broken."
+  },
+  {
+    "question": "Ανώμαλο ρήμα choose: πληκτρολόγησε τον αόριστο (Simple Past).",
+    "answer": "chose — choose → chose → chosen."
+  },
+  {
+    "question": "Ανώμαλο ρήμα choose: πληκτρολόγησε τη μετοχή (past participle).",
+    "answer": "chosen — choose → chose → chosen."
+  },
+  {
+    "question": "Ανώμαλο ρήμα speak: πληκτρολόγησε τον αόριστο (Simple Past).",
+    "answer": "spoke — speak → spoke → spoken."
+  },
+  {
+    "question": "Ανώμαλο ρήμα speak: πληκτρολόγησε τη μετοχή (past participle).",
+    "answer": "spoken — speak → spoke → spoken."
+  },
+  {
+    "question": "Ανώμαλο ρήμα drink: πληκτρολόγησε τον αόριστο (Simple Past).",
+    "answer": "drank — drink → drank → drunk."
+  },
+  {
+    "question": "Ανώμαλο ρήμα drink: πληκτρολόγησε τη μετοχή (past participle).",
+    "answer": "drunk — drink → drank → drunk."
+  },
+  {
+    "question": "Ανώμαλο ρήμα drive: πληκτρολόγησε τον αόριστο (Simple Past).",
+    "answer": "drove — drive → drove → driven."
+  },
+  {
+    "question": "Ανώμαλο ρήμα drive: πληκτρολόγησε τη μετοχή (past participle).",
+    "answer": "driven — drive → drove → driven."
+  },
+  {
+    "question": "Ανώμαλο ρήμα swim: πληκτρολόγησε τον αόριστο (Simple Past).",
+    "answer": "swam — swim → swam → swum."
+  },
+  {
+    "question": "Ανώμαλο ρήμα swim: πληκτρολόγησε τη μετοχή (past participle).",
+    "answer": "swum — swim → swam → swum."
+  },
+  {
+    "question": "Ανώμαλο ρήμα buy: πληκτρολόγησε τον αόριστο (Simple Past).",
+    "answer": "bought — buy → bought → bought."
+  },
+  {
+    "question": "Ανώμαλο ρήμα buy: πληκτρολόγησε τη μετοχή (past participle).",
+    "answer": "bought — buy → bought → bought."
+  },
+  {
+    "question": "Ανώμαλο ρήμα bring: πληκτρολόγησε τον αόριστο (Simple Past).",
+    "answer": "brought — bring → brought → brought."
+  },
+  {
+    "question": "Ανώμαλο ρήμα bring: πληκτρολόγησε τη μετοχή (past participle).",
+    "answer": "brought — bring → brought → brought."
+  },
+  {
+    "question": "Ανώμαλο ρήμα think: πληκτρολόγησε τον αόριστο (Simple Past).",
+    "answer": "thought — think → thought → thought."
+  },
+  {
+    "question": "Ανώμαλο ρήμα think: πληκτρολόγησε τη μετοχή (past participle).",
+    "answer": "thought — think → thought → thought."
+  },
+  {
+    "question": "Ανώμαλο ρήμα teach: πληκτρολόγησε τον αόριστο (Simple Past).",
+    "answer": "taught — teach → taught → taught."
+  },
+  {
+    "question": "Ανώμαλο ρήμα teach: πληκτρολόγησε τη μετοχή (past participle).",
+    "answer": "taught — teach → taught → taught."
+  },
+  {
+    "question": "Ανώμαλο ρήμα catch: πληκτρολόγησε τον αόριστο (Simple Past).",
+    "answer": "caught — catch → caught → caught."
+  },
+  {
+    "question": "Ανώμαλο ρήμα catch: πληκτρολόγησε τη μετοχή (past participle).",
+    "answer": "caught — catch → caught → caught."
+  },
+  {
+    "question": "Ανώμαλο ρήμα find: πληκτρολόγησε τον αόριστο (Simple Past).",
+    "answer": "found — find → found → found."
+  },
+  {
+    "question": "Ανώμαλο ρήμα find: πληκτρολόγησε τη μετοχή (past participle).",
+    "answer": "found — find → found → found."
+  },
+  {
+    "question": "Ανώμαλο ρήμα leave: πληκτρολόγησε τον αόριστο (Simple Past).",
+    "answer": "left — leave → left → left."
+  },
+  {
+    "question": "Ανώμαλο ρήμα leave: πληκτρολόγησε τη μετοχή (past participle).",
+    "answer": "left — leave → left → left."
+  },
+  {
+    "question": "Ανώμαλο ρήμα make: πληκτρολόγησε τον αόριστο (Simple Past).",
+    "answer": "made — make → made → made."
+  },
+  {
+    "question": "Ανώμαλο ρήμα make: πληκτρολόγησε τη μετοχή (past participle).",
+    "answer": "made — make → made → made."
+  },
+  {
+    "question": "Ανώμαλο ρήμα read: πληκτρολόγησε τον αόριστο (Simple Past).",
+    "answer": "read — read → read → read."
+  },
+  {
+    "question": "Ανώμαλο ρήμα read: πληκτρολόγησε τη μετοχή (past participle).",
+    "answer": "read — read → read → read."
+  },
+  {
+    "question": "Ανώμαλο ρήμα run: πληκτρολόγησε τον αόριστο (Simple Past).",
+    "answer": "ran — run → ran → run."
+  },
+  {
+    "question": "Ανώμαλο ρήμα run: πληκτρολόγησε τη μετοχή (past participle).",
+    "answer": "run — run → ran → run."
+  },
+  {
+    "question": "Ανώμαλο ρήμα do: πληκτρολόγησε τον αόριστο (Simple Past).",
+    "answer": "did — do → did → done."
+  },
+  {
+    "question": "Ανώμαλο ρήμα do: πληκτρολόγησε τη μετοχή (past participle).",
+    "answer": "done — do → did → done."
+  },
+  {
+    "question": "Yesterday, she ___ (go) to school.",
+    "answer": "went — Simple Past: συγκεκριμένος ολοκληρωμένος χρόνος."
+  },
+  {
+    "question": "Last night, I ___ (see) a film.",
+    "answer": "saw — Simple Past του see: saw."
+  },
+  {
+    "question": "He ___ (write) three emails so far.",
+    "answer": "has written — So far: μέχρι τώρα. He + has + written."
+  },
+  {
+    "question": "We ___ (not eat) yet.",
+    "answer": "have not eaten / haven’t eaten — Present Perfect: have + not + eaten."
+  },
+  {
+    "question": "By the time we arrived, the train ___ (leave).",
+    "answer": "had left — Το τρένο είχε φύγει πριν φτάσουμε."
+  },
+  {
+    "question": "By the time she ___ (come) home, they had eaten.",
+    "answer": "came — Η μεταγενέστερη άφιξη είναι σε Simple Past."
+  },
+  {
+    "question": "After he ___ (finish) his work, he went out. Χρησιμοποίησε Past Perfect.",
+    "answer": "had finished — Had + finished: ολοκλήρωση πριν από την έξοδο."
+  },
+  {
+    "question": "Before they left, they ___ (buy) the tickets. Χρησιμοποίησε Past Perfect.",
+    "answer": "had bought — Η αγορά προηγείται της αναχώρησης."
+  },
+  {
+    "question": "By midnight, she ___ (complete) the report. Χρησιμοποίησε Past Perfect.",
+    "answer": "had completed — Ολοκλήρωση μέχρι ένα παρελθοντικό σημείο."
+  },
+  {
+    "question": "At six yesterday, we ___ (study). Χρησιμοποίησε Past Continuous.",
+    "answer": "were studying — We + were + studying: το y διατηρείται στο -ing."
+  },
+  {
+    "question": "While I was reading, my brother ___ (sleep). Χρησιμοποίησε Past Continuous.",
+    "answer": "was sleeping — Παράλληλη πράξη σε εξέλιξη στο παρελθόν."
+  },
+  {
+    "question": "I was cooking when the phone ___ (ring).",
+    "answer": "rang — Το στιγμιαίο γεγονός δίνεται σε Simple Past."
+  },
+  {
+    "question": "She ___ (not travel) abroad since 2020.",
+    "answer": "has not travelled / hasn’t travelled / has not traveled / hasn’t traveled — Present Perfect. Δεκτή η βρετανική και η αμερικανική ορθογραφία."
+  },
+  {
+    "question": "They ___ (play) football yesterday.",
+    "answer": "played — Φωνήεν + y: διατηρούμε το y πριν από -ed."
+  },
+  {
+    "question": "She ___ (try) again last Monday.",
+    "answer": "tried — Σύμφωνο + y: y → ied."
+  },
+  {
+    "question": "The baby ___ (cry) last night.",
+    "answer": "cried — Σύμφωνο + y: cried."
+  },
+  {
+    "question": "He ___ (stop) the car yesterday.",
+    "answer": "stopped — Διπλασιάζουμε το p πριν από -ed."
+  },
+  {
+    "question": "We ___ (visit) our friends last week.",
+    "answer": "visited — Δεν τονίζεται η τελευταία συλλαβή: δεν διπλασιάζουμε το t."
+  },
+  {
+    "question": "She ___ (open) the door a moment ago.",
+    "answer": "opened — Δεν διπλασιάζουμε το n."
+  },
+  {
+    "question": "He ___ (plan) the trip last month.",
+    "answer": "planned — Διπλασιάζουμε το n πριν από -ed."
+  },
+  {
+    "question": "I ___ (never see) snow before now.",
+    "answer": "have never seen — Present Perfect για εμπειρία μέχρι τώρα."
+  },
+  {
+    "question": "When I got home, Mum ___ (already make) dinner.",
+    "answer": "had already made — Το φαγητό ήταν ήδη έτοιμο πριν φτάσω."
+  },
+  {
+    "question": "Sam ___ (not do) his homework yesterday.",
+    "answer": "did not do / didn’t do — Μετά το did not χρησιμοποιούμε το βασικό ρήμα do."
+  },
+  {
+    "question": "She ___ (not write) when I entered. Χρησιμοποίησε Past Continuous.",
+    "answer": "was not writing / wasn’t writing — Was not + writing. Αφαιρούμε το τελικό e."
+  },
+  {
+    "question": "___ you ever ___ (take) a cooking class? Γράψε τα δύο κενά χωρισμένα με / .",
+    "answer": "have / taken — Have you ever taken…?"
+  },
+  {
+    "question": "___ he ___ (buy) the book yesterday? Γράψε τα δύο κενά χωρισμένα με / .",
+    "answer": "did / buy — Did + βασικό ρήμα, χωρίς bought μετά το did."
+  },
+  {
+    "question": "After she had brushed her teeth, she ___ (go) to bed.",
+    "answer": "went — Η μεταγενέστερη πράξη είναι σε Simple Past."
+  },
+  {
+    "question": "She had packed before she ___ (leave).",
+    "answer": "left — Η αναχώρηση είναι το μεταγενέστερο γεγονός."
+  },
+  {
+    "question": "My parents ___ (live) here for ten years and still live here. Χρησιμοποίησε Present Perfect Simple.",
+    "answer": "have lived — Διάρκεια κατάστασης μέχρι το παρόν."
+  },
+  {
+    "question": "When we arrived, he ___ (already drink) his tea.",
+    "answer": "had already drunk — Drink → drank → drunk. Με had χρησιμοποιούμε drunk."
   }
 ]
