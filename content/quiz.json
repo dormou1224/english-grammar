@@ -24,7 +24,7 @@
       "was wash — ringed"
     ],
     "correctIndex": 0,
-    "hint": "Μία πράξη ήταν σε εξέλιξη όταν συνέβη η άλλη.",
+    "hint": "Στο παράδειγμα υπάρχουν δύο παράλληλες πράξεις με διάρκεια: και οι δύο παίρνουν Past Continuous. Πριν σχηματίσεις τον Past Continuous, βρες την αντωνυμία του υποκειμένου: I/he/she/it → was, you/we/they → were. Έπειτα βάλε το κύριο ρήμα σε -ing.",
     "explanation": "Was washing: πράξη σε εξέλιξη. Rang: σύντομο γεγονός.",
     "categories": [
       "keywords"
@@ -39,7 +39,7 @@
       "have — eaten"
     ],
     "correctIndex": 3,
-    "hint": "Εμπειρία ζωής μέχρι τώρα.",
+    "hint": "Έλεγξε αν η πράξη συνδέεται με το παρόν (π.χ. εμπειρία μέχρι τώρα, since, yet). Πριν σχηματίσεις τον Present Perfect, βρες την αντωνυμία του υποκειμένου: he/she/it → has, I/you/we/they → have. Έπειτα βάλε τη μετοχή του ρήματος.",
     "explanation": "Present Perfect: have + eaten. Eat → ate → eaten.",
     "categories": [
       "tense"
@@ -54,7 +54,7 @@
       "reach — had already leave"
     ],
     "correctIndex": 1,
-    "hint": "Το τρένο έφυγε πριν φτάσουμε.",
+    "hint": "Πρόσεξε τη σειρά των γεγονότων: στο μοτίβο που εξασκούμε, η παλαιότερη πράξη παίρνει Past Perfect (had + μετοχή) και η μεταγενέστερη Simple Past. Το had είναι ίδιο για όλα τα πρόσωπα.",
     "explanation": "Reached: παρελθοντικό σημείο. Had left: προηγούμενη πράξη.",
     "categories": [
       "sequence",
@@ -70,7 +70,7 @@
       "has went"
     ],
     "correctIndex": 2,
-    "hint": "Έχει επιστρέψει;",
+    "hint": "Έλεγξε αν η πράξη συνδέεται με το παρόν (π.χ. εμπειρία μέχρι τώρα, since, yet). Πριν σχηματίσεις τον Present Perfect, βρες την αντωνυμία του υποκειμένου: he/she/it → has, I/you/we/they → have. Έπειτα βάλε τη μετοχή του ρήματος.",
     "explanation": "Has gone: έχει φύγει και δεν έχει επιστρέψει.",
     "categories": [
       "keywords",
@@ -102,7 +102,7 @@
       "were having"
     ],
     "correctIndex": 3,
-    "hint": "Το have δηλώνει δραστηριότητα.",
+    "hint": "Η συγκεκριμένη ώρα στο παρελθόν δείχνει, σύμφωνα με τον κανόνα της ύλης μας, πράξη σε εξέλιξη. Πριν σχηματίσεις τον Past Continuous, βρες την αντωνυμία του υποκειμένου: I/he/she/it → was, you/we/they → were. Έπειτα βάλε το κύριο ρήμα σε -ing.",
     "explanation": "We + were having. Το have εδώ σημαίνει δραστηριότητα.",
     "categories": [
       "tense"
@@ -117,7 +117,7 @@
       "Did — been"
     ],
     "correctIndex": 1,
-    "hint": "Ρωτά για εμπειρία επίσκεψης.",
+    "hint": "Έλεγξε αν η πράξη συνδέεται με το παρόν (π.χ. εμπειρία μέχρι τώρα, since, yet). Πριν σχηματίσεις τον Present Perfect, βρες την αντωνυμία του υποκειμένου: he/she/it → has, I/you/we/they → have. Έπειτα βάλε τη μετοχή του ρήματος.",
     "explanation": "Have you ever been to…? Εμπειρία ζωής.",
     "categories": [
       "question"
@@ -132,7 +132,7 @@
       "opened — realised — has forgotten"
     ],
     "correctIndex": 0,
-    "hint": "Η παράλειψη έγινε πριν ανοίξει την τσάντα.",
+    "hint": "Πρόσεξε τη σειρά των γεγονότων: στο μοτίβο που εξασκούμε, η παλαιότερη πράξη παίρνει Past Perfect (had + μετοχή) και η μεταγενέστερη Simple Past. Το had είναι ίδιο για όλα τα πρόσωπα. Πρόσεξε επίσης την ορθογραφία της κατάληξης και αν χρειάζεται αλλαγή του y, αφαίρεση e ή διπλασιασμός συμφώνου.",
     "explanation": "Opened / realised: αόριστος. Had forgotten: προηγούμενη παράλειψη. Το open δεν διπλασιάζει το n.",
     "categories": [
       "keywords",
@@ -181,7 +181,7 @@
       "was walking — saw"
     ],
     "correctIndex": 3,
-    "hint": "Το περπάτημα είναι το πλαίσιο της συνάντησης.",
+    "hint": "Πρόσεξε ποια πράξη είχε διάρκεια και ήταν ήδη σε εξέλιξη: αυτή παίρνει Past Continuous. Το πιο σύντομο γεγονός που παρεμβάλλεται παίρνει Simple Past. Πριν σχηματίσεις τον Past Continuous, βρες την αντωνυμία του υποκειμένου: I/he/she/it → was, you/we/they → were. Έπειτα βάλε το κύριο ρήμα σε -ing.",
     "explanation": "Was walking: διάρκεια. Saw: αόριστος του see.",
     "categories": [
       "keywords"
@@ -196,14 +196,14 @@
       "arrived — had prepare"
     ],
     "correctIndex": 2,
-    "hint": "Το δείπνο είχε ετοιμαστεί πριν από την άφιξη.",
+    "hint": "Πρόσεξε τη σειρά των γεγονότων: στο μοτίβο που εξασκούμε, η παλαιότερη πράξη παίρνει Past Perfect (had + μετοχή) και η μεταγενέστερη Simple Past. Το had είναι ίδιο για όλα τα πρόσωπα.",
     "explanation": "Arrived: αόριστος. Had prepared: προγενέστερη ολοκλήρωση.",
     "categories": [
       "sequence"
     ]
   },
   {
-    "question": "My parents ___ (travel) to London last summer. Χρησιμοποίησε βρετανική ορθογραφία.",
+    "question": "My parents ___ (travel) to London last summer.",
     "options": [
       "travelled",
       "travellied",
@@ -226,7 +226,7 @@
       "have went"
     ],
     "correctIndex": 1,
-    "hint": "Απουσιάζουν ακόμη.",
+    "hint": "Έλεγξε αν η πράξη συνδέεται με το παρόν (π.χ. εμπειρία μέχρι τώρα, since, yet). Πριν σχηματίσεις τον Present Perfect, βρες την αντωνυμία του υποκειμένου: he/she/it → has, I/you/we/they → have. Έπειτα βάλε τη μετοχή του ρήματος.",
     "explanation": "They + have gone: δεν έχουν επιστρέψει.",
     "categories": [
       "question"
@@ -256,7 +256,7 @@
       "was written"
     ],
     "correctIndex": 0,
-    "hint": "Mary: ενικός και τύπος -ing.",
+    "hint": "Η συγκεκριμένη ώρα στο παρελθόν δείχνει, σύμφωνα με τον κανόνα της ύλης μας, πράξη σε εξέλιξη. Πριν σχηματίσεις τον Past Continuous, βρες την αντωνυμία του υποκειμένου: I/he/she/it → was, you/we/they → were. Έπειτα βάλε το κύριο ρήμα σε -ing.",
     "explanation": "Mary + was writing. Αφαιρούμε το e πριν από το -ing.",
     "categories": [
       "keywords"
@@ -271,7 +271,7 @@
       "has — carrying"
     ],
     "correctIndex": 2,
-    "hint": "Πρόσφατη ολοκλήρωση και σύμφωνο + y.",
+    "hint": "Έλεγξε αν η πράξη συνδέεται με το παρόν (π.χ. εμπειρία μέχρι τώρα, since, yet). Πριν σχηματίσεις τον Present Perfect, βρες την αντωνυμία του υποκειμένου: he/she/it → has, I/you/we/they → have. Έπειτα βάλε τη μετοχή του ρήματος.",
     "explanation": "She + has carried. Σύμφωνο + y → ied.",
     "categories": [
       "tense"
@@ -286,7 +286,7 @@
       "got — discovered — had already begun"
     ],
     "correctIndex": 3,
-    "hint": "Η έναρξη προηγήθηκε της άφιξης.",
+    "hint": "Πρόσεξε τη σειρά των γεγονότων: στο μοτίβο που εξασκούμε, η παλαιότερη πράξη παίρνει Past Perfect (had + μετοχή) και η μεταγενέστερη Simple Past. Το had είναι ίδιο για όλα τα πρόσωπα.",
     "explanation": "Got / discovered: αόριστος. Had begun: προηγούμενη έναρξη.",
     "categories": [
       "keywords"
@@ -423,7 +423,7 @@
       "arrived / had finished"
     ],
     "correctIndex": 3,
-    "hint": "Εξέτασε το χρονικό σημείο αναφοράς και τη σειρά των γεγονότων.",
+    "hint": "Πρόσεξε τη σειρά των γεγονότων: στο μοτίβο που εξασκούμε, η παλαιότερη πράξη παίρνει Past Perfect (had + μετοχή) και η μεταγενέστερη Simple Past. Το had είναι ίδιο για όλα τα πρόσωπα.",
     "explanation": "Στο συγκεκριμένο παρελθοντικό παράδειγμα: μετά το by the time Simple Past· στην πράξη που είχε ήδη ολοκληρωθεί Past Perfect.",
     "categories": [
       "sequence"
@@ -1240,7 +1240,7 @@
     "acceptedAnswers": [
       "has written"
     ],
-    "hint": "Βρες πρώτα τον χρόνο και μετά τον σωστό τύπο του ρήματος.",
+    "hint": "Έλεγξε αν η πράξη συνδέεται με το παρόν (π.χ. εμπειρία μέχρι τώρα, since, yet). Πριν σχηματίσεις τον Present Perfect, βρες την αντωνυμία του υποκειμένου: he/she/it → has, I/you/we/they → have. Έπειτα βάλε τη μετοχή του ρήματος.",
     "explanation": "So far: μέχρι τώρα. He + has + written.",
     "categories": [
       "keywords"
@@ -1253,7 +1253,7 @@
       "have not eaten",
       "haven’t eaten"
     ],
-    "hint": "Βρες πρώτα τον χρόνο και μετά τον σωστό τύπο του ρήματος.",
+    "hint": "Έλεγξε αν η πράξη συνδέεται με το παρόν (π.χ. εμπειρία μέχρι τώρα, since, yet). Πριν σχηματίσεις τον Present Perfect, βρες την αντωνυμία του υποκειμένου: he/she/it → has, I/you/we/they → have. Έπειτα βάλε τη μετοχή του ρήματος.",
     "explanation": "Present Perfect: have + not + eaten.",
     "categories": [
       "keywords",
@@ -1263,55 +1263,57 @@
   },
   {
     "type": "typing",
-    "question": "By the time we arrived, the train ___ (leave).",
+    "question": "By the time we ___ (arrive), the train ___ (leave). Γράψε όλα τα κενά, με τη σειρά, χωρισμένα με / .",
     "acceptedAnswers": [
-      "had left"
+      "arrived / had left"
     ],
-    "hint": "Βρες πρώτα τον χρόνο και μετά τον σωστό τύπο του ρήματος.",
-    "explanation": "Το τρένο είχε φύγει πριν φτάσουμε.",
+    "hint": "Πρόσεξε τη σειρά των γεγονότων: στο μοτίβο που εξασκούμε, η παλαιότερη πράξη παίρνει Past Perfect (had + μετοχή) και η μεταγενέστερη Simple Past. Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "explanation": "Η άφιξη είναι το μεταγενέστερο γεγονός: arrived. Το τρένο είχε ήδη φύγει: had + left.",
     "categories": [
       "sequence"
     ]
   },
   {
     "type": "typing",
-    "question": "By the time she ___ (come) home, they had eaten.",
+    "question": "By the time she ___ (come) home, they ___ (eat). Γράψε όλα τα κενά, με τη σειρά, χωρισμένα με / .",
     "acceptedAnswers": [
-      "came"
+      "came / had eaten"
     ],
-    "hint": "Βρες πρώτα τον χρόνο και μετά τον σωστό τύπο του ρήματος.",
-    "explanation": "Η μεταγενέστερη άφιξη είναι σε Simple Past.",
+    "hint": "Πρόσεξε τη σειρά των γεγονότων: στο μοτίβο που εξασκούμε, η παλαιότερη πράξη παίρνει Past Perfect (had + μετοχή) και η μεταγενέστερη Simple Past. Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "explanation": "Came: μεταγενέστερη άφιξη. Had eaten: είχαν φάει πριν από αυτήν.",
     "categories": [
       "sequence"
     ]
   },
   {
     "type": "typing",
-    "question": "After he ___ (finish) his work, he went out. Χρησιμοποίησε Past Perfect.",
+    "question": "After he ___ (finish) his work, he ___ (go) out. Γράψε όλα τα κενά, με τη σειρά, χωρισμένα με / .",
     "acceptedAnswers": [
-      "had finished"
+      "had finished / went",
+      "finished / went"
     ],
-    "hint": "Βρες πρώτα τον χρόνο και μετά τον σωστό τύπο του ρήματος.",
-    "explanation": "Had + finished: ολοκλήρωση πριν από την έξοδο.",
+    "hint": "Πρόσεξε τη σειρά των γεγονότων: στο μοτίβο που εξασκούμε, η παλαιότερη πράξη παίρνει Past Perfect (had + μετοχή) και η μεταγενέστερη Simple Past. Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "explanation": "Πρώτα ολοκλήρωσε τη δουλειά και μετά βγήκε: had finished / went. Επίσης σωστό finished / went, επειδή το after δηλώνει ήδη τη χρονική σειρά.",
     "categories": [
       "sequence"
     ]
   },
   {
     "type": "typing",
-    "question": "Before they left, they ___ (buy) the tickets. Χρησιμοποίησε Past Perfect.",
+    "question": "Before they ___ (leave), they ___ (buy) the tickets. Γράψε όλα τα κενά, με τη σειρά, χωρισμένα με / .",
     "acceptedAnswers": [
-      "had bought"
+      "left / had bought",
+      "left / bought"
     ],
-    "hint": "Βρες πρώτα τον χρόνο και μετά τον σωστό τύπο του ρήματος.",
-    "explanation": "Η αγορά προηγείται της αναχώρησης.",
+    "hint": "Πρόσεξε τη σειρά των γεγονότων: στο μοτίβο που εξασκούμε, η παλαιότερη πράξη παίρνει Past Perfect (had + μετοχή) και η μεταγενέστερη Simple Past. Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "explanation": "Η αγορά προηγήθηκε της αναχώρησης: left / had bought. Επίσης σωστό left / bought, επειδή το before δηλώνει τη σειρά. Buy → bought → bought.",
     "categories": [
       "sequence"
     ]
   },
   {
     "type": "typing",
-    "question": "By midnight, she ___ (complete) the report. Χρησιμοποίησε Past Perfect.",
+    "question": "By midnight, she ___ (complete) the report.",
     "acceptedAnswers": [
       "had completed"
     ],
@@ -1323,11 +1325,11 @@
   },
   {
     "type": "typing",
-    "question": "At six yesterday, we ___ (study). Χρησιμοποίησε Past Continuous.",
+    "question": "At six yesterday, we ___ (study).",
     "acceptedAnswers": [
       "were studying"
     ],
-    "hint": "Βρες πρώτα τον χρόνο και μετά τον σωστό τύπο του ρήματος.",
+    "hint": "Η συγκεκριμένη ώρα στο παρελθόν δείχνει, σύμφωνα με τον κανόνα της ύλης μας, πράξη σε εξέλιξη. Πριν σχηματίσεις τον Past Continuous, βρες την αντωνυμία του υποκειμένου: I/he/she/it → was, you/we/they → were. Έπειτα βάλε το κύριο ρήμα σε -ing. Πρόσεξε επίσης την ορθογραφία της κατάληξης και αν χρειάζεται αλλαγή του y, αφαίρεση e ή διπλασιασμός συμφώνου.",
     "explanation": "We + were + studying: το y διατηρείται στο -ing.",
     "categories": [
       "keywords",
@@ -1336,24 +1338,24 @@
   },
   {
     "type": "typing",
-    "question": "While I was reading, my brother ___ (sleep). Χρησιμοποίησε Past Continuous.",
+    "question": "While I ___ (read), my brother ___ (sleep). Γράψε όλα τα κενά, με τη σειρά, χωρισμένα με / .",
     "acceptedAnswers": [
-      "was sleeping"
+      "was reading / was sleeping"
     ],
-    "hint": "Βρες πρώτα τον χρόνο και μετά τον σωστό τύπο του ρήματος.",
-    "explanation": "Παράλληλη πράξη σε εξέλιξη στο παρελθόν.",
+    "hint": "Στο παράδειγμα υπάρχουν δύο παράλληλες πράξεις με διάρκεια: και οι δύο παίρνουν Past Continuous. Πριν σχηματίσεις τον Past Continuous, βρες την αντωνυμία του υποκειμένου: I/he/she/it → was, you/we/they → were. Έπειτα βάλε το κύριο ρήμα σε -ing.",
+    "explanation": "Δύο παράλληλες πράξεις σε εξέλιξη: was + reading και was + sleeping.",
     "categories": [
       "keywords"
     ]
   },
   {
     "type": "typing",
-    "question": "I was cooking when the phone ___ (ring).",
+    "question": "I ___ (cook) when the phone ___ (ring). Γράψε όλα τα κενά, με τη σειρά, χωρισμένα με / .",
     "acceptedAnswers": [
-      "rang"
+      "was cooking / rang"
     ],
-    "hint": "Βρες πρώτα τον χρόνο και μετά τον σωστό τύπο του ρήματος.",
-    "explanation": "Το στιγμιαίο γεγονός δίνεται σε Simple Past.",
+    "hint": "Πρόσεξε ποια πράξη είχε διάρκεια και ήταν ήδη σε εξέλιξη: αυτή παίρνει Past Continuous. Το πιο σύντομο γεγονός που παρεμβάλλεται παίρνει Simple Past. Πριν σχηματίσεις τον Past Continuous, βρες την αντωνυμία του υποκειμένου: I/he/she/it → was, you/we/they → were. Έπειτα βάλε το κύριο ρήμα σε -ing.",
+    "explanation": "Was cooking: πράξη σε εξέλιξη. Rang: σύντομο γεγονός που συνέβη τότε. Ring → rang → rung.",
     "categories": [
       "keywords"
     ]
@@ -1367,7 +1369,7 @@
       "has not traveled",
       "hasn’t traveled"
     ],
-    "hint": "Βρες πρώτα τον χρόνο και μετά τον σωστό τύπο του ρήματος.",
+    "hint": "Έλεγξε αν η πράξη συνδέεται με το παρόν (π.χ. εμπειρία μέχρι τώρα, since, yet). Πριν σχηματίσεις τον Present Perfect, βρες την αντωνυμία του υποκειμένου: he/she/it → has, I/you/we/they → have. Έπειτα βάλε τη μετοχή του ρήματος. Πρόσεξε επίσης την ορθογραφία της κατάληξης και αν χρειάζεται αλλαγή του y, αφαίρεση e ή διπλασιασμός συμφώνου.",
     "explanation": "Present Perfect. Δεκτή η βρετανική και η αμερικανική ορθογραφία.",
     "categories": [
       "keywords",
@@ -1467,7 +1469,7 @@
     "acceptedAnswers": [
       "have never seen"
     ],
-    "hint": "Βρες πρώτα τον χρόνο και μετά τον σωστό τύπο του ρήματος.",
+    "hint": "Έλεγξε αν η πράξη συνδέεται με το παρόν (π.χ. εμπειρία μέχρι τώρα, since, yet). Πριν σχηματίσεις τον Present Perfect, βρες την αντωνυμία του υποκειμένου: he/she/it → has, I/you/we/they → have. Έπειτα βάλε τη μετοχή του ρήματος.",
     "explanation": "Present Perfect για εμπειρία μέχρι τώρα.",
     "categories": [
       "sequence"
@@ -1475,12 +1477,12 @@
   },
   {
     "type": "typing",
-    "question": "When I got home, Mum ___ (already make) dinner.",
+    "question": "When I ___ (get) home, Mum ___ (already make) dinner. Γράψε όλα τα κενά, με τη σειρά, χωρισμένα με / .",
     "acceptedAnswers": [
-      "had already made"
+      "got / had already made"
     ],
-    "hint": "Βρες πρώτα τον χρόνο και μετά τον σωστό τύπο του ρήματος.",
-    "explanation": "Το φαγητό ήταν ήδη έτοιμο πριν φτάσω.",
+    "hint": "Πρόσεξε τη σειρά των γεγονότων: στο μοτίβο που εξασκούμε, η παλαιότερη πράξη παίρνει Past Perfect (had + μετοχή) και η μεταγενέστερη Simple Past. Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "explanation": "Got: η άφιξη. Had already made: το φαγητό ήταν ήδη έτοιμο πριν από την άφιξη.",
     "categories": [
       "keywords"
     ]
@@ -1502,13 +1504,13 @@
   },
   {
     "type": "typing",
-    "question": "She ___ (not write) when I entered. Χρησιμοποίησε Past Continuous.",
+    "question": "She ___ (not write) when I ___ (enter). Γράψε όλα τα κενά, με τη σειρά, χωρισμένα με / .",
     "acceptedAnswers": [
-      "was not writing",
-      "wasn’t writing"
+      "was not writing / entered",
+      "wasn’t writing / entered"
     ],
-    "hint": "Βρες πρώτα τον χρόνο και μετά τον σωστό τύπο του ρήματος.",
-    "explanation": "Was not + writing. Αφαιρούμε το τελικό e.",
+    "hint": "Στο παράδειγμα υπάρχουν δύο παράλληλες πράξεις με διάρκεια: και οι δύο παίρνουν Past Continuous. Πριν σχηματίσεις τον Past Continuous, βρες την αντωνυμία του υποκειμένου: I/he/she/it → was, you/we/they → were. Έπειτα βάλε το κύριο ρήμα σε -ing.",
+    "explanation": "Was not writing: άρνηση για την κατάσταση σε εξέλιξη. Entered: το σύντομο γεγονός. Write → writing: αφαιρούμε το άφωνο e.",
     "categories": [
       "keywords",
       "negative",
@@ -1517,11 +1519,11 @@
   },
   {
     "type": "typing",
-    "question": "___ you ever ___ (take) a cooking class? Γράψε τα δύο κενά χωρισμένα με / .",
+    "question": "___ you ever ___ (take) a cooking class? Γράψε όλα τα κενά, με τη σειρά, χωρισμένα με / .",
     "acceptedAnswers": [
       "have / taken"
     ],
-    "hint": "Βρες πρώτα τον χρόνο και μετά τον σωστό τύπο του ρήματος.",
+    "hint": "Έλεγξε αν η πράξη συνδέεται με το παρόν (π.χ. εμπειρία μέχρι τώρα, since, yet). Πριν σχηματίσεις τον Present Perfect, βρες την αντωνυμία του υποκειμένου: he/she/it → has, I/you/we/they → have. Έπειτα βάλε τη μετοχή του ρήματος.",
     "explanation": "Have you ever taken…?",
     "categories": [
       "question"
@@ -1529,7 +1531,7 @@
   },
   {
     "type": "typing",
-    "question": "___ he ___ (buy) the book yesterday? Γράψε τα δύο κενά χωρισμένα με / .",
+    "question": "___ he ___ (buy) the book yesterday? Γράψε όλα τα κενά, με τη σειρά, χωρισμένα με / .",
     "acceptedAnswers": [
       "did / buy"
     ],
@@ -1542,35 +1544,37 @@
   },
   {
     "type": "typing",
-    "question": "After she had brushed her teeth, she ___ (go) to bed.",
+    "question": "After she ___ (brush) her teeth, she ___ (go) to bed. Γράψε όλα τα κενά, με τη σειρά, χωρισμένα με / .",
     "acceptedAnswers": [
-      "went"
+      "had brushed / went",
+      "brushed / went"
     ],
-    "hint": "Βρες πρώτα τον χρόνο και μετά τον σωστό τύπο του ρήματος.",
-    "explanation": "Η μεταγενέστερη πράξη είναι σε Simple Past.",
+    "hint": "Πρόσεξε τη σειρά των γεγονότων: στο μοτίβο που εξασκούμε, η παλαιότερη πράξη παίρνει Past Perfect (had + μετοχή) και η μεταγενέστερη Simple Past. Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "explanation": "Η περιποίηση προηγήθηκε του ύπνου: had brushed / went. Επίσης σωστό brushed / went, αφού το after δίνει τη σειρά.",
     "categories": [
       "sequence"
     ]
   },
   {
     "type": "typing",
-    "question": "She had packed before she ___ (leave).",
+    "question": "She ___ (pack) before she ___ (leave). Γράψε όλα τα κενά, με τη σειρά, χωρισμένα με / .",
     "acceptedAnswers": [
-      "left"
+      "had packed / left",
+      "packed / left"
     ],
-    "hint": "Βρες πρώτα τον χρόνο και μετά τον σωστό τύπο του ρήματος.",
-    "explanation": "Η αναχώρηση είναι το μεταγενέστερο γεγονός.",
+    "hint": "Πρόσεξε τη σειρά των γεγονότων: στο μοτίβο που εξασκούμε, η παλαιότερη πράξη παίρνει Past Perfect (had + μετοχή) και η μεταγενέστερη Simple Past. Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "explanation": "Had packed: η προγενέστερη ολοκλήρωση. Left: μεταγενέστερη αναχώρηση. Επίσης σωστό packed / left.",
     "categories": [
       "sequence"
     ]
   },
   {
     "type": "typing",
-    "question": "My parents ___ (live) here for ten years and still live here. Χρησιμοποίησε Present Perfect Simple.",
+    "question": "My parents ___ (live) here for ten years and still live here.",
     "acceptedAnswers": [
       "have lived"
     ],
-    "hint": "Βρες πρώτα τον χρόνο και μετά τον σωστό τύπο του ρήματος.",
+    "hint": "Έλεγξε αν η πράξη συνδέεται με το παρόν (π.χ. εμπειρία μέχρι τώρα, since, yet). Πριν σχηματίσεις τον Present Perfect, βρες την αντωνυμία του υποκειμένου: he/she/it → has, I/you/we/they → have. Έπειτα βάλε τη μετοχή του ρήματος.",
     "explanation": "Διάρκεια κατάστασης μέχρι το παρόν.",
     "categories": [
       "keywords"
@@ -1578,12 +1582,12 @@
   },
   {
     "type": "typing",
-    "question": "When we arrived, he ___ (already drink) his tea.",
+    "question": "When we ___ (arrive), he ___ (already drink) his tea. Γράψε όλα τα κενά, με τη σειρά, χωρισμένα με / .",
     "acceptedAnswers": [
-      "had already drunk"
+      "arrived / had already drunk"
     ],
-    "hint": "Βρες πρώτα τον χρόνο και μετά τον σωστό τύπο του ρήματος.",
-    "explanation": "Drink → drank → drunk. Με had χρησιμοποιούμε drunk.",
+    "hint": "Πρόσεξε τη σειρά των γεγονότων: στο μοτίβο που εξασκούμε, η παλαιότερη πράξη παίρνει Past Perfect (had + μετοχή) και η μεταγενέστερη Simple Past. Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "explanation": "Arrived: μεταγενέστερη άφιξη. Had already drunk: το τσάι είχε ήδη καταναλωθεί. Drink → drank → drunk.",
     "categories": [
       "keywords"
     ]
@@ -1595,7 +1599,7 @@
       "did not go",
       "didn’t go"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Simple Past. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "hint": "Βρες το παρελθοντικό χρονικό σημείο. Ο Simple Past δεν αλλάζει ανάλογα με το πρόσωπο. Σε άρνηση/ερώτηση χρησιμοποιούμε did και το βασικό ρήμα, όχι αόριστο μετά το did.",
     "explanation": "Με did/did not χρησιμοποιούμε go, όχι went ή gone.",
     "categories": [
       "auxiliary",
@@ -1608,11 +1612,11 @@
   },
   {
     "type": "typing",
-    "question": "___ Mum ___ (go) to the park yesterday? Γράψε τα δύο κενά χωρισμένα με / .",
+    "question": "___ Mum ___ (go) to the park yesterday? Γράψε όλα τα κενά, με τη σειρά, χωρισμένα με / .",
     "acceptedAnswers": [
       "did / go"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Simple Past. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "hint": "Βρες το παρελθοντικό χρονικό σημείο. Ο Simple Past δεν αλλάζει ανάλογα με το πρόσωπο. Σε άρνηση/ερώτηση χρησιμοποιούμε did και το βασικό ρήμα, όχι αόριστο μετά το did.",
     "explanation": "Με did/did not χρησιμοποιούμε go, όχι went ή gone.",
     "categories": [
       "auxiliary",
@@ -1625,12 +1629,12 @@
   },
   {
     "type": "typing",
-    "question": "At eight yesterday, Mum ___ (not write) a letter. Χρησιμοποίησε Past Continuous.",
+    "question": "At eight yesterday, Mum ___ (not write) a letter.",
     "acceptedAnswers": [
       "was not writing",
       "wasn’t writing"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Past Continuous. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "hint": "Η συγκεκριμένη ώρα στο παρελθόν δείχνει, σύμφωνα με τον κανόνα της ύλης μας, πράξη σε εξέλιξη. Πριν σχηματίσεις τον Past Continuous, βρες την αντωνυμία του υποκειμένου: I/he/she/it → was, you/we/they → were. Έπειτα βάλε το κύριο ρήμα σε -ing.",
     "explanation": "Mum → she: was + writing. Στην ερώτηση το was προηγείται του υποκειμένου.",
     "categories": [
       "auxiliary",
@@ -1643,11 +1647,11 @@
   },
   {
     "type": "typing",
-    "question": "___ Mum ___ (write) a letter at eight yesterday? Χρησιμοποίησε Past Continuous. Γράψε τα δύο κενά χωρισμένα με / .",
+    "question": "___ Mum ___ (write) a letter at eight yesterday? Γράψε όλα τα κενά, με τη σειρά, χωρισμένα με / .",
     "acceptedAnswers": [
       "was / writing"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Past Continuous. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "hint": "Η συγκεκριμένη ώρα στο παρελθόν δείχνει, σύμφωνα με τον κανόνα της ύλης μας, πράξη σε εξέλιξη. Πριν σχηματίσεις τον Past Continuous, βρες την αντωνυμία του υποκειμένου: I/he/she/it → was, you/we/they → were. Έπειτα βάλε το κύριο ρήμα σε -ing.",
     "explanation": "Mum → she: was + writing. Στην ερώτηση το was προηγείται του υποκειμένου.",
     "categories": [
       "auxiliary",
@@ -1660,12 +1664,12 @@
   },
   {
     "type": "typing",
-    "question": "Mum ___ (not eat) anything since this morning. Χρησιμοποίησε Present Perfect.",
+    "question": "Mum ___ (not eat) anything since this morning.",
     "acceptedAnswers": [
       "has not eaten",
       "hasn’t eaten"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Present Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "hint": "Έλεγξε αν η πράξη συνδέεται με το παρόν (π.χ. εμπειρία μέχρι τώρα, since, yet). Πριν σχηματίσεις τον Present Perfect, βρες την αντωνυμία του υποκειμένου: he/she/it → has, I/you/we/they → have. Έπειτα βάλε τη μετοχή του ρήματος.",
     "explanation": "Mum → she: has + eaten. Eat → ate → eaten.",
     "categories": [
       "auxiliary",
@@ -1679,11 +1683,11 @@
   },
   {
     "type": "typing",
-    "question": "___ Mum ever ___ (eat) sushi? Γράψε τα δύο κενά χωρισμένα με / .",
+    "question": "___ Mum ever ___ (eat) sushi? Γράψε όλα τα κενά, με τη σειρά, χωρισμένα με / .",
     "acceptedAnswers": [
       "has / eaten"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Present Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "hint": "Έλεγξε αν η πράξη συνδέεται με το παρόν (π.χ. εμπειρία μέχρι τώρα, since, yet). Πριν σχηματίσεις τον Present Perfect, βρες την αντωνυμία του υποκειμένου: he/she/it → has, I/you/we/they → have. Έπειτα βάλε τη μετοχή του ρήματος.",
     "explanation": "Mum → she: has + eaten. Eat → ate → eaten.",
     "categories": [
       "auxiliary",
@@ -1697,13 +1701,13 @@
   },
   {
     "type": "typing",
-    "question": "By the time we arrived, Mum ___ (not finish) dinner. Χρησιμοποίησε Past Perfect.",
+    "question": "By the time we ___ (arrive), Mum ___ (not finish) dinner. Γράψε όλα τα κενά, με τη σειρά, χωρισμένα με / .",
     "acceptedAnswers": [
-      "had not finished",
-      "hadn’t finished"
+      "arrived / had not finished",
+      "arrived / hadn’t finished"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Past Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
-    "explanation": "Had + μετοχή για γεγονός πριν από ένα παρελθοντικό σημείο. Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "hint": "Πρόσεξε τη σειρά των γεγονότων: στο μοτίβο που εξασκούμε, η παλαιότερη πράξη παίρνει Past Perfect (had + μετοχή) και η μεταγενέστερη Simple Past. Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "explanation": "Η άφιξη είναι το μεταγενέστερο γεγονός: arrived (Simple Past). Η άλλη πράξη αναφέρεται σε χρόνο πριν από την άφιξη: had + finished, με not στην άρνηση ή had πριν από το υποκείμενο στην ερώτηση.",
     "categories": [
       "auxiliary",
       "negative",
@@ -1714,12 +1718,12 @@
   },
   {
     "type": "typing",
-    "question": "By the time we arrived, ___ Mum ___ (finish) dinner? Χρησιμοποίησε Past Perfect. Γράψε τα δύο κενά χωρισμένα με / .",
+    "question": "By the time we ___ (arrive), ___ Mum ___ (finish) dinner? Γράψε όλα τα κενά, με τη σειρά, χωρισμένα με / .",
     "acceptedAnswers": [
-      "had / finished"
+      "arrived / had / finished"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Past Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
-    "explanation": "Had + μετοχή για γεγονός πριν από ένα παρελθοντικό σημείο. Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "hint": "Πρόσεξε τη σειρά των γεγονότων: στο μοτίβο που εξασκούμε, η παλαιότερη πράξη παίρνει Past Perfect (had + μετοχή) και η μεταγενέστερη Simple Past. Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "explanation": "Η άφιξη είναι το μεταγενέστερο γεγονός: arrived (Simple Past). Η άλλη πράξη αναφέρεται σε χρόνο πριν από την άφιξη: had + finished, με not στην άρνηση ή had πριν από το υποκείμενο στην ερώτηση.",
     "categories": [
       "auxiliary",
       "question",
@@ -1735,7 +1739,7 @@
       "did not go",
       "didn’t go"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Simple Past. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "hint": "Βρες το παρελθοντικό χρονικό σημείο. Ο Simple Past δεν αλλάζει ανάλογα με το πρόσωπο. Σε άρνηση/ερώτηση χρησιμοποιούμε did και το βασικό ρήμα, όχι αόριστο μετά το did.",
     "explanation": "Με did/did not χρησιμοποιούμε go, όχι went ή gone.",
     "categories": [
       "auxiliary",
@@ -1748,11 +1752,11 @@
   },
   {
     "type": "typing",
-    "question": "___ Dad ___ (go) to the park yesterday? Γράψε τα δύο κενά χωρισμένα με / .",
+    "question": "___ Dad ___ (go) to the park yesterday? Γράψε όλα τα κενά, με τη σειρά, χωρισμένα με / .",
     "acceptedAnswers": [
       "did / go"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Simple Past. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "hint": "Βρες το παρελθοντικό χρονικό σημείο. Ο Simple Past δεν αλλάζει ανάλογα με το πρόσωπο. Σε άρνηση/ερώτηση χρησιμοποιούμε did και το βασικό ρήμα, όχι αόριστο μετά το did.",
     "explanation": "Με did/did not χρησιμοποιούμε go, όχι went ή gone.",
     "categories": [
       "auxiliary",
@@ -1765,12 +1769,12 @@
   },
   {
     "type": "typing",
-    "question": "At eight yesterday, Dad ___ (not write) a letter. Χρησιμοποίησε Past Continuous.",
+    "question": "At eight yesterday, Dad ___ (not write) a letter.",
     "acceptedAnswers": [
       "was not writing",
       "wasn’t writing"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Past Continuous. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "hint": "Η συγκεκριμένη ώρα στο παρελθόν δείχνει, σύμφωνα με τον κανόνα της ύλης μας, πράξη σε εξέλιξη. Πριν σχηματίσεις τον Past Continuous, βρες την αντωνυμία του υποκειμένου: I/he/she/it → was, you/we/they → were. Έπειτα βάλε το κύριο ρήμα σε -ing.",
     "explanation": "Dad → he: was + writing. Στην ερώτηση το was προηγείται του υποκειμένου.",
     "categories": [
       "auxiliary",
@@ -1783,11 +1787,11 @@
   },
   {
     "type": "typing",
-    "question": "___ Dad ___ (write) a letter at eight yesterday? Χρησιμοποίησε Past Continuous. Γράψε τα δύο κενά χωρισμένα με / .",
+    "question": "___ Dad ___ (write) a letter at eight yesterday? Γράψε όλα τα κενά, με τη σειρά, χωρισμένα με / .",
     "acceptedAnswers": [
       "was / writing"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Past Continuous. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "hint": "Η συγκεκριμένη ώρα στο παρελθόν δείχνει, σύμφωνα με τον κανόνα της ύλης μας, πράξη σε εξέλιξη. Πριν σχηματίσεις τον Past Continuous, βρες την αντωνυμία του υποκειμένου: I/he/she/it → was, you/we/they → were. Έπειτα βάλε το κύριο ρήμα σε -ing.",
     "explanation": "Dad → he: was + writing. Στην ερώτηση το was προηγείται του υποκειμένου.",
     "categories": [
       "auxiliary",
@@ -1800,12 +1804,12 @@
   },
   {
     "type": "typing",
-    "question": "Dad ___ (not eat) anything since this morning. Χρησιμοποίησε Present Perfect.",
+    "question": "Dad ___ (not eat) anything since this morning.",
     "acceptedAnswers": [
       "has not eaten",
       "hasn’t eaten"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Present Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "hint": "Έλεγξε αν η πράξη συνδέεται με το παρόν (π.χ. εμπειρία μέχρι τώρα, since, yet). Πριν σχηματίσεις τον Present Perfect, βρες την αντωνυμία του υποκειμένου: he/she/it → has, I/you/we/they → have. Έπειτα βάλε τη μετοχή του ρήματος.",
     "explanation": "Dad → he: has + eaten. Eat → ate → eaten.",
     "categories": [
       "auxiliary",
@@ -1819,11 +1823,11 @@
   },
   {
     "type": "typing",
-    "question": "___ Dad ever ___ (eat) sushi? Γράψε τα δύο κενά χωρισμένα με / .",
+    "question": "___ Dad ever ___ (eat) sushi? Γράψε όλα τα κενά, με τη σειρά, χωρισμένα με / .",
     "acceptedAnswers": [
       "has / eaten"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Present Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "hint": "Έλεγξε αν η πράξη συνδέεται με το παρόν (π.χ. εμπειρία μέχρι τώρα, since, yet). Πριν σχηματίσεις τον Present Perfect, βρες την αντωνυμία του υποκειμένου: he/she/it → has, I/you/we/they → have. Έπειτα βάλε τη μετοχή του ρήματος.",
     "explanation": "Dad → he: has + eaten. Eat → ate → eaten.",
     "categories": [
       "auxiliary",
@@ -1837,13 +1841,13 @@
   },
   {
     "type": "typing",
-    "question": "By the time we arrived, Dad ___ (not finish) dinner. Χρησιμοποίησε Past Perfect.",
+    "question": "By the time we ___ (arrive), Dad ___ (not finish) dinner. Γράψε όλα τα κενά, με τη σειρά, χωρισμένα με / .",
     "acceptedAnswers": [
-      "had not finished",
-      "hadn’t finished"
+      "arrived / had not finished",
+      "arrived / hadn’t finished"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Past Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
-    "explanation": "Had + μετοχή για γεγονός πριν από ένα παρελθοντικό σημείο. Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "hint": "Πρόσεξε τη σειρά των γεγονότων: στο μοτίβο που εξασκούμε, η παλαιότερη πράξη παίρνει Past Perfect (had + μετοχή) και η μεταγενέστερη Simple Past. Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "explanation": "Η άφιξη είναι το μεταγενέστερο γεγονός: arrived (Simple Past). Η άλλη πράξη αναφέρεται σε χρόνο πριν από την άφιξη: had + finished, με not στην άρνηση ή had πριν από το υποκείμενο στην ερώτηση.",
     "categories": [
       "auxiliary",
       "negative",
@@ -1854,12 +1858,12 @@
   },
   {
     "type": "typing",
-    "question": "By the time we arrived, ___ Dad ___ (finish) dinner? Χρησιμοποίησε Past Perfect. Γράψε τα δύο κενά χωρισμένα με / .",
+    "question": "By the time we ___ (arrive), ___ Dad ___ (finish) dinner? Γράψε όλα τα κενά, με τη σειρά, χωρισμένα με / .",
     "acceptedAnswers": [
-      "had / finished"
+      "arrived / had / finished"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Past Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
-    "explanation": "Had + μετοχή για γεγονός πριν από ένα παρελθοντικό σημείο. Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "hint": "Πρόσεξε τη σειρά των γεγονότων: στο μοτίβο που εξασκούμε, η παλαιότερη πράξη παίρνει Past Perfect (had + μετοχή) και η μεταγενέστερη Simple Past. Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "explanation": "Η άφιξη είναι το μεταγενέστερο γεγονός: arrived (Simple Past). Η άλλη πράξη αναφέρεται σε χρόνο πριν από την άφιξη: had + finished, με not στην άρνηση ή had πριν από το υποκείμενο στην ερώτηση.",
     "categories": [
       "auxiliary",
       "question",
@@ -1875,7 +1879,7 @@
       "did not go",
       "didn’t go"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Simple Past. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "hint": "Βρες το παρελθοντικό χρονικό σημείο. Ο Simple Past δεν αλλάζει ανάλογα με το πρόσωπο. Σε άρνηση/ερώτηση χρησιμοποιούμε did και το βασικό ρήμα, όχι αόριστο μετά το did.",
     "explanation": "Με did/did not χρησιμοποιούμε go, όχι went ή gone.",
     "categories": [
       "auxiliary",
@@ -1888,11 +1892,11 @@
   },
   {
     "type": "typing",
-    "question": "___ my aunt ___ (go) to the park yesterday? Γράψε τα δύο κενά χωρισμένα με / .",
+    "question": "___ my aunt ___ (go) to the park yesterday? Γράψε όλα τα κενά, με τη σειρά, χωρισμένα με / .",
     "acceptedAnswers": [
       "did / go"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Simple Past. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "hint": "Βρες το παρελθοντικό χρονικό σημείο. Ο Simple Past δεν αλλάζει ανάλογα με το πρόσωπο. Σε άρνηση/ερώτηση χρησιμοποιούμε did και το βασικό ρήμα, όχι αόριστο μετά το did.",
     "explanation": "Με did/did not χρησιμοποιούμε go, όχι went ή gone.",
     "categories": [
       "auxiliary",
@@ -1905,12 +1909,12 @@
   },
   {
     "type": "typing",
-    "question": "At eight yesterday, my aunt ___ (not write) a letter. Χρησιμοποίησε Past Continuous.",
+    "question": "At eight yesterday, my aunt ___ (not write) a letter.",
     "acceptedAnswers": [
       "was not writing",
       "wasn’t writing"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Past Continuous. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "hint": "Η συγκεκριμένη ώρα στο παρελθόν δείχνει, σύμφωνα με τον κανόνα της ύλης μας, πράξη σε εξέλιξη. Πριν σχηματίσεις τον Past Continuous, βρες την αντωνυμία του υποκειμένου: I/he/she/it → was, you/we/they → were. Έπειτα βάλε το κύριο ρήμα σε -ing.",
     "explanation": "my aunt → she: was + writing. Στην ερώτηση το was προηγείται του υποκειμένου.",
     "categories": [
       "auxiliary",
@@ -1923,11 +1927,11 @@
   },
   {
     "type": "typing",
-    "question": "___ my aunt ___ (write) a letter at eight yesterday? Χρησιμοποίησε Past Continuous. Γράψε τα δύο κενά χωρισμένα με / .",
+    "question": "___ my aunt ___ (write) a letter at eight yesterday? Γράψε όλα τα κενά, με τη σειρά, χωρισμένα με / .",
     "acceptedAnswers": [
       "was / writing"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Past Continuous. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "hint": "Η συγκεκριμένη ώρα στο παρελθόν δείχνει, σύμφωνα με τον κανόνα της ύλης μας, πράξη σε εξέλιξη. Πριν σχηματίσεις τον Past Continuous, βρες την αντωνυμία του υποκειμένου: I/he/she/it → was, you/we/they → were. Έπειτα βάλε το κύριο ρήμα σε -ing.",
     "explanation": "my aunt → she: was + writing. Στην ερώτηση το was προηγείται του υποκειμένου.",
     "categories": [
       "auxiliary",
@@ -1940,12 +1944,12 @@
   },
   {
     "type": "typing",
-    "question": "My aunt ___ (not eat) anything since this morning. Χρησιμοποίησε Present Perfect.",
+    "question": "My aunt ___ (not eat) anything since this morning.",
     "acceptedAnswers": [
       "has not eaten",
       "hasn’t eaten"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Present Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "hint": "Έλεγξε αν η πράξη συνδέεται με το παρόν (π.χ. εμπειρία μέχρι τώρα, since, yet). Πριν σχηματίσεις τον Present Perfect, βρες την αντωνυμία του υποκειμένου: he/she/it → has, I/you/we/they → have. Έπειτα βάλε τη μετοχή του ρήματος.",
     "explanation": "my aunt → she: has + eaten. Eat → ate → eaten.",
     "categories": [
       "auxiliary",
@@ -1959,11 +1963,11 @@
   },
   {
     "type": "typing",
-    "question": "___ my aunt ever ___ (eat) sushi? Γράψε τα δύο κενά χωρισμένα με / .",
+    "question": "___ my aunt ever ___ (eat) sushi? Γράψε όλα τα κενά, με τη σειρά, χωρισμένα με / .",
     "acceptedAnswers": [
       "has / eaten"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Present Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "hint": "Έλεγξε αν η πράξη συνδέεται με το παρόν (π.χ. εμπειρία μέχρι τώρα, since, yet). Πριν σχηματίσεις τον Present Perfect, βρες την αντωνυμία του υποκειμένου: he/she/it → has, I/you/we/they → have. Έπειτα βάλε τη μετοχή του ρήματος.",
     "explanation": "my aunt → she: has + eaten. Eat → ate → eaten.",
     "categories": [
       "auxiliary",
@@ -1977,13 +1981,13 @@
   },
   {
     "type": "typing",
-    "question": "By the time we arrived, my aunt ___ (not finish) dinner. Χρησιμοποίησε Past Perfect.",
+    "question": "By the time we ___ (arrive), my aunt ___ (not finish) dinner. Γράψε όλα τα κενά, με τη σειρά, χωρισμένα με / .",
     "acceptedAnswers": [
-      "had not finished",
-      "hadn’t finished"
+      "arrived / had not finished",
+      "arrived / hadn’t finished"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Past Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
-    "explanation": "Had + μετοχή για γεγονός πριν από ένα παρελθοντικό σημείο. Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "hint": "Πρόσεξε τη σειρά των γεγονότων: στο μοτίβο που εξασκούμε, η παλαιότερη πράξη παίρνει Past Perfect (had + μετοχή) και η μεταγενέστερη Simple Past. Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "explanation": "Η άφιξη είναι το μεταγενέστερο γεγονός: arrived (Simple Past). Η άλλη πράξη αναφέρεται σε χρόνο πριν από την άφιξη: had + finished, με not στην άρνηση ή had πριν από το υποκείμενο στην ερώτηση.",
     "categories": [
       "auxiliary",
       "negative",
@@ -1994,12 +1998,12 @@
   },
   {
     "type": "typing",
-    "question": "By the time we arrived, ___ my aunt ___ (finish) dinner? Χρησιμοποίησε Past Perfect. Γράψε τα δύο κενά χωρισμένα με / .",
+    "question": "By the time we ___ (arrive), ___ my aunt ___ (finish) dinner? Γράψε όλα τα κενά, με τη σειρά, χωρισμένα με / .",
     "acceptedAnswers": [
-      "had / finished"
+      "arrived / had / finished"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Past Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
-    "explanation": "Had + μετοχή για γεγονός πριν από ένα παρελθοντικό σημείο. Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "hint": "Πρόσεξε τη σειρά των γεγονότων: στο μοτίβο που εξασκούμε, η παλαιότερη πράξη παίρνει Past Perfect (had + μετοχή) και η μεταγενέστερη Simple Past. Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "explanation": "Η άφιξη είναι το μεταγενέστερο γεγονός: arrived (Simple Past). Η άλλη πράξη αναφέρεται σε χρόνο πριν από την άφιξη: had + finished, με not στην άρνηση ή had πριν από το υποκείμενο στην ερώτηση.",
     "categories": [
       "auxiliary",
       "question",
@@ -2015,7 +2019,7 @@
       "did not go",
       "didn’t go"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Simple Past. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "hint": "Βρες το παρελθοντικό χρονικό σημείο. Ο Simple Past δεν αλλάζει ανάλογα με το πρόσωπο. Σε άρνηση/ερώτηση χρησιμοποιούμε did και το βασικό ρήμα, όχι αόριστο μετά το did.",
     "explanation": "Με did/did not χρησιμοποιούμε go, όχι went ή gone.",
     "categories": [
       "auxiliary",
@@ -2028,11 +2032,11 @@
   },
   {
     "type": "typing",
-    "question": "___ my aunts ___ (go) to the park yesterday? Γράψε τα δύο κενά χωρισμένα με / .",
+    "question": "___ my aunts ___ (go) to the park yesterday? Γράψε όλα τα κενά, με τη σειρά, χωρισμένα με / .",
     "acceptedAnswers": [
       "did / go"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Simple Past. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "hint": "Βρες το παρελθοντικό χρονικό σημείο. Ο Simple Past δεν αλλάζει ανάλογα με το πρόσωπο. Σε άρνηση/ερώτηση χρησιμοποιούμε did και το βασικό ρήμα, όχι αόριστο μετά το did.",
     "explanation": "Με did/did not χρησιμοποιούμε go, όχι went ή gone.",
     "categories": [
       "auxiliary",
@@ -2045,12 +2049,12 @@
   },
   {
     "type": "typing",
-    "question": "At eight yesterday, my aunts ___ (not write) a letter. Χρησιμοποίησε Past Continuous.",
+    "question": "At eight yesterday, my aunts ___ (not write) a letter.",
     "acceptedAnswers": [
       "were not writing",
       "weren’t writing"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Past Continuous. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "hint": "Η συγκεκριμένη ώρα στο παρελθόν δείχνει, σύμφωνα με τον κανόνα της ύλης μας, πράξη σε εξέλιξη. Πριν σχηματίσεις τον Past Continuous, βρες την αντωνυμία του υποκειμένου: I/he/she/it → was, you/we/they → were. Έπειτα βάλε το κύριο ρήμα σε -ing.",
     "explanation": "my aunts → they: were + writing. Στην ερώτηση το were προηγείται του υποκειμένου.",
     "categories": [
       "auxiliary",
@@ -2063,11 +2067,11 @@
   },
   {
     "type": "typing",
-    "question": "___ my aunts ___ (write) a letter at eight yesterday? Χρησιμοποίησε Past Continuous. Γράψε τα δύο κενά χωρισμένα με / .",
+    "question": "___ my aunts ___ (write) a letter at eight yesterday? Γράψε όλα τα κενά, με τη σειρά, χωρισμένα με / .",
     "acceptedAnswers": [
       "were / writing"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Past Continuous. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "hint": "Η συγκεκριμένη ώρα στο παρελθόν δείχνει, σύμφωνα με τον κανόνα της ύλης μας, πράξη σε εξέλιξη. Πριν σχηματίσεις τον Past Continuous, βρες την αντωνυμία του υποκειμένου: I/he/she/it → was, you/we/they → were. Έπειτα βάλε το κύριο ρήμα σε -ing.",
     "explanation": "my aunts → they: were + writing. Στην ερώτηση το were προηγείται του υποκειμένου.",
     "categories": [
       "auxiliary",
@@ -2080,12 +2084,12 @@
   },
   {
     "type": "typing",
-    "question": "My aunts ___ (not eat) anything since this morning. Χρησιμοποίησε Present Perfect.",
+    "question": "My aunts ___ (not eat) anything since this morning.",
     "acceptedAnswers": [
       "have not eaten",
       "haven’t eaten"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Present Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "hint": "Έλεγξε αν η πράξη συνδέεται με το παρόν (π.χ. εμπειρία μέχρι τώρα, since, yet). Πριν σχηματίσεις τον Present Perfect, βρες την αντωνυμία του υποκειμένου: he/she/it → has, I/you/we/they → have. Έπειτα βάλε τη μετοχή του ρήματος.",
     "explanation": "my aunts → they: have + eaten. Eat → ate → eaten.",
     "categories": [
       "auxiliary",
@@ -2099,11 +2103,11 @@
   },
   {
     "type": "typing",
-    "question": "___ my aunts ever ___ (eat) sushi? Γράψε τα δύο κενά χωρισμένα με / .",
+    "question": "___ my aunts ever ___ (eat) sushi? Γράψε όλα τα κενά, με τη σειρά, χωρισμένα με / .",
     "acceptedAnswers": [
       "have / eaten"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Present Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "hint": "Έλεγξε αν η πράξη συνδέεται με το παρόν (π.χ. εμπειρία μέχρι τώρα, since, yet). Πριν σχηματίσεις τον Present Perfect, βρες την αντωνυμία του υποκειμένου: he/she/it → has, I/you/we/they → have. Έπειτα βάλε τη μετοχή του ρήματος.",
     "explanation": "my aunts → they: have + eaten. Eat → ate → eaten.",
     "categories": [
       "auxiliary",
@@ -2117,13 +2121,13 @@
   },
   {
     "type": "typing",
-    "question": "By the time we arrived, my aunts ___ (not finish) dinner. Χρησιμοποίησε Past Perfect.",
+    "question": "By the time we ___ (arrive), my aunts ___ (not finish) dinner. Γράψε όλα τα κενά, με τη σειρά, χωρισμένα με / .",
     "acceptedAnswers": [
-      "had not finished",
-      "hadn’t finished"
+      "arrived / had not finished",
+      "arrived / hadn’t finished"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Past Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
-    "explanation": "Had + μετοχή για γεγονός πριν από ένα παρελθοντικό σημείο. Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "hint": "Πρόσεξε τη σειρά των γεγονότων: στο μοτίβο που εξασκούμε, η παλαιότερη πράξη παίρνει Past Perfect (had + μετοχή) και η μεταγενέστερη Simple Past. Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "explanation": "Η άφιξη είναι το μεταγενέστερο γεγονός: arrived (Simple Past). Η άλλη πράξη αναφέρεται σε χρόνο πριν από την άφιξη: had + finished, με not στην άρνηση ή had πριν από το υποκείμενο στην ερώτηση.",
     "categories": [
       "auxiliary",
       "negative",
@@ -2134,12 +2138,12 @@
   },
   {
     "type": "typing",
-    "question": "By the time we arrived, ___ my aunts ___ (finish) dinner? Χρησιμοποίησε Past Perfect. Γράψε τα δύο κενά χωρισμένα με / .",
+    "question": "By the time we ___ (arrive), ___ my aunts ___ (finish) dinner? Γράψε όλα τα κενά, με τη σειρά, χωρισμένα με / .",
     "acceptedAnswers": [
-      "had / finished"
+      "arrived / had / finished"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Past Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
-    "explanation": "Had + μετοχή για γεγονός πριν από ένα παρελθοντικό σημείο. Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "hint": "Πρόσεξε τη σειρά των γεγονότων: στο μοτίβο που εξασκούμε, η παλαιότερη πράξη παίρνει Past Perfect (had + μετοχή) και η μεταγενέστερη Simple Past. Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "explanation": "Η άφιξη είναι το μεταγενέστερο γεγονός: arrived (Simple Past). Η άλλη πράξη αναφέρεται σε χρόνο πριν από την άφιξη: had + finished, με not στην άρνηση ή had πριν από το υποκείμενο στην ερώτηση.",
     "categories": [
       "auxiliary",
       "question",
@@ -2155,7 +2159,7 @@
       "did not go",
       "didn’t go"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Simple Past. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "hint": "Βρες το παρελθοντικό χρονικό σημείο. Ο Simple Past δεν αλλάζει ανάλογα με το πρόσωπο. Σε άρνηση/ερώτηση χρησιμοποιούμε did και το βασικό ρήμα, όχι αόριστο μετά το did.",
     "explanation": "Με did/did not χρησιμοποιούμε go, όχι went ή gone.",
     "categories": [
       "auxiliary",
@@ -2168,11 +2172,11 @@
   },
   {
     "type": "typing",
-    "question": "___ the child ___ (go) to the park yesterday? Γράψε τα δύο κενά χωρισμένα με / .",
+    "question": "___ the child ___ (go) to the park yesterday? Γράψε όλα τα κενά, με τη σειρά, χωρισμένα με / .",
     "acceptedAnswers": [
       "did / go"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Simple Past. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "hint": "Βρες το παρελθοντικό χρονικό σημείο. Ο Simple Past δεν αλλάζει ανάλογα με το πρόσωπο. Σε άρνηση/ερώτηση χρησιμοποιούμε did και το βασικό ρήμα, όχι αόριστο μετά το did.",
     "explanation": "Με did/did not χρησιμοποιούμε go, όχι went ή gone.",
     "categories": [
       "auxiliary",
@@ -2185,12 +2189,12 @@
   },
   {
     "type": "typing",
-    "question": "At eight yesterday, the child ___ (not write) a letter. Χρησιμοποίησε Past Continuous.",
+    "question": "At eight yesterday, the child ___ (not write) a letter.",
     "acceptedAnswers": [
       "was not writing",
       "wasn’t writing"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Past Continuous. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "hint": "Η συγκεκριμένη ώρα στο παρελθόν δείχνει, σύμφωνα με τον κανόνα της ύλης μας, πράξη σε εξέλιξη. Πριν σχηματίσεις τον Past Continuous, βρες την αντωνυμία του υποκειμένου: I/he/she/it → was, you/we/they → were. Έπειτα βάλε το κύριο ρήμα σε -ing.",
     "explanation": "the child → he/she: was + writing. Στην ερώτηση το was προηγείται του υποκειμένου.",
     "categories": [
       "auxiliary",
@@ -2203,11 +2207,11 @@
   },
   {
     "type": "typing",
-    "question": "___ the child ___ (write) a letter at eight yesterday? Χρησιμοποίησε Past Continuous. Γράψε τα δύο κενά χωρισμένα με / .",
+    "question": "___ the child ___ (write) a letter at eight yesterday? Γράψε όλα τα κενά, με τη σειρά, χωρισμένα με / .",
     "acceptedAnswers": [
       "was / writing"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Past Continuous. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "hint": "Η συγκεκριμένη ώρα στο παρελθόν δείχνει, σύμφωνα με τον κανόνα της ύλης μας, πράξη σε εξέλιξη. Πριν σχηματίσεις τον Past Continuous, βρες την αντωνυμία του υποκειμένου: I/he/she/it → was, you/we/they → were. Έπειτα βάλε το κύριο ρήμα σε -ing.",
     "explanation": "the child → he/she: was + writing. Στην ερώτηση το was προηγείται του υποκειμένου.",
     "categories": [
       "auxiliary",
@@ -2220,12 +2224,12 @@
   },
   {
     "type": "typing",
-    "question": "The child ___ (not eat) anything since this morning. Χρησιμοποίησε Present Perfect.",
+    "question": "The child ___ (not eat) anything since this morning.",
     "acceptedAnswers": [
       "has not eaten",
       "hasn’t eaten"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Present Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "hint": "Έλεγξε αν η πράξη συνδέεται με το παρόν (π.χ. εμπειρία μέχρι τώρα, since, yet). Πριν σχηματίσεις τον Present Perfect, βρες την αντωνυμία του υποκειμένου: he/she/it → has, I/you/we/they → have. Έπειτα βάλε τη μετοχή του ρήματος.",
     "explanation": "the child → he/she: has + eaten. Eat → ate → eaten.",
     "categories": [
       "auxiliary",
@@ -2239,11 +2243,11 @@
   },
   {
     "type": "typing",
-    "question": "___ the child ever ___ (eat) sushi? Γράψε τα δύο κενά χωρισμένα με / .",
+    "question": "___ the child ever ___ (eat) sushi? Γράψε όλα τα κενά, με τη σειρά, χωρισμένα με / .",
     "acceptedAnswers": [
       "has / eaten"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Present Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "hint": "Έλεγξε αν η πράξη συνδέεται με το παρόν (π.χ. εμπειρία μέχρι τώρα, since, yet). Πριν σχηματίσεις τον Present Perfect, βρες την αντωνυμία του υποκειμένου: he/she/it → has, I/you/we/they → have. Έπειτα βάλε τη μετοχή του ρήματος.",
     "explanation": "the child → he/she: has + eaten. Eat → ate → eaten.",
     "categories": [
       "auxiliary",
@@ -2257,13 +2261,13 @@
   },
   {
     "type": "typing",
-    "question": "By the time we arrived, the child ___ (not finish) dinner. Χρησιμοποίησε Past Perfect.",
+    "question": "By the time we ___ (arrive), the child ___ (not finish) dinner. Γράψε όλα τα κενά, με τη σειρά, χωρισμένα με / .",
     "acceptedAnswers": [
-      "had not finished",
-      "hadn’t finished"
+      "arrived / had not finished",
+      "arrived / hadn’t finished"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Past Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
-    "explanation": "Had + μετοχή για γεγονός πριν από ένα παρελθοντικό σημείο. Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "hint": "Πρόσεξε τη σειρά των γεγονότων: στο μοτίβο που εξασκούμε, η παλαιότερη πράξη παίρνει Past Perfect (had + μετοχή) και η μεταγενέστερη Simple Past. Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "explanation": "Η άφιξη είναι το μεταγενέστερο γεγονός: arrived (Simple Past). Η άλλη πράξη αναφέρεται σε χρόνο πριν από την άφιξη: had + finished, με not στην άρνηση ή had πριν από το υποκείμενο στην ερώτηση.",
     "categories": [
       "auxiliary",
       "negative",
@@ -2274,12 +2278,12 @@
   },
   {
     "type": "typing",
-    "question": "By the time we arrived, ___ the child ___ (finish) dinner? Χρησιμοποίησε Past Perfect. Γράψε τα δύο κενά χωρισμένα με / .",
+    "question": "By the time we ___ (arrive), ___ the child ___ (finish) dinner? Γράψε όλα τα κενά, με τη σειρά, χωρισμένα με / .",
     "acceptedAnswers": [
-      "had / finished"
+      "arrived / had / finished"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Past Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
-    "explanation": "Had + μετοχή για γεγονός πριν από ένα παρελθοντικό σημείο. Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "hint": "Πρόσεξε τη σειρά των γεγονότων: στο μοτίβο που εξασκούμε, η παλαιότερη πράξη παίρνει Past Perfect (had + μετοχή) και η μεταγενέστερη Simple Past. Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "explanation": "Η άφιξη είναι το μεταγενέστερο γεγονός: arrived (Simple Past). Η άλλη πράξη αναφέρεται σε χρόνο πριν από την άφιξη: had + finished, με not στην άρνηση ή had πριν από το υποκείμενο στην ερώτηση.",
     "categories": [
       "auxiliary",
       "question",
@@ -2295,7 +2299,7 @@
       "did not go",
       "didn’t go"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Simple Past. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "hint": "Βρες το παρελθοντικό χρονικό σημείο. Ο Simple Past δεν αλλάζει ανάλογα με το πρόσωπο. Σε άρνηση/ερώτηση χρησιμοποιούμε did και το βασικό ρήμα, όχι αόριστο μετά το did.",
     "explanation": "Με did/did not χρησιμοποιούμε go, όχι went ή gone.",
     "categories": [
       "auxiliary",
@@ -2308,11 +2312,11 @@
   },
   {
     "type": "typing",
-    "question": "___ the children ___ (go) to the park yesterday? Γράψε τα δύο κενά χωρισμένα με / .",
+    "question": "___ the children ___ (go) to the park yesterday? Γράψε όλα τα κενά, με τη σειρά, χωρισμένα με / .",
     "acceptedAnswers": [
       "did / go"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Simple Past. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "hint": "Βρες το παρελθοντικό χρονικό σημείο. Ο Simple Past δεν αλλάζει ανάλογα με το πρόσωπο. Σε άρνηση/ερώτηση χρησιμοποιούμε did και το βασικό ρήμα, όχι αόριστο μετά το did.",
     "explanation": "Με did/did not χρησιμοποιούμε go, όχι went ή gone.",
     "categories": [
       "auxiliary",
@@ -2325,12 +2329,12 @@
   },
   {
     "type": "typing",
-    "question": "At eight yesterday, the children ___ (not write) a letter. Χρησιμοποίησε Past Continuous.",
+    "question": "At eight yesterday, the children ___ (not write) a letter.",
     "acceptedAnswers": [
       "were not writing",
       "weren’t writing"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Past Continuous. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "hint": "Η συγκεκριμένη ώρα στο παρελθόν δείχνει, σύμφωνα με τον κανόνα της ύλης μας, πράξη σε εξέλιξη. Πριν σχηματίσεις τον Past Continuous, βρες την αντωνυμία του υποκειμένου: I/he/she/it → was, you/we/they → were. Έπειτα βάλε το κύριο ρήμα σε -ing.",
     "explanation": "the children → they: were + writing. Στην ερώτηση το were προηγείται του υποκειμένου.",
     "categories": [
       "auxiliary",
@@ -2343,11 +2347,11 @@
   },
   {
     "type": "typing",
-    "question": "___ the children ___ (write) a letter at eight yesterday? Χρησιμοποίησε Past Continuous. Γράψε τα δύο κενά χωρισμένα με / .",
+    "question": "___ the children ___ (write) a letter at eight yesterday? Γράψε όλα τα κενά, με τη σειρά, χωρισμένα με / .",
     "acceptedAnswers": [
       "were / writing"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Past Continuous. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "hint": "Η συγκεκριμένη ώρα στο παρελθόν δείχνει, σύμφωνα με τον κανόνα της ύλης μας, πράξη σε εξέλιξη. Πριν σχηματίσεις τον Past Continuous, βρες την αντωνυμία του υποκειμένου: I/he/she/it → was, you/we/they → were. Έπειτα βάλε το κύριο ρήμα σε -ing.",
     "explanation": "the children → they: were + writing. Στην ερώτηση το were προηγείται του υποκειμένου.",
     "categories": [
       "auxiliary",
@@ -2360,12 +2364,12 @@
   },
   {
     "type": "typing",
-    "question": "The children ___ (not eat) anything since this morning. Χρησιμοποίησε Present Perfect.",
+    "question": "The children ___ (not eat) anything since this morning.",
     "acceptedAnswers": [
       "have not eaten",
       "haven’t eaten"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Present Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "hint": "Έλεγξε αν η πράξη συνδέεται με το παρόν (π.χ. εμπειρία μέχρι τώρα, since, yet). Πριν σχηματίσεις τον Present Perfect, βρες την αντωνυμία του υποκειμένου: he/she/it → has, I/you/we/they → have. Έπειτα βάλε τη μετοχή του ρήματος.",
     "explanation": "the children → they: have + eaten. Eat → ate → eaten.",
     "categories": [
       "auxiliary",
@@ -2379,11 +2383,11 @@
   },
   {
     "type": "typing",
-    "question": "___ the children ever ___ (eat) sushi? Γράψε τα δύο κενά χωρισμένα με / .",
+    "question": "___ the children ever ___ (eat) sushi? Γράψε όλα τα κενά, με τη σειρά, χωρισμένα με / .",
     "acceptedAnswers": [
       "have / eaten"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Present Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "hint": "Έλεγξε αν η πράξη συνδέεται με το παρόν (π.χ. εμπειρία μέχρι τώρα, since, yet). Πριν σχηματίσεις τον Present Perfect, βρες την αντωνυμία του υποκειμένου: he/she/it → has, I/you/we/they → have. Έπειτα βάλε τη μετοχή του ρήματος.",
     "explanation": "the children → they: have + eaten. Eat → ate → eaten.",
     "categories": [
       "auxiliary",
@@ -2397,13 +2401,13 @@
   },
   {
     "type": "typing",
-    "question": "By the time we arrived, the children ___ (not finish) dinner. Χρησιμοποίησε Past Perfect.",
+    "question": "By the time we ___ (arrive), the children ___ (not finish) dinner. Γράψε όλα τα κενά, με τη σειρά, χωρισμένα με / .",
     "acceptedAnswers": [
-      "had not finished",
-      "hadn’t finished"
+      "arrived / had not finished",
+      "arrived / hadn’t finished"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Past Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
-    "explanation": "Had + μετοχή για γεγονός πριν από ένα παρελθοντικό σημείο. Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "hint": "Πρόσεξε τη σειρά των γεγονότων: στο μοτίβο που εξασκούμε, η παλαιότερη πράξη παίρνει Past Perfect (had + μετοχή) και η μεταγενέστερη Simple Past. Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "explanation": "Η άφιξη είναι το μεταγενέστερο γεγονός: arrived (Simple Past). Η άλλη πράξη αναφέρεται σε χρόνο πριν από την άφιξη: had + finished, με not στην άρνηση ή had πριν από το υποκείμενο στην ερώτηση.",
     "categories": [
       "auxiliary",
       "negative",
@@ -2414,12 +2418,12 @@
   },
   {
     "type": "typing",
-    "question": "By the time we arrived, ___ the children ___ (finish) dinner? Χρησιμοποίησε Past Perfect. Γράψε τα δύο κενά χωρισμένα με / .",
+    "question": "By the time we ___ (arrive), ___ the children ___ (finish) dinner? Γράψε όλα τα κενά, με τη σειρά, χωρισμένα με / .",
     "acceptedAnswers": [
-      "had / finished"
+      "arrived / had / finished"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Past Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
-    "explanation": "Had + μετοχή για γεγονός πριν από ένα παρελθοντικό σημείο. Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "hint": "Πρόσεξε τη σειρά των γεγονότων: στο μοτίβο που εξασκούμε, η παλαιότερη πράξη παίρνει Past Perfect (had + μετοχή) και η μεταγενέστερη Simple Past. Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "explanation": "Η άφιξη είναι το μεταγενέστερο γεγονός: arrived (Simple Past). Η άλλη πράξη αναφέρεται σε χρόνο πριν από την άφιξη: had + finished, με not στην άρνηση ή had πριν από το υποκείμενο στην ερώτηση.",
     "categories": [
       "auxiliary",
       "question",
@@ -2435,7 +2439,7 @@
       "did not go",
       "didn’t go"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Simple Past. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "hint": "Βρες το παρελθοντικό χρονικό σημείο. Ο Simple Past δεν αλλάζει ανάλογα με το πρόσωπο. Σε άρνηση/ερώτηση χρησιμοποιούμε did και το βασικό ρήμα, όχι αόριστο μετά το did.",
     "explanation": "Με did/did not χρησιμοποιούμε go, όχι went ή gone.",
     "categories": [
       "auxiliary",
@@ -2448,11 +2452,11 @@
   },
   {
     "type": "typing",
-    "question": "___ Andrew and his father ___ (go) to the park yesterday? Γράψε τα δύο κενά χωρισμένα με / .",
+    "question": "___ Andrew and his father ___ (go) to the park yesterday? Γράψε όλα τα κενά, με τη σειρά, χωρισμένα με / .",
     "acceptedAnswers": [
       "did / go"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Simple Past. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "hint": "Βρες το παρελθοντικό χρονικό σημείο. Ο Simple Past δεν αλλάζει ανάλογα με το πρόσωπο. Σε άρνηση/ερώτηση χρησιμοποιούμε did και το βασικό ρήμα, όχι αόριστο μετά το did.",
     "explanation": "Με did/did not χρησιμοποιούμε go, όχι went ή gone.",
     "categories": [
       "auxiliary",
@@ -2465,12 +2469,12 @@
   },
   {
     "type": "typing",
-    "question": "At eight yesterday, Andrew and his father ___ (not write) a letter. Χρησιμοποίησε Past Continuous.",
+    "question": "At eight yesterday, Andrew and his father ___ (not write) a letter.",
     "acceptedAnswers": [
       "were not writing",
       "weren’t writing"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Past Continuous. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "hint": "Η συγκεκριμένη ώρα στο παρελθόν δείχνει, σύμφωνα με τον κανόνα της ύλης μας, πράξη σε εξέλιξη. Πριν σχηματίσεις τον Past Continuous, βρες την αντωνυμία του υποκειμένου: I/he/she/it → was, you/we/they → were. Έπειτα βάλε το κύριο ρήμα σε -ing.",
     "explanation": "Andrew and his father → they: were + writing. Στην ερώτηση το were προηγείται του υποκειμένου.",
     "categories": [
       "auxiliary",
@@ -2483,11 +2487,11 @@
   },
   {
     "type": "typing",
-    "question": "___ Andrew and his father ___ (write) a letter at eight yesterday? Χρησιμοποίησε Past Continuous. Γράψε τα δύο κενά χωρισμένα με / .",
+    "question": "___ Andrew and his father ___ (write) a letter at eight yesterday? Γράψε όλα τα κενά, με τη σειρά, χωρισμένα με / .",
     "acceptedAnswers": [
       "were / writing"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Past Continuous. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "hint": "Η συγκεκριμένη ώρα στο παρελθόν δείχνει, σύμφωνα με τον κανόνα της ύλης μας, πράξη σε εξέλιξη. Πριν σχηματίσεις τον Past Continuous, βρες την αντωνυμία του υποκειμένου: I/he/she/it → was, you/we/they → were. Έπειτα βάλε το κύριο ρήμα σε -ing.",
     "explanation": "Andrew and his father → they: were + writing. Στην ερώτηση το were προηγείται του υποκειμένου.",
     "categories": [
       "auxiliary",
@@ -2500,12 +2504,12 @@
   },
   {
     "type": "typing",
-    "question": "Andrew and his father ___ (not eat) anything since this morning. Χρησιμοποίησε Present Perfect.",
+    "question": "Andrew and his father ___ (not eat) anything since this morning.",
     "acceptedAnswers": [
       "have not eaten",
       "haven’t eaten"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Present Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "hint": "Έλεγξε αν η πράξη συνδέεται με το παρόν (π.χ. εμπειρία μέχρι τώρα, since, yet). Πριν σχηματίσεις τον Present Perfect, βρες την αντωνυμία του υποκειμένου: he/she/it → has, I/you/we/they → have. Έπειτα βάλε τη μετοχή του ρήματος.",
     "explanation": "Andrew and his father → they: have + eaten. Eat → ate → eaten.",
     "categories": [
       "auxiliary",
@@ -2519,11 +2523,11 @@
   },
   {
     "type": "typing",
-    "question": "___ Andrew and his father ever ___ (eat) sushi? Γράψε τα δύο κενά χωρισμένα με / .",
+    "question": "___ Andrew and his father ever ___ (eat) sushi? Γράψε όλα τα κενά, με τη σειρά, χωρισμένα με / .",
     "acceptedAnswers": [
       "have / eaten"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Present Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "hint": "Έλεγξε αν η πράξη συνδέεται με το παρόν (π.χ. εμπειρία μέχρι τώρα, since, yet). Πριν σχηματίσεις τον Present Perfect, βρες την αντωνυμία του υποκειμένου: he/she/it → has, I/you/we/they → have. Έπειτα βάλε τη μετοχή του ρήματος.",
     "explanation": "Andrew and his father → they: have + eaten. Eat → ate → eaten.",
     "categories": [
       "auxiliary",
@@ -2537,13 +2541,13 @@
   },
   {
     "type": "typing",
-    "question": "By the time we arrived, Andrew and his father ___ (not finish) dinner. Χρησιμοποίησε Past Perfect.",
+    "question": "By the time we ___ (arrive), Andrew and his father ___ (not finish) dinner. Γράψε όλα τα κενά, με τη σειρά, χωρισμένα με / .",
     "acceptedAnswers": [
-      "had not finished",
-      "hadn’t finished"
+      "arrived / had not finished",
+      "arrived / hadn’t finished"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Past Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
-    "explanation": "Had + μετοχή για γεγονός πριν από ένα παρελθοντικό σημείο. Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "hint": "Πρόσεξε τη σειρά των γεγονότων: στο μοτίβο που εξασκούμε, η παλαιότερη πράξη παίρνει Past Perfect (had + μετοχή) και η μεταγενέστερη Simple Past. Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "explanation": "Η άφιξη είναι το μεταγενέστερο γεγονός: arrived (Simple Past). Η άλλη πράξη αναφέρεται σε χρόνο πριν από την άφιξη: had + finished, με not στην άρνηση ή had πριν από το υποκείμενο στην ερώτηση.",
     "categories": [
       "auxiliary",
       "negative",
@@ -2554,12 +2558,12 @@
   },
   {
     "type": "typing",
-    "question": "By the time we arrived, ___ Andrew and his father ___ (finish) dinner? Χρησιμοποίησε Past Perfect. Γράψε τα δύο κενά χωρισμένα με / .",
+    "question": "By the time we ___ (arrive), ___ Andrew and his father ___ (finish) dinner? Γράψε όλα τα κενά, με τη σειρά, χωρισμένα με / .",
     "acceptedAnswers": [
-      "had / finished"
+      "arrived / had / finished"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Past Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
-    "explanation": "Had + μετοχή για γεγονός πριν από ένα παρελθοντικό σημείο. Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "hint": "Πρόσεξε τη σειρά των γεγονότων: στο μοτίβο που εξασκούμε, η παλαιότερη πράξη παίρνει Past Perfect (had + μετοχή) και η μεταγενέστερη Simple Past. Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "explanation": "Η άφιξη είναι το μεταγενέστερο γεγονός: arrived (Simple Past). Η άλλη πράξη αναφέρεται σε χρόνο πριν από την άφιξη: had + finished, με not στην άρνηση ή had πριν από το υποκείμενο στην ερώτηση.",
     "categories": [
       "auxiliary",
       "question",
@@ -2575,7 +2579,7 @@
       "did not go",
       "didn’t go"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Simple Past. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "hint": "Βρες το παρελθοντικό χρονικό σημείο. Ο Simple Past δεν αλλάζει ανάλογα με το πρόσωπο. Σε άρνηση/ερώτηση χρησιμοποιούμε did και το βασικό ρήμα, όχι αόριστο μετά το did.",
     "explanation": "Με did/did not χρησιμοποιούμε go, όχι went ή gone.",
     "categories": [
       "auxiliary",
@@ -2588,11 +2592,11 @@
   },
   {
     "type": "typing",
-    "question": "___ my mum and I ___ (go) to the park yesterday? Γράψε τα δύο κενά χωρισμένα με / .",
+    "question": "___ my mum and I ___ (go) to the park yesterday? Γράψε όλα τα κενά, με τη σειρά, χωρισμένα με / .",
     "acceptedAnswers": [
       "did / go"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Simple Past. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "hint": "Βρες το παρελθοντικό χρονικό σημείο. Ο Simple Past δεν αλλάζει ανάλογα με το πρόσωπο. Σε άρνηση/ερώτηση χρησιμοποιούμε did και το βασικό ρήμα, όχι αόριστο μετά το did.",
     "explanation": "Με did/did not χρησιμοποιούμε go, όχι went ή gone.",
     "categories": [
       "auxiliary",
@@ -2605,12 +2609,12 @@
   },
   {
     "type": "typing",
-    "question": "At eight yesterday, my mum and I ___ (not write) a letter. Χρησιμοποίησε Past Continuous.",
+    "question": "At eight yesterday, my mum and I ___ (not write) a letter.",
     "acceptedAnswers": [
       "were not writing",
       "weren’t writing"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Past Continuous. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "hint": "Η συγκεκριμένη ώρα στο παρελθόν δείχνει, σύμφωνα με τον κανόνα της ύλης μας, πράξη σε εξέλιξη. Πριν σχηματίσεις τον Past Continuous, βρες την αντωνυμία του υποκειμένου: I/he/she/it → was, you/we/they → were. Έπειτα βάλε το κύριο ρήμα σε -ing.",
     "explanation": "my mum and I → we: were + writing. Στην ερώτηση το were προηγείται του υποκειμένου.",
     "categories": [
       "auxiliary",
@@ -2623,11 +2627,11 @@
   },
   {
     "type": "typing",
-    "question": "___ my mum and I ___ (write) a letter at eight yesterday? Χρησιμοποίησε Past Continuous. Γράψε τα δύο κενά χωρισμένα με / .",
+    "question": "___ my mum and I ___ (write) a letter at eight yesterday? Γράψε όλα τα κενά, με τη σειρά, χωρισμένα με / .",
     "acceptedAnswers": [
       "were / writing"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Past Continuous. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "hint": "Η συγκεκριμένη ώρα στο παρελθόν δείχνει, σύμφωνα με τον κανόνα της ύλης μας, πράξη σε εξέλιξη. Πριν σχηματίσεις τον Past Continuous, βρες την αντωνυμία του υποκειμένου: I/he/she/it → was, you/we/they → were. Έπειτα βάλε το κύριο ρήμα σε -ing.",
     "explanation": "my mum and I → we: were + writing. Στην ερώτηση το were προηγείται του υποκειμένου.",
     "categories": [
       "auxiliary",
@@ -2640,12 +2644,12 @@
   },
   {
     "type": "typing",
-    "question": "My mum and I ___ (not eat) anything since this morning. Χρησιμοποίησε Present Perfect.",
+    "question": "My mum and I ___ (not eat) anything since this morning.",
     "acceptedAnswers": [
       "have not eaten",
       "haven’t eaten"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Present Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "hint": "Έλεγξε αν η πράξη συνδέεται με το παρόν (π.χ. εμπειρία μέχρι τώρα, since, yet). Πριν σχηματίσεις τον Present Perfect, βρες την αντωνυμία του υποκειμένου: he/she/it → has, I/you/we/they → have. Έπειτα βάλε τη μετοχή του ρήματος.",
     "explanation": "my mum and I → we: have + eaten. Eat → ate → eaten.",
     "categories": [
       "auxiliary",
@@ -2659,11 +2663,11 @@
   },
   {
     "type": "typing",
-    "question": "___ my mum and I ever ___ (eat) sushi? Γράψε τα δύο κενά χωρισμένα με / .",
+    "question": "___ my mum and I ever ___ (eat) sushi? Γράψε όλα τα κενά, με τη σειρά, χωρισμένα με / .",
     "acceptedAnswers": [
       "have / eaten"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Present Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "hint": "Έλεγξε αν η πράξη συνδέεται με το παρόν (π.χ. εμπειρία μέχρι τώρα, since, yet). Πριν σχηματίσεις τον Present Perfect, βρες την αντωνυμία του υποκειμένου: he/she/it → has, I/you/we/they → have. Έπειτα βάλε τη μετοχή του ρήματος.",
     "explanation": "my mum and I → we: have + eaten. Eat → ate → eaten.",
     "categories": [
       "auxiliary",
@@ -2677,13 +2681,13 @@
   },
   {
     "type": "typing",
-    "question": "By the time we arrived, my mum and I ___ (not finish) dinner. Χρησιμοποίησε Past Perfect.",
+    "question": "By the time we ___ (arrive), my mum and I ___ (not finish) dinner. Γράψε όλα τα κενά, με τη σειρά, χωρισμένα με / .",
     "acceptedAnswers": [
-      "had not finished",
-      "hadn’t finished"
+      "arrived / had not finished",
+      "arrived / hadn’t finished"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Past Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
-    "explanation": "Had + μετοχή για γεγονός πριν από ένα παρελθοντικό σημείο. Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "hint": "Πρόσεξε τη σειρά των γεγονότων: στο μοτίβο που εξασκούμε, η παλαιότερη πράξη παίρνει Past Perfect (had + μετοχή) και η μεταγενέστερη Simple Past. Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "explanation": "Η άφιξη είναι το μεταγενέστερο γεγονός: arrived (Simple Past). Η άλλη πράξη αναφέρεται σε χρόνο πριν από την άφιξη: had + finished, με not στην άρνηση ή had πριν από το υποκείμενο στην ερώτηση.",
     "categories": [
       "auxiliary",
       "negative",
@@ -2694,12 +2698,12 @@
   },
   {
     "type": "typing",
-    "question": "By the time we arrived, ___ my mum and I ___ (finish) dinner? Χρησιμοποίησε Past Perfect. Γράψε τα δύο κενά χωρισμένα με / .",
+    "question": "By the time we ___ (arrive), ___ my mum and I ___ (finish) dinner? Γράψε όλα τα κενά, με τη σειρά, χωρισμένα με / .",
     "acceptedAnswers": [
-      "had / finished"
+      "arrived / had / finished"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Past Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
-    "explanation": "Had + μετοχή για γεγονός πριν από ένα παρελθοντικό σημείο. Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "hint": "Πρόσεξε τη σειρά των γεγονότων: στο μοτίβο που εξασκούμε, η παλαιότερη πράξη παίρνει Past Perfect (had + μετοχή) και η μεταγενέστερη Simple Past. Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "explanation": "Η άφιξη είναι το μεταγενέστερο γεγονός: arrived (Simple Past). Η άλλη πράξη αναφέρεται σε χρόνο πριν από την άφιξη: had + finished, με not στην άρνηση ή had πριν από το υποκείμενο στην ερώτηση.",
     "categories": [
       "auxiliary",
       "question",

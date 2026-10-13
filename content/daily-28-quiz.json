@@ -5,7 +5,7 @@
     "acceptedAnswers": [
       "planned"
     ],
-    "hint": "Βρες πρώτα τον χρόνο και μετά τον σωστό τύπο του ρήματος.",
+    "hint": "Βρες το παρελθοντικό χρονικό σημείο. Ο Simple Past δεν αλλάζει ανάλογα με το πρόσωπο. Σε άρνηση/ερώτηση χρησιμοποιούμε did και το βασικό ρήμα, όχι αόριστο μετά το did. Πρόσεξε επίσης την ορθογραφία της κατάληξης και αν χρειάζεται αλλαγή του y, αφαίρεση e ή διπλασιασμός συμφώνου.",
     "explanation": "Το yesterday / last week / last month / a moment ago δίνει ολοκληρωμένο χρονικό σημείο στο παρελθόν: Simple Past. Διπλασιάζουμε το n πριν από -ed.",
     "categories": [
       "spelling"
@@ -28,11 +28,11 @@
   },
   {
     "type": "typing",
-    "question": "While the child ___ (watch TV), the phone ___ (ring). Γράψε τα δύο κενά χωρισμένα με / .",
+    "question": "While the child ___ (watch TV), the phone ___ (ring). Γράψε όλα τα κενά, με τη σειρά, χωρισμένα με / .",
     "acceptedAnswers": [
       "was watching TV / rang"
     ],
-    "hint": "Ποια πράξη ήταν ήδη σε εξέλιξη και ποιο γεγονός συνέβη τότε;",
+    "hint": "Πρόσεξε ποια πράξη είχε διάρκεια και ήταν ήδη σε εξέλιξη: αυτή παίρνει Past Continuous. Το πιο σύντομο γεγονός που παρεμβάλλεται παίρνει Simple Past. Πριν σχηματίσεις τον Past Continuous, βρες την αντωνυμία του υποκειμένου: I/he/she/it → was, you/we/they → were. Έπειτα βάλε το κύριο ρήμα σε -ing.",
     "explanation": "Το while εισάγει την πράξη με διάρκεια: was watching TV (Past Continuous). Το σύντομο γεγονός που παρεμβάλλεται είναι rang (Simple Past). Σχηματισμός: was/were + ρήμα σε -ing για την εξέλιξη, αόριστος για το σύντομο γεγονός. Το γεγονός συμβαίνει κατά τη διάρκεια της άλλης πράξης και δεν σημαίνει απαραίτητα ότι εκείνη σταμάτησε οριστικά.",
     "categories": [
       "duration-event",
@@ -49,11 +49,11 @@
   },
   {
     "type": "typing",
-    "question": "___ my aunts ever ___ (eat) sushi? Γράψε τα δύο κενά χωρισμένα με / .",
+    "question": "___ my aunts ever ___ (eat) sushi? Γράψε όλα τα κενά, με τη σειρά, χωρισμένα με / .",
     "acceptedAnswers": [
       "have / eaten"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Present Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "hint": "Έλεγξε αν η πράξη συνδέεται με το παρόν (π.χ. εμπειρία μέχρι τώρα, since, yet). Πριν σχηματίσεις τον Present Perfect, βρες την αντωνυμία του υποκειμένου: he/she/it → has, I/you/we/they → have. Έπειτα βάλε τη μετοχή του ρήματος.",
     "explanation": "Το ever ρωτά για εμπειρία μέχρι τώρα: Present Perfect. my aunts → they: have + eaten. Eat → ate → eaten.",
     "categories": [
       "auxiliary",
@@ -68,11 +68,11 @@
   },
   {
     "type": "typing",
-    "question": "___ my aunts ___ (write) a letter at eight yesterday? Χρησιμοποίησε Past Continuous. Γράψε τα δύο κενά χωρισμένα με / .",
+    "question": "___ my aunts ___ (write) a letter at eight yesterday? Γράψε όλα τα κενά, με τη σειρά, χωρισμένα με / .",
     "acceptedAnswers": [
       "were / writing"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Past Continuous. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "hint": "Η συγκεκριμένη ώρα στο παρελθόν δείχνει, σύμφωνα με τον κανόνα της ύλης μας, πράξη σε εξέλιξη. Πριν σχηματίσεις τον Past Continuous, βρες την αντωνυμία του υποκειμένου: I/he/she/it → was, you/we/they → were. Έπειτα βάλε το κύριο ρήμα σε -ing.",
     "explanation": "Το at eight yesterday δηλώνει συγκεκριμένη ώρα στο παρελθόν. Στο πρόγραμμα αυτό βαθμολογούμε μόνο Past Continuous, για πράξη σε εξέλιξη. my aunts → were. Ερώτηση: Were + υποκείμενο + writing; write → writing: αφαιρούμε το άφωνο e.",
     "categories": [
       "auxiliary",
@@ -86,11 +86,11 @@
   },
   {
     "type": "typing",
-    "question": "When a cat ___ (cross the road), my aunts ___ (drive home). Γράψε τα δύο κενά χωρισμένα με / .",
+    "question": "When a cat ___ (cross the road), my aunts ___ (drive home). Γράψε όλα τα κενά, με τη σειρά, χωρισμένα με / .",
     "acceptedAnswers": [
       "crossed the road / were driving home"
     ],
-    "hint": "Ποια πράξη ήταν ήδη σε εξέλιξη και ποιο γεγονός συνέβη τότε;",
+    "hint": "Πρόσεξε ποια πράξη είχε διάρκεια και ήταν ήδη σε εξέλιξη: αυτή παίρνει Past Continuous. Το πιο σύντομο γεγονός που παρεμβάλλεται παίρνει Simple Past. Πριν σχηματίσεις τον Past Continuous, βρες την αντωνυμία του υποκειμένου: I/he/she/it → was, you/we/they → were. Έπειτα βάλε το κύριο ρήμα σε -ing.",
     "explanation": "Μετά το when, το σύντομο γεγονός είναι crossed the road (Simple Past). Η πράξη που ήταν ήδη σε εξέλιξη είναι were driving home (Past Continuous). Σχηματισμός: was/were + ρήμα σε -ing για την εξέλιξη, αόριστος για το σύντομο γεγονός. Το γεγονός συμβαίνει κατά τη διάρκεια της άλλης πράξης και δεν σημαίνει απαραίτητα ότι εκείνη σταμάτησε οριστικά.",
     "categories": [
       "duration-event",
@@ -120,12 +120,12 @@
   },
   {
     "type": "typing",
-    "question": "At eight yesterday, my aunts ___ (not swim) at the pool. Χρησιμοποίησε Past Continuous.",
+    "question": "At eight yesterday, my aunts ___ (not swim) at the pool.",
     "acceptedAnswers": [
       "were not swimming",
       "weren’t swimming"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Past Continuous. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "hint": "Η συγκεκριμένη ώρα στο παρελθόν δείχνει, σύμφωνα με τον κανόνα της ύλης μας, πράξη σε εξέλιξη. Πριν σχηματίσεις τον Past Continuous, βρες την αντωνυμία του υποκειμένου: I/he/she/it → was, you/we/they → were. Έπειτα βάλε το κύριο ρήμα σε -ing. Πρόσεξε επίσης την ορθογραφία της κατάληξης και αν χρειάζεται αλλαγή του y, αφαίρεση e ή διπλασιασμός συμφώνου.",
     "explanation": "Το at eight yesterday δηλώνει συγκεκριμένη ώρα στο παρελθόν. Στο πρόγραμμα αυτό βαθμολογούμε μόνο Past Continuous, για πράξη σε εξέλιξη. my aunts → were. Άρνηση: were + not + swimming. swim → swimming: διπλασιάζουμε το τελικό σύμφωνο.",
     "categories": [
       "auxiliary",
@@ -140,13 +140,13 @@
   },
   {
     "type": "typing",
-    "question": "By the time we arrived, my aunts ___ (not finish) dinner. Χρησιμοποίησε Past Perfect.",
+    "question": "By the time we ___ (arrive), my aunts ___ (not finish) dinner. Γράψε όλα τα κενά, με τη σειρά, χωρισμένα με / .",
     "acceptedAnswers": [
-      "had not finished",
-      "hadn’t finished"
+      "arrived / had not finished",
+      "arrived / hadn’t finished"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Past Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
-    "explanation": "Το by the time we arrived δίνει μεταγενέστερο γεγονός. Ρωτάμε ή δηλώνουμε τι είχε γίνει πριν από αυτό: Past Perfect. Had + μετοχή για γεγονός πριν από ένα παρελθοντικό σημείο. Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "hint": "Πρόσεξε τη σειρά των γεγονότων: στο μοτίβο που εξασκούμε, η παλαιότερη πράξη παίρνει Past Perfect (had + μετοχή) και η μεταγενέστερη Simple Past. Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "explanation": "Η άφιξη είναι το μεταγενέστερο γεγονός: arrived (Simple Past). Η άλλη πράξη αναφέρεται σε χρόνο πριν από την άφιξη: had + finished, με not στην άρνηση ή had πριν από το υποκείμενο στην ερώτηση.",
     "categories": [
       "auxiliary",
       "negative",
@@ -159,12 +159,12 @@
   },
   {
     "type": "typing",
-    "question": "My aunts ___ (not eat) anything since this morning. Χρησιμοποίησε Present Perfect.",
+    "question": "My aunts ___ (not eat) anything since this morning.",
     "acceptedAnswers": [
       "have not eaten",
       "haven’t eaten"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Present Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "hint": "Έλεγξε αν η πράξη συνδέεται με το παρόν (π.χ. εμπειρία μέχρι τώρα, since, yet). Πριν σχηματίσεις τον Present Perfect, βρες την αντωνυμία του υποκειμένου: he/she/it → has, I/you/we/they → have. Έπειτα βάλε τη μετοχή του ρήματος.",
     "explanation": "Το since this morning συνδέει το παρελθόν με το παρόν: Present Perfect. my aunts → they: have + eaten. Eat → ate → eaten.",
     "categories": [
       "auxiliary",
