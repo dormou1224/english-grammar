@@ -29,14 +29,9 @@ def printable(q):
   elif text.endswith('before we arrived?'):
    text=text.replace('we arrived','we ___ (arrive)');answers=['had / finished / arrived','did / finish / arrived']
    reason='Had + υποκείμενο + finished: ερώτηση για ολοκλήρωση πριν από την άφιξη. Η άφιξη δίνεται με arrived. Επίσης σωστό did / finish / arrived, αφού το before καθορίζει τη χρονική σειρά.'
- # Without a specified tense, at eight can describe either progress or a completed event.
+ # Apply the course rule: specific past time is assessed as Past Continuous only.
  if q.get('tense')=='Past Continuous':
-  if '(not ' in text:
-   verb=re.search(r'\(not (\w+)\)',text).group(1);answers.extend(['did not '+verb,'didn’t '+verb])
-   reason='Για πράξη σε εξέλιξη τότε: was/were + not + -ing. '+q.get('subject','Το υποκείμενο')+' καθορίζει was ή were. Εναλλακτικά, did not + βασικό ρήμα περιγράφει ότι η πράξη δεν έγινε στο συγκεκριμένο χρονικό σημείο.'
-   if verb in ['run','swim']:reason+=f' {verb} → '+('running' if verb=='run' else 'swimming')+': διπλασιασμός του τελικού συμφώνου.'
-  else:
-   answers.append('did / write');reason='Για ερώτηση σχετικά με πράξη σε εξέλιξη: Was/Were + υποκείμενο + writing. Αφαιρούμε το άφωνο e του write. Το did / write είναι επίσης σωστό όταν ρωτάμε αν η πράξη έγινε ως ολοκληρωμένο γεγονός εκείνη την ώρα.'
+  answers=list(q['acceptedAnswers']);reason=q['explanation']
  reason=reason.replace('με τον ζητούμενο χρόνο, ','').replace('τον ζητούμενο Past Perfect','Past Perfect')
  text=text.replace('___','________________________________')
  return dict(question=text,answers=list(dict.fromkeys(answers)),explanation=reason)
@@ -57,7 +52,7 @@ def build():
   data=json.loads((ROOT/'content'/f'daily-{day:02d}-quiz.json').read_text());qs=[printable(q) for q in data]
   story=[p(f'Ημέρα {day} - Επανάληψη χρόνων','Title'),p('Όνομα: ____________________   Ημερομηνία: ______________'),p('Συμπλήρωσε τα κενά μέσα στις προτάσεις με τον κατάλληλο τύπο των ρημάτων σε παρένθεση. Όπου υπάρχουν δύο προτάσεις, συμπλήρωσε και τα δύο ρήματα.'),Spacer(1,14)]
   for i,q in enumerate(qs,1):story.append(KeepTogether([p(f'{i}. {q["question"]}'),Spacer(1,13)]))
-  story.extend([PageBreak(),p(f'Ημέρα {day} - Λύσεις και εξηγήσεις','Title'),p('Σε ορισμένα παραδείγματα είναι δυνατές περισσότερες από μία σωστές διατυπώσεις. Οι εναλλακτικές δίνονται με «ή».')])
+  story.extend([PageBreak(),p(f'Ημέρα {day} - Λύσεις και εξηγήσεις','Title'),p('Στις ασκήσεις με συγκεκριμένη ώρα στο παρελθόν δεχόμαστε μόνο Past Continuous. Σε άλλο πλαίσιο, ο Simple Past θα περιέγραφε ολοκληρωμένο γεγονός εκείνη την ώρα. Εδώ εξασκούμε την πράξη σε εξέλιξη. Άλλες αποδεκτές εναλλακτικές δίνονται με «ή».')])
   for i,q in enumerate(qs,1):story.append(KeepTogether([p(f'{i}. '+ ' ή '.join(q['answers']),'Heading2'),p(q['explanation']),Spacer(1,2)]))
   def footer(canvas,doc):
    canvas.setFont('Greek',8);canvas.drawString(45,25,f'Ημέρα {day} - Επανάληψη χρόνων');canvas.drawRightString(550,25,str(doc.page))
