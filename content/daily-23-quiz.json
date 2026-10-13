@@ -1,0 +1,175 @@
+[
+  {
+    "type": "typing",
+    "question": "___ Andrew and his father ___ (write) a letter at eight yesterday? Χρησιμοποίησε Past Continuous. Γράψε τα δύο κενά χωρισμένα με / .",
+    "acceptedAnswers": [
+      "were / writing"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Past Continuous. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Το at eight yesterday, μαζί με τον ζητούμενο χρόνο, περιγράφει πράξη σε εξέλιξη τότε: Past Continuous. Andrew and his father → they: were + writing. Στην ερώτηση το were προηγείται του υποκειμένου.",
+    "categories": [
+      "auxiliary",
+      "question",
+      "tense",
+      "agreement"
+    ],
+    "tense": "Past Continuous",
+    "subject": "Andrew and his father",
+    "dailyId": "day-23-01"
+  },
+  {
+    "type": "typing",
+    "question": "Yesterday, my aunts ___ (not go) to the park.",
+    "acceptedAnswers": [
+      "did not go",
+      "didn’t go"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Simple Past. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Το yesterday δηλώνει ολοκληρωμένο χρόνο στο παρελθόν: Simple Past. Με did/did not χρησιμοποιούμε go, όχι went ή gone.",
+    "categories": [
+      "auxiliary",
+      "negative",
+      "tense",
+      "irregular"
+    ],
+    "tense": "Simple Past",
+    "subject": "my aunts",
+    "dailyId": "day-23-02"
+  },
+  {
+    "type": "typing",
+    "question": "Ανώμαλο ρήμα read: πληκτρολόγησε τον αόριστο (Simple Past).",
+    "acceptedAnswers": [
+      "read"
+    ],
+    "hint": "Γράψε μόνο τον τύπο του ρήματος, χωρίς βοηθητικό.",
+    "explanation": "Εδώ ζητείται τύπος ρήματος, όχι επιλογή χρόνου. read → read → read.",
+    "categories": [
+      "irregular"
+    ],
+    "dailyId": "day-23-03"
+  },
+  {
+    "type": "typing",
+    "question": "She ___ (try) again last Monday.",
+    "acceptedAnswers": [
+      "tried"
+    ],
+    "hint": "Βρες πρώτα τον χρόνο και μετά τον σωστό τύπο του ρήματος.",
+    "explanation": "Το yesterday / last week / last month / a moment ago δίνει ολοκληρωμένο χρονικό σημείο στο παρελθόν: Simple Past. Σύμφωνο + y: y → ied.",
+    "categories": [
+      "spelling"
+    ],
+    "tense": "Simple Past",
+    "dailyId": "day-23-04"
+  },
+  {
+    "type": "typing",
+    "question": "Before we arrived, Andrew and his father ___ (not finish) dinner. Χρησιμοποίησε Past Perfect.",
+    "acceptedAnswers": [
+      "had not finished",
+      "hadn’t finished"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Past Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Το before we arrived δίνει τη μεταγενέστερη άφιξη σε Simple Past. Για ό,τι είχε γίνει νωρίτερα χρησιμοποιούμε τον ζητούμενο Past Perfect: had + finished. Στην άρνηση: had not finished. Στην ερώτηση: Had + υποκείμενο + finished; Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "categories": [
+      "auxiliary",
+      "negative",
+      "tense",
+      "sequence"
+    ],
+    "tense": "Past Perfect",
+    "subject": "Andrew and his father",
+    "dailyId": "day-23-05"
+  },
+  {
+    "type": "typing",
+    "question": "Ανώμαλο ρήμα read: πληκτρολόγησε τη μετοχή (past participle).",
+    "acceptedAnswers": [
+      "read"
+    ],
+    "hint": "Είναι ο τύπος που χρησιμοποιείται μετά από have/has/had.",
+    "explanation": "Εδώ ζητείται τύπος ρήματος, όχι επιλογή χρόνου. read → read → read.",
+    "categories": [
+      "irregular"
+    ],
+    "dailyId": "day-23-06"
+  },
+  {
+    "type": "typing",
+    "question": "Andrew and his father ___ (not eat) anything since this morning. Χρησιμοποίησε Present Perfect.",
+    "acceptedAnswers": [
+      "have not eaten",
+      "haven’t eaten"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Present Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Το since this morning συνδέει το παρελθόν με το παρόν: Present Perfect. Andrew and his father → they: have + eaten. Eat → ate → eaten.",
+    "categories": [
+      "auxiliary",
+      "negative",
+      "tense",
+      "agreement",
+      "irregular"
+    ],
+    "tense": "Present Perfect",
+    "subject": "Andrew and his father",
+    "dailyId": "day-23-07"
+  },
+  {
+    "type": "typing",
+    "question": "___ Andrew and his father ever ___ (eat) sushi? Γράψε τα δύο κενά χωρισμένα με / .",
+    "acceptedAnswers": [
+      "have / eaten"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Present Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Το ever ρωτά για εμπειρία μέχρι τώρα: Present Perfect. Andrew and his father → they: have + eaten. Eat → ate → eaten.",
+    "categories": [
+      "auxiliary",
+      "question",
+      "tense",
+      "agreement",
+      "irregular"
+    ],
+    "tense": "Present Perfect",
+    "subject": "Andrew and his father",
+    "dailyId": "day-23-08"
+  },
+  {
+    "type": "typing",
+    "question": "At eight yesterday, Andrew and his father ___ (not run) in the park. Χρησιμοποίησε Past Continuous.",
+    "acceptedAnswers": [
+      "were not running",
+      "weren’t running"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Past Continuous. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Το at eight yesterday, μαζί με τον ζητούμενο χρόνο, περιγράφει πράξη σε εξέλιξη τότε: Past Continuous. Andrew and his father → they: were + running. Στην ερώτηση το were προηγείται του υποκειμένου. run → running: διπλασιάζουμε το τελικό σύμφωνο, επειδή προηγείται ένα φωνήεν και η συλλαβή τονίζεται.",
+    "categories": [
+      "auxiliary",
+      "negative",
+      "tense",
+      "agreement",
+      "spelling"
+    ],
+    "tense": "Past Continuous",
+    "subject": "Andrew and his father",
+    "dailyId": "day-23-09"
+  },
+  {
+    "type": "typing",
+    "question": "Before we arrived, ___ Andrew and his father ___ (finish) dinner? Χρησιμοποίησε Past Perfect. Γράψε τα δύο κενά χωρισμένα με / .",
+    "acceptedAnswers": [
+      "had / finished"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Past Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Το before we arrived δίνει τη μεταγενέστερη άφιξη σε Simple Past. Για ό,τι είχε γίνει νωρίτερα χρησιμοποιούμε τον ζητούμενο Past Perfect: had + finished. Στην άρνηση: had not finished. Στην ερώτηση: Had + υποκείμενο + finished; Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "categories": [
+      "auxiliary",
+      "question",
+      "tense",
+      "sequence"
+    ],
+    "tense": "Past Perfect",
+    "subject": "Andrew and his father",
+    "dailyId": "day-23-10"
+  }
+]

@@ -1,0 +1,176 @@
+[
+  {
+    "type": "typing",
+    "question": "Ανώμαλο ρήμα do: πληκτρολόγησε τη μετοχή (past participle).",
+    "acceptedAnswers": [
+      "done"
+    ],
+    "hint": "Είναι ο τύπος που χρησιμοποιείται μετά από have/has/had.",
+    "explanation": "Εδώ ζητείται τύπος ρήματος, όχι επιλογή χρόνου. do → did → done.",
+    "categories": [
+      "irregular"
+    ],
+    "dailyId": "day-25-01"
+  },
+  {
+    "type": "typing",
+    "question": "By the time we arrived, Mum ___ (not finish) dinner. Χρησιμοποίησε Past Perfect.",
+    "acceptedAnswers": [
+      "had not finished",
+      "hadn’t finished"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Past Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Το by the time we arrived δίνει μεταγενέστερο γεγονός. Ρωτάμε ή δηλώνουμε τι είχε γίνει πριν από αυτό: Past Perfect. Had + μετοχή για γεγονός πριν από ένα παρελθοντικό σημείο. Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "categories": [
+      "auxiliary",
+      "negative",
+      "tense",
+      "sequence"
+    ],
+    "tense": "Past Perfect",
+    "subject": "Mum",
+    "dailyId": "day-25-02"
+  },
+  {
+    "type": "typing",
+    "question": "By the time we arrived, ___ Mum ___ (finish) dinner? Χρησιμοποίησε Past Perfect. Γράψε τα δύο κενά χωρισμένα με / .",
+    "acceptedAnswers": [
+      "had / finished"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Past Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Το by the time we arrived δίνει μεταγενέστερο γεγονός. Ρωτάμε ή δηλώνουμε τι είχε γίνει πριν από αυτό: Past Perfect. Had + μετοχή για γεγονός πριν από ένα παρελθοντικό σημείο. Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "categories": [
+      "auxiliary",
+      "question",
+      "tense",
+      "sequence"
+    ],
+    "tense": "Past Perfect",
+    "subject": "Mum",
+    "dailyId": "day-25-03"
+  },
+  {
+    "type": "typing",
+    "question": "At eight yesterday, Mum ___ (not run) in the park. Χρησιμοποίησε Past Continuous.",
+    "acceptedAnswers": [
+      "was not running",
+      "wasn’t running"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Past Continuous. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Το at eight yesterday, μαζί με τον ζητούμενο χρόνο, περιγράφει πράξη σε εξέλιξη τότε: Past Continuous. Mum → she: was + running. Στην ερώτηση το was προηγείται του υποκειμένου. run → running: διπλασιάζουμε το τελικό σύμφωνο, επειδή προηγείται ένα φωνήεν και η συλλαβή τονίζεται.",
+    "categories": [
+      "auxiliary",
+      "negative",
+      "tense",
+      "agreement",
+      "spelling"
+    ],
+    "tense": "Past Continuous",
+    "subject": "Mum",
+    "dailyId": "day-25-04"
+  },
+  {
+    "type": "typing",
+    "question": "Ανώμαλο ρήμα do: πληκτρολόγησε τον αόριστο (Simple Past).",
+    "acceptedAnswers": [
+      "did"
+    ],
+    "hint": "Γράψε μόνο τον τύπο του ρήματος, χωρίς βοηθητικό.",
+    "explanation": "Εδώ ζητείται τύπος ρήματος, όχι επιλογή χρόνου. do → did → done.",
+    "categories": [
+      "irregular"
+    ],
+    "dailyId": "day-25-05"
+  },
+  {
+    "type": "typing",
+    "question": "___ Mum ___ (write) a letter at eight yesterday? Χρησιμοποίησε Past Continuous. Γράψε τα δύο κενά χωρισμένα με / .",
+    "acceptedAnswers": [
+      "was / writing"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Past Continuous. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Το at eight yesterday, μαζί με τον ζητούμενο χρόνο, περιγράφει πράξη σε εξέλιξη τότε: Past Continuous. Mum → she: was + writing. Στην ερώτηση το was προηγείται του υποκειμένου.",
+    "categories": [
+      "auxiliary",
+      "question",
+      "tense",
+      "agreement"
+    ],
+    "tense": "Past Continuous",
+    "subject": "Mum",
+    "dailyId": "day-25-06"
+  },
+  {
+    "type": "typing",
+    "question": "___ Mum ever ___ (eat) sushi? Γράψε τα δύο κενά χωρισμένα με / .",
+    "acceptedAnswers": [
+      "has / eaten"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Present Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Το ever ρωτά για εμπειρία μέχρι τώρα: Present Perfect. Mum → she: has + eaten. Eat → ate → eaten.",
+    "categories": [
+      "auxiliary",
+      "question",
+      "tense",
+      "agreement",
+      "irregular"
+    ],
+    "tense": "Present Perfect",
+    "subject": "Mum",
+    "dailyId": "day-25-07"
+  },
+  {
+    "type": "typing",
+    "question": "Mum ___ (not eat) anything since this morning. Χρησιμοποίησε Present Perfect.",
+    "acceptedAnswers": [
+      "has not eaten",
+      "hasn’t eaten"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Present Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Το since this morning συνδέει το παρελθόν με το παρόν: Present Perfect. Mum → she: has + eaten. Eat → ate → eaten.",
+    "categories": [
+      "auxiliary",
+      "negative",
+      "tense",
+      "agreement",
+      "irregular"
+    ],
+    "tense": "Present Perfect",
+    "subject": "Mum",
+    "dailyId": "day-25-08"
+  },
+  {
+    "type": "typing",
+    "question": "He ___ (stop) the car yesterday.",
+    "acceptedAnswers": [
+      "stopped"
+    ],
+    "hint": "Βρες πρώτα τον χρόνο και μετά τον σωστό τύπο του ρήματος.",
+    "explanation": "Το yesterday / last week / last month / a moment ago δίνει ολοκληρωμένο χρονικό σημείο στο παρελθόν: Simple Past. Διπλασιάζουμε το p πριν από -ed.",
+    "categories": [
+      "keywords",
+      "spelling"
+    ],
+    "tense": "Simple Past",
+    "dailyId": "day-25-09"
+  },
+  {
+    "type": "typing",
+    "question": "Yesterday, the child ___ (not go) to the park.",
+    "acceptedAnswers": [
+      "did not go",
+      "didn’t go"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Simple Past. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Το yesterday δηλώνει ολοκληρωμένο χρόνο στο παρελθόν: Simple Past. Με did/did not χρησιμοποιούμε go, όχι went ή gone.",
+    "categories": [
+      "auxiliary",
+      "negative",
+      "tense",
+      "irregular"
+    ],
+    "tense": "Simple Past",
+    "subject": "the child",
+    "dailyId": "day-25-10"
+  }
+]

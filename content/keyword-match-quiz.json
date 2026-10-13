@@ -1,0 +1,379 @@
+[
+  {
+    "type": "matching",
+    "question": "Αντιστοίχισε τη φράση με τον κατάλληλο χρόνο ή ερμηνεία.",
+    "matches": [
+      {
+        "label": "yesterday, last week, two days ago: ολοκληρωμένο παρελθοντικό χρονικό πλαίσιο",
+        "answer": "Simple Past",
+        "options": [
+          "Simple Past",
+          "Past Continuous",
+          "Present Perfect",
+          "Past Perfect",
+          "Present Perfect ή Past Perfect, ανάλογα με το πλαίσιο",
+          "Δεν προσδιορίζει μόνο του έναν χρόνο"
+        ]
+      }
+    ],
+    "hint": "Διάβασε ολόκληρο το παράδειγμα. Οι λέξεις δεν επιβάλλουν πάντα έναν χρόνο.",
+    "explanation": "Συγκεκριμένος χρόνος στο παρελθόν.",
+    "categories": [
+      "keywords"
+    ]
+  },
+  {
+    "type": "matching",
+    "question": "Αντιστοίχισε τη φράση με τον κατάλληλο χρόνο ή ερμηνεία.",
+    "matches": [
+      {
+        "label": "so far, up to now: αποτέλεσμα μέχρι τώρα",
+        "answer": "Present Perfect",
+        "options": [
+          "Simple Past",
+          "Past Continuous",
+          "Present Perfect",
+          "Past Perfect",
+          "Present Perfect ή Past Perfect, ανάλογα με το πλαίσιο",
+          "Δεν προσδιορίζει μόνο του έναν χρόνο"
+        ]
+      }
+    ],
+    "hint": "Διάβασε ολόκληρο το παράδειγμα. Οι λέξεις δεν επιβάλλουν πάντα έναν χρόνο.",
+    "explanation": "Το χρονικό πλαίσιο φτάνει μέχρι το παρόν.",
+    "categories": [
+      "keywords"
+    ]
+  },
+  {
+    "type": "matching",
+    "question": "Αντιστοίχισε τη φράση με τον κατάλληλο χρόνο ή ερμηνεία.",
+    "matches": [
+      {
+        "label": "since 2020: She ___ here since 2020 και εξακολουθεί να μένει εδώ. Ζητείται απλός χρόνος.",
+        "answer": "Present Perfect",
+        "options": [
+          "Simple Past",
+          "Past Continuous",
+          "Present Perfect",
+          "Past Perfect",
+          "Present Perfect ή Past Perfect, ανάλογα με το πλαίσιο",
+          "Δεν προσδιορίζει μόνο του έναν χρόνο"
+        ]
+      }
+    ],
+    "hint": "Διάβασε ολόκληρο το παράδειγμα. Οι λέξεις δεν επιβάλλουν πάντα έναν χρόνο.",
+    "explanation": "Have/has lived: κατάσταση από τότε μέχρι τώρα.",
+    "categories": [
+      "keywords"
+    ]
+  },
+  {
+    "type": "matching",
+    "question": "Αντιστοίχισε τη φράση με τον κατάλληλο χρόνο ή ερμηνεία.",
+    "matches": [
+      {
+        "label": "for: She has lived here for ten years / She had lived there for ten years before moving.",
+        "answer": "Present Perfect ή Past Perfect, ανάλογα με το πλαίσιο",
+        "options": [
+          "Simple Past",
+          "Past Continuous",
+          "Present Perfect",
+          "Past Perfect",
+          "Present Perfect ή Past Perfect, ανάλογα με το πλαίσιο",
+          "Δεν προσδιορίζει μόνο του έναν χρόνο"
+        ]
+      }
+    ],
+    "hint": "Διάβασε ολόκληρο το παράδειγμα. Οι λέξεις δεν επιβάλλουν πάντα έναν χρόνο.",
+    "explanation": "Το for δηλώνει διάρκεια. Δεν επιβάλλει έναν μοναδικό χρόνο.",
+    "categories": [
+      "keywords",
+      "sequence"
+    ]
+  },
+  {
+    "type": "matching",
+    "question": "Αντιστοίχισε τη φράση με τον κατάλληλο χρόνο ή ερμηνεία.",
+    "matches": [
+      {
+        "label": "already: She has already left / She had already left when I arrived.",
+        "answer": "Present Perfect ή Past Perfect, ανάλογα με το πλαίσιο",
+        "options": [
+          "Simple Past",
+          "Past Continuous",
+          "Present Perfect",
+          "Past Perfect",
+          "Present Perfect ή Past Perfect, ανάλογα με το πλαίσιο",
+          "Δεν προσδιορίζει μόνο του έναν χρόνο"
+        ]
+      }
+    ],
+    "hint": "Διάβασε ολόκληρο το παράδειγμα. Οι λέξεις δεν επιβάλλουν πάντα έναν χρόνο.",
+    "explanation": "Το σημείο αναφοράς μπορεί να είναι παρόν ή παρελθόν.",
+    "categories": [
+      "keywords"
+    ]
+  },
+  {
+    "type": "matching",
+    "question": "Αντιστοίχισε τη φράση με τον κατάλληλο χρόνο ή ερμηνεία.",
+    "matches": [
+      {
+        "label": "at eight yesterday: πράξη που ήταν σε εξέλιξη",
+        "answer": "Past Continuous",
+        "options": [
+          "Simple Past",
+          "Past Continuous",
+          "Present Perfect",
+          "Past Perfect",
+          "Present Perfect ή Past Perfect, ανάλογα με το πλαίσιο",
+          "Δεν προσδιορίζει μόνο του έναν χρόνο"
+        ]
+      }
+    ],
+    "hint": "Διάβασε ολόκληρο το παράδειγμα. Οι λέξεις δεν επιβάλλουν πάντα έναν χρόνο.",
+    "explanation": "Was/were + -ing για την εξέλιξη.",
+    "categories": [
+      "keywords"
+    ]
+  },
+  {
+    "type": "matching",
+    "question": "Αντιστοίχισε τη φράση με τον κατάλληλο χρόνο ή ερμηνεία.",
+    "matches": [
+      {
+        "label": "By the time she arrived, we had finished: μετά το by the time",
+        "answer": "Simple Past",
+        "options": [
+          "Simple Past",
+          "Past Continuous",
+          "Present Perfect",
+          "Past Perfect",
+          "Present Perfect ή Past Perfect, ανάλογα με το πλαίσιο",
+          "Δεν προσδιορίζει μόνο του έναν χρόνο"
+        ]
+      }
+    ],
+    "hint": "Διάβασε ολόκληρο το παράδειγμα. Οι λέξεις δεν επιβάλλουν πάντα έναν χρόνο.",
+    "explanation": "Arrived: το μεταγενέστερο γεγονός στο συγκεκριμένο παράδειγμα.",
+    "categories": [
+      "keywords",
+      "sequence"
+    ]
+  },
+  {
+    "type": "matching",
+    "question": "Αντιστοίχισε τη φράση με τον κατάλληλο χρόνο ή ερμηνεία.",
+    "matches": [
+      {
+        "label": "By the time she arrived, we had finished: στην υπόλοιπη πρόταση",
+        "answer": "Past Perfect",
+        "options": [
+          "Simple Past",
+          "Past Continuous",
+          "Present Perfect",
+          "Past Perfect",
+          "Present Perfect ή Past Perfect, ανάλογα με το πλαίσιο",
+          "Δεν προσδιορίζει μόνο του έναν χρόνο"
+        ]
+      }
+    ],
+    "hint": "Διάβασε ολόκληρο το παράδειγμα. Οι λέξεις δεν επιβάλλουν πάντα έναν χρόνο.",
+    "explanation": "Had finished: ήδη ολοκληρωμένη προγενέστερη πράξη.",
+    "categories": [
+      "keywords",
+      "sequence"
+    ]
+  },
+  {
+    "type": "matching",
+    "question": "Αντιστοίχισε τη φράση με τον κατάλληλο χρόνο ή ερμηνεία.",
+    "matches": [
+      {
+        "label": "Before she left, she had packed: μετά το before",
+        "answer": "Simple Past",
+        "options": [
+          "Simple Past",
+          "Past Continuous",
+          "Present Perfect",
+          "Past Perfect",
+          "Present Perfect ή Past Perfect, ανάλογα με το πλαίσιο",
+          "Δεν προσδιορίζει μόνο του έναν χρόνο"
+        ]
+      }
+    ],
+    "hint": "Διάβασε ολόκληρο το παράδειγμα. Οι λέξεις δεν επιβάλλουν πάντα έναν χρόνο.",
+    "explanation": "Left: μεταγενέστερη πράξη στο συγκεκριμένο παράδειγμα.",
+    "categories": [
+      "keywords",
+      "sequence"
+    ]
+  },
+  {
+    "type": "matching",
+    "question": "Αντιστοίχισε τη φράση με τον κατάλληλο χρόνο ή ερμηνεία.",
+    "matches": [
+      {
+        "label": "Before she left, she had packed: στην υπόλοιπη πρόταση",
+        "answer": "Past Perfect",
+        "options": [
+          "Simple Past",
+          "Past Continuous",
+          "Present Perfect",
+          "Past Perfect",
+          "Present Perfect ή Past Perfect, ανάλογα με το πλαίσιο",
+          "Δεν προσδιορίζει μόνο του έναν χρόνο"
+        ]
+      }
+    ],
+    "hint": "Διάβασε ολόκληρο το παράδειγμα. Οι λέξεις δεν επιβάλλουν πάντα έναν χρόνο.",
+    "explanation": "Had packed: προγενέστερη πράξη.",
+    "categories": [
+      "keywords",
+      "sequence"
+    ]
+  },
+  {
+    "type": "matching",
+    "question": "Αντιστοίχισε τη φράση με τον κατάλληλο χρόνο ή ερμηνεία.",
+    "matches": [
+      {
+        "label": "After she had eaten, she went out: μετά το after",
+        "answer": "Past Perfect",
+        "options": [
+          "Simple Past",
+          "Past Continuous",
+          "Present Perfect",
+          "Past Perfect",
+          "Present Perfect ή Past Perfect, ανάλογα με το πλαίσιο",
+          "Δεν προσδιορίζει μόνο του έναν χρόνο"
+        ]
+      }
+    ],
+    "hint": "Διάβασε ολόκληρο το παράδειγμα. Οι λέξεις δεν επιβάλλουν πάντα έναν χρόνο.",
+    "explanation": "Had eaten: η προγενέστερη πράξη στο συγκεκριμένο παράδειγμα.",
+    "categories": [
+      "keywords",
+      "sequence"
+    ]
+  },
+  {
+    "type": "matching",
+    "question": "Αντιστοίχισε τη φράση με τον κατάλληλο χρόνο ή ερμηνεία.",
+    "matches": [
+      {
+        "label": "After she had eaten, she went out: στην υπόλοιπη πρόταση",
+        "answer": "Simple Past",
+        "options": [
+          "Simple Past",
+          "Past Continuous",
+          "Present Perfect",
+          "Past Perfect",
+          "Present Perfect ή Past Perfect, ανάλογα με το πλαίσιο",
+          "Δεν προσδιορίζει μόνο του έναν χρόνο"
+        ]
+      }
+    ],
+    "hint": "Διάβασε ολόκληρο το παράδειγμα. Οι λέξεις δεν επιβάλλουν πάντα έναν χρόνο.",
+    "explanation": "Went: η μεταγενέστερη πράξη.",
+    "categories": [
+      "keywords",
+      "sequence"
+    ]
+  },
+  {
+    "type": "matching",
+    "question": "Αντιστοίχισε τη φράση με τον κατάλληλο χρόνο ή ερμηνεία.",
+    "matches": [
+      {
+        "label": "by midnight: ολοκλήρωση μέχρι ένα παρελθοντικό σημείο, με had finished",
+        "answer": "Past Perfect",
+        "options": [
+          "Simple Past",
+          "Past Continuous",
+          "Present Perfect",
+          "Past Perfect",
+          "Present Perfect ή Past Perfect, ανάλογα με το πλαίσιο",
+          "Δεν προσδιορίζει μόνο του έναν χρόνο"
+        ]
+      }
+    ],
+    "hint": "Διάβασε ολόκληρο το παράδειγμα. Οι λέξεις δεν επιβάλλουν πάντα έναν χρόνο.",
+    "explanation": "Το by εισάγει εδώ χρονικό σημείο, όχι δευτερεύουσα πρόταση.",
+    "categories": [
+      "keywords",
+      "sequence"
+    ]
+  },
+  {
+    "type": "matching",
+    "question": "Αντιστοίχισε τη φράση με τον κατάλληλο χρόνο ή ερμηνεία.",
+    "matches": [
+      {
+        "label": "when / before / after χωρίς άλλο πλαίσιο",
+        "answer": "Δεν προσδιορίζει μόνο του έναν χρόνο",
+        "options": [
+          "Simple Past",
+          "Past Continuous",
+          "Present Perfect",
+          "Past Perfect",
+          "Present Perfect ή Past Perfect, ανάλογα με το πλαίσιο",
+          "Δεν προσδιορίζει μόνο του έναν χρόνο"
+        ]
+      }
+    ],
+    "hint": "Διάβασε ολόκληρο το παράδειγμα. Οι λέξεις δεν επιβάλλουν πάντα έναν χρόνο.",
+    "explanation": "Η χρονική σχέση και το νόημα καθορίζουν τον χρόνο.",
+    "categories": [
+      "keywords",
+      "sequence"
+    ]
+  },
+  {
+    "type": "matching",
+    "question": "Αντιστοίχισε τη φράση με τον κατάλληλο χρόνο ή ερμηνεία.",
+    "matches": [
+      {
+        "label": "yet: Has she finished yet?",
+        "answer": "Present Perfect",
+        "options": [
+          "Simple Past",
+          "Past Continuous",
+          "Present Perfect",
+          "Past Perfect",
+          "Present Perfect ή Past Perfect, ανάλογα με το πλαίσιο",
+          "Δεν προσδιορίζει μόνο του έναν χρόνο"
+        ]
+      }
+    ],
+    "hint": "Διάβασε ολόκληρο το παράδειγμα. Οι λέξεις δεν επιβάλλουν πάντα έναν χρόνο.",
+    "explanation": "Ερώτηση για ολοκλήρωση μέχρι τώρα.",
+    "categories": [
+      "keywords"
+    ]
+  },
+  {
+    "type": "matching",
+    "question": "Αντιστοίχισε τη φράση με τον κατάλληλο χρόνο ή ερμηνεία.",
+    "matches": [
+      {
+        "label": "while: While she was reading, he was cooking.",
+        "answer": "Past Continuous",
+        "options": [
+          "Simple Past",
+          "Past Continuous",
+          "Present Perfect",
+          "Past Perfect",
+          "Present Perfect ή Past Perfect, ανάλογα με το πλαίσιο",
+          "Δεν προσδιορίζει μόνο του έναν χρόνο"
+        ]
+      }
+    ],
+    "hint": "Διάβασε ολόκληρο το παράδειγμα. Οι λέξεις δεν επιβάλλουν πάντα έναν χρόνο.",
+    "explanation": "Στο συγκεκριμένο παράδειγμα δύο παράλληλες πράξεις σε εξέλιξη.",
+    "categories": [
+      "keywords"
+    ]
+  }
+]

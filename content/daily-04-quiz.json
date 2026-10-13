@@ -1,0 +1,175 @@
+[
+  {
+    "type": "typing",
+    "question": "At eight yesterday, my aunts ___ (not swim) at the pool. Χρησιμοποίησε Past Continuous.",
+    "acceptedAnswers": [
+      "were not swimming",
+      "weren’t swimming"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Past Continuous. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Το at eight yesterday, μαζί με τον ζητούμενο χρόνο, περιγράφει πράξη σε εξέλιξη τότε: Past Continuous. my aunts → they: were + swimming. Στην ερώτηση το were προηγείται του υποκειμένου. swim → swimming: διπλασιάζουμε το τελικό σύμφωνο, επειδή προηγείται ένα φωνήεν και η συλλαβή τονίζεται.",
+    "categories": [
+      "auxiliary",
+      "negative",
+      "tense",
+      "agreement",
+      "spelling"
+    ],
+    "tense": "Past Continuous",
+    "subject": "my aunts",
+    "dailyId": "day-04-01"
+  },
+  {
+    "type": "typing",
+    "question": "By the time we arrived, ___ my aunts ___ (finish) dinner? Χρησιμοποίησε Past Perfect. Γράψε τα δύο κενά χωρισμένα με / .",
+    "acceptedAnswers": [
+      "had / finished"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Past Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Το by the time we arrived δίνει μεταγενέστερο γεγονός. Ρωτάμε ή δηλώνουμε τι είχε γίνει πριν από αυτό: Past Perfect. Had + μετοχή για γεγονός πριν από ένα παρελθοντικό σημείο. Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "categories": [
+      "auxiliary",
+      "question",
+      "tense",
+      "sequence"
+    ],
+    "tense": "Past Perfect",
+    "subject": "my aunts",
+    "dailyId": "day-04-02"
+  },
+  {
+    "type": "typing",
+    "question": "___ Dad ___ (go) to the park yesterday? Γράψε τα δύο κενά χωρισμένα με / .",
+    "acceptedAnswers": [
+      "did / go"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Simple Past. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Το yesterday δηλώνει ολοκληρωμένο χρόνο στο παρελθόν: Simple Past. Με did/did not χρησιμοποιούμε go, όχι went ή gone.",
+    "categories": [
+      "auxiliary",
+      "question",
+      "tense",
+      "irregular"
+    ],
+    "tense": "Simple Past",
+    "subject": "Dad",
+    "dailyId": "day-04-03"
+  },
+  {
+    "type": "typing",
+    "question": "___ my aunts ___ (write) a letter at eight yesterday? Χρησιμοποίησε Past Continuous. Γράψε τα δύο κενά χωρισμένα με / .",
+    "acceptedAnswers": [
+      "were / writing"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Past Continuous. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Το at eight yesterday, μαζί με τον ζητούμενο χρόνο, περιγράφει πράξη σε εξέλιξη τότε: Past Continuous. my aunts → they: were + writing. Στην ερώτηση το were προηγείται του υποκειμένου.",
+    "categories": [
+      "auxiliary",
+      "question",
+      "tense",
+      "agreement"
+    ],
+    "tense": "Past Continuous",
+    "subject": "my aunts",
+    "dailyId": "day-04-04"
+  },
+  {
+    "type": "typing",
+    "question": "He ___ (stop) the car yesterday.",
+    "acceptedAnswers": [
+      "stopped"
+    ],
+    "hint": "Βρες πρώτα τον χρόνο και μετά τον σωστό τύπο του ρήματος.",
+    "explanation": "Το yesterday / last week / last month / a moment ago δίνει ολοκληρωμένο χρονικό σημείο στο παρελθόν: Simple Past. Διπλασιάζουμε το p πριν από -ed.",
+    "categories": [
+      "keywords",
+      "spelling"
+    ],
+    "tense": "Simple Past",
+    "dailyId": "day-04-05"
+  },
+  {
+    "type": "typing",
+    "question": "___ my aunts ever ___ (eat) sushi? Γράψε τα δύο κενά χωρισμένα με / .",
+    "acceptedAnswers": [
+      "have / eaten"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Present Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Το ever ρωτά για εμπειρία μέχρι τώρα: Present Perfect. my aunts → they: have + eaten. Eat → ate → eaten.",
+    "categories": [
+      "auxiliary",
+      "question",
+      "tense",
+      "agreement",
+      "irregular"
+    ],
+    "tense": "Present Perfect",
+    "subject": "my aunts",
+    "dailyId": "day-04-06"
+  },
+  {
+    "type": "typing",
+    "question": "Ανώμαλο ρήμα eat: πληκτρολόγησε τον αόριστο (Simple Past).",
+    "acceptedAnswers": [
+      "ate"
+    ],
+    "hint": "Γράψε μόνο τον τύπο του ρήματος, χωρίς βοηθητικό.",
+    "explanation": "Εδώ ζητείται τύπος ρήματος, όχι επιλογή χρόνου. eat → ate → eaten.",
+    "categories": [
+      "irregular"
+    ],
+    "dailyId": "day-04-07"
+  },
+  {
+    "type": "typing",
+    "question": "By the time we arrived, my aunts ___ (not finish) dinner. Χρησιμοποίησε Past Perfect.",
+    "acceptedAnswers": [
+      "had not finished",
+      "hadn’t finished"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Past Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Το by the time we arrived δίνει μεταγενέστερο γεγονός. Ρωτάμε ή δηλώνουμε τι είχε γίνει πριν από αυτό: Past Perfect. Had + μετοχή για γεγονός πριν από ένα παρελθοντικό σημείο. Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "categories": [
+      "auxiliary",
+      "negative",
+      "tense",
+      "sequence"
+    ],
+    "tense": "Past Perfect",
+    "subject": "my aunts",
+    "dailyId": "day-04-08"
+  },
+  {
+    "type": "typing",
+    "question": "My aunts ___ (not eat) anything since this morning. Χρησιμοποίησε Present Perfect.",
+    "acceptedAnswers": [
+      "have not eaten",
+      "haven’t eaten"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Present Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Το since this morning συνδέει το παρελθόν με το παρόν: Present Perfect. my aunts → they: have + eaten. Eat → ate → eaten.",
+    "categories": [
+      "auxiliary",
+      "negative",
+      "tense",
+      "agreement",
+      "irregular"
+    ],
+    "tense": "Present Perfect",
+    "subject": "my aunts",
+    "dailyId": "day-04-09"
+  },
+  {
+    "type": "typing",
+    "question": "Ανώμαλο ρήμα eat: πληκτρολόγησε τη μετοχή (past participle).",
+    "acceptedAnswers": [
+      "eaten"
+    ],
+    "hint": "Είναι ο τύπος που χρησιμοποιείται μετά από have/has/had.",
+    "explanation": "Εδώ ζητείται τύπος ρήματος, όχι επιλογή χρόνου. eat → ate → eaten.",
+    "categories": [
+      "irregular"
+    ],
+    "dailyId": "day-04-10"
+  }
+]

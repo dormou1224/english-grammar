@@ -1,0 +1,174 @@
+[
+  {
+    "type": "typing",
+    "question": "The children ___ (not eat) anything since this morning. Χρησιμοποίησε Present Perfect.",
+    "acceptedAnswers": [
+      "have not eaten",
+      "haven’t eaten"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Present Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Το since this morning συνδέει το παρελθόν με το παρόν: Present Perfect. the children → they: have + eaten. Eat → ate → eaten.",
+    "categories": [
+      "auxiliary",
+      "negative",
+      "tense",
+      "agreement",
+      "irregular"
+    ],
+    "tense": "Present Perfect",
+    "subject": "the children",
+    "dailyId": "day-22-01"
+  },
+  {
+    "type": "typing",
+    "question": "At eight yesterday, the children ___ (not swim) at the pool. Χρησιμοποίησε Past Continuous.",
+    "acceptedAnswers": [
+      "were not swimming",
+      "weren’t swimming"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Past Continuous. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Το at eight yesterday, μαζί με τον ζητούμενο χρόνο, περιγράφει πράξη σε εξέλιξη τότε: Past Continuous. the children → they: were + swimming. Στην ερώτηση το were προηγείται του υποκειμένου. swim → swimming: διπλασιάζουμε το τελικό σύμφωνο, επειδή προηγείται ένα φωνήεν και η συλλαβή τονίζεται.",
+    "categories": [
+      "auxiliary",
+      "negative",
+      "tense",
+      "agreement",
+      "spelling"
+    ],
+    "tense": "Past Continuous",
+    "subject": "the children",
+    "dailyId": "day-22-02"
+  },
+  {
+    "type": "typing",
+    "question": "___ the children ___ (write) a letter at eight yesterday? Χρησιμοποίησε Past Continuous. Γράψε τα δύο κενά χωρισμένα με / .",
+    "acceptedAnswers": [
+      "were / writing"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Past Continuous. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Το at eight yesterday, μαζί με τον ζητούμενο χρόνο, περιγράφει πράξη σε εξέλιξη τότε: Past Continuous. the children → they: were + writing. Στην ερώτηση το were προηγείται του υποκειμένου.",
+    "categories": [
+      "auxiliary",
+      "question",
+      "tense",
+      "agreement"
+    ],
+    "tense": "Past Continuous",
+    "subject": "the children",
+    "dailyId": "day-22-03"
+  },
+  {
+    "type": "typing",
+    "question": "___ the children ever ___ (eat) sushi? Γράψε τα δύο κενά χωρισμένα με / .",
+    "acceptedAnswers": [
+      "have / eaten"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Present Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Το ever ρωτά για εμπειρία μέχρι τώρα: Present Perfect. the children → they: have + eaten. Eat → ate → eaten.",
+    "categories": [
+      "auxiliary",
+      "question",
+      "tense",
+      "agreement",
+      "irregular"
+    ],
+    "tense": "Present Perfect",
+    "subject": "the children",
+    "dailyId": "day-22-04"
+  },
+  {
+    "type": "typing",
+    "question": "Ανώμαλο ρήμα make: πληκτρολόγησε τη μετοχή (past participle).",
+    "acceptedAnswers": [
+      "made"
+    ],
+    "hint": "Είναι ο τύπος που χρησιμοποιείται μετά από have/has/had.",
+    "explanation": "Εδώ ζητείται τύπος ρήματος, όχι επιλογή χρόνου. make → made → made.",
+    "categories": [
+      "irregular"
+    ],
+    "dailyId": "day-22-05"
+  },
+  {
+    "type": "typing",
+    "question": "By the time we arrived, the children ___ (not finish) dinner. Χρησιμοποίησε Past Perfect.",
+    "acceptedAnswers": [
+      "had not finished",
+      "hadn’t finished"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Past Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Το by the time we arrived δίνει μεταγενέστερο γεγονός. Ρωτάμε ή δηλώνουμε τι είχε γίνει πριν από αυτό: Past Perfect. Had + μετοχή για γεγονός πριν από ένα παρελθοντικό σημείο. Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "categories": [
+      "auxiliary",
+      "negative",
+      "tense",
+      "sequence"
+    ],
+    "tense": "Past Perfect",
+    "subject": "the children",
+    "dailyId": "day-22-06"
+  },
+  {
+    "type": "typing",
+    "question": "___ my aunt ___ (go) to the park yesterday? Γράψε τα δύο κενά χωρισμένα με / .",
+    "acceptedAnswers": [
+      "did / go"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Simple Past. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Το yesterday δηλώνει ολοκληρωμένο χρόνο στο παρελθόν: Simple Past. Με did/did not χρησιμοποιούμε go, όχι went ή gone.",
+    "categories": [
+      "auxiliary",
+      "question",
+      "tense",
+      "irregular"
+    ],
+    "tense": "Simple Past",
+    "subject": "my aunt",
+    "dailyId": "day-22-07"
+  },
+  {
+    "type": "typing",
+    "question": "By the time we arrived, ___ the children ___ (finish) dinner? Χρησιμοποίησε Past Perfect. Γράψε τα δύο κενά χωρισμένα με / .",
+    "acceptedAnswers": [
+      "had / finished"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Past Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Το by the time we arrived δίνει μεταγενέστερο γεγονός. Ρωτάμε ή δηλώνουμε τι είχε γίνει πριν από αυτό: Past Perfect. Had + μετοχή για γεγονός πριν από ένα παρελθοντικό σημείο. Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "categories": [
+      "auxiliary",
+      "question",
+      "tense",
+      "sequence"
+    ],
+    "tense": "Past Perfect",
+    "subject": "the children",
+    "dailyId": "day-22-08"
+  },
+  {
+    "type": "typing",
+    "question": "Ανώμαλο ρήμα make: πληκτρολόγησε τον αόριστο (Simple Past).",
+    "acceptedAnswers": [
+      "made"
+    ],
+    "hint": "Γράψε μόνο τον τύπο του ρήματος, χωρίς βοηθητικό.",
+    "explanation": "Εδώ ζητείται τύπος ρήματος, όχι επιλογή χρόνου. make → made → made.",
+    "categories": [
+      "irregular"
+    ],
+    "dailyId": "day-22-09"
+  },
+  {
+    "type": "typing",
+    "question": "They ___ (play) football yesterday.",
+    "acceptedAnswers": [
+      "played"
+    ],
+    "hint": "Βρες πρώτα τον χρόνο και μετά τον σωστό τύπο του ρήματος.",
+    "explanation": "Το yesterday / last week / last month / a moment ago δίνει ολοκληρωμένο χρονικό σημείο στο παρελθόν: Simple Past. Φωνήεν + y: διατηρούμε το y πριν από -ed.",
+    "categories": [
+      "keywords"
+    ],
+    "tense": "Simple Past",
+    "dailyId": "day-22-10"
+  }
+]

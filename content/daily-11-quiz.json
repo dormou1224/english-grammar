@@ -1,0 +1,176 @@
+[
+  {
+    "type": "typing",
+    "question": "He ___ (stop) the car yesterday.",
+    "acceptedAnswers": [
+      "stopped"
+    ],
+    "hint": "Βρες πρώτα τον χρόνο και μετά τον σωστό τύπο του ρήματος.",
+    "explanation": "Το yesterday / last week / last month / a moment ago δίνει ολοκληρωμένο χρονικό σημείο στο παρελθόν: Simple Past. Διπλασιάζουμε το p πριν από -ed.",
+    "categories": [
+      "keywords",
+      "spelling"
+    ],
+    "tense": "Simple Past",
+    "dailyId": "day-11-01"
+  },
+  {
+    "type": "typing",
+    "question": "___ my aunt ___ (write) a letter at eight yesterday? Χρησιμοποίησε Past Continuous. Γράψε τα δύο κενά χωρισμένα με / .",
+    "acceptedAnswers": [
+      "was / writing"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Past Continuous. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Το at eight yesterday, μαζί με τον ζητούμενο χρόνο, περιγράφει πράξη σε εξέλιξη τότε: Past Continuous. my aunt → she: was + writing. Στην ερώτηση το was προηγείται του υποκειμένου.",
+    "categories": [
+      "auxiliary",
+      "question",
+      "tense",
+      "agreement"
+    ],
+    "tense": "Past Continuous",
+    "subject": "my aunt",
+    "dailyId": "day-11-02"
+  },
+  {
+    "type": "typing",
+    "question": "At eight yesterday, my aunt ___ (not run) in the park. Χρησιμοποίησε Past Continuous.",
+    "acceptedAnswers": [
+      "was not running",
+      "wasn’t running"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Past Continuous. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Το at eight yesterday, μαζί με τον ζητούμενο χρόνο, περιγράφει πράξη σε εξέλιξη τότε: Past Continuous. my aunt → she: was + running. Στην ερώτηση το was προηγείται του υποκειμένου. run → running: διπλασιάζουμε το τελικό σύμφωνο, επειδή προηγείται ένα φωνήεν και η συλλαβή τονίζεται.",
+    "categories": [
+      "auxiliary",
+      "negative",
+      "tense",
+      "agreement",
+      "spelling"
+    ],
+    "tense": "Past Continuous",
+    "subject": "my aunt",
+    "dailyId": "day-11-03"
+  },
+  {
+    "type": "typing",
+    "question": "___ my aunt ever ___ (eat) sushi? Γράψε τα δύο κενά χωρισμένα με / .",
+    "acceptedAnswers": [
+      "has / eaten"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Present Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Το ever ρωτά για εμπειρία μέχρι τώρα: Present Perfect. my aunt → she: has + eaten. Eat → ate → eaten.",
+    "categories": [
+      "auxiliary",
+      "question",
+      "tense",
+      "agreement",
+      "irregular"
+    ],
+    "tense": "Present Perfect",
+    "subject": "my aunt",
+    "dailyId": "day-11-04"
+  },
+  {
+    "type": "typing",
+    "question": "My aunt ___ (not eat) anything since this morning. Χρησιμοποίησε Present Perfect.",
+    "acceptedAnswers": [
+      "has not eaten",
+      "hasn’t eaten"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Present Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Το since this morning συνδέει το παρελθόν με το παρόν: Present Perfect. my aunt → she: has + eaten. Eat → ate → eaten.",
+    "categories": [
+      "auxiliary",
+      "negative",
+      "tense",
+      "agreement",
+      "irregular"
+    ],
+    "tense": "Present Perfect",
+    "subject": "my aunt",
+    "dailyId": "day-11-05"
+  },
+  {
+    "type": "typing",
+    "question": "Ανώμαλο ρήμα speak: πληκτρολόγησε τη μετοχή (past participle).",
+    "acceptedAnswers": [
+      "spoken"
+    ],
+    "hint": "Είναι ο τύπος που χρησιμοποιείται μετά από have/has/had.",
+    "explanation": "Εδώ ζητείται τύπος ρήματος, όχι επιλογή χρόνου. speak → spoke → spoken.",
+    "categories": [
+      "irregular"
+    ],
+    "dailyId": "day-11-06"
+  },
+  {
+    "type": "typing",
+    "question": "Yesterday, the children ___ (not go) to the park.",
+    "acceptedAnswers": [
+      "did not go",
+      "didn’t go"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Simple Past. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Το yesterday δηλώνει ολοκληρωμένο χρόνο στο παρελθόν: Simple Past. Με did/did not χρησιμοποιούμε go, όχι went ή gone.",
+    "categories": [
+      "auxiliary",
+      "negative",
+      "tense",
+      "irregular"
+    ],
+    "tense": "Simple Past",
+    "subject": "the children",
+    "dailyId": "day-11-07"
+  },
+  {
+    "type": "typing",
+    "question": "Ανώμαλο ρήμα speak: πληκτρολόγησε τον αόριστο (Simple Past).",
+    "acceptedAnswers": [
+      "spoke"
+    ],
+    "hint": "Γράψε μόνο τον τύπο του ρήματος, χωρίς βοηθητικό.",
+    "explanation": "Εδώ ζητείται τύπος ρήματος, όχι επιλογή χρόνου. speak → spoke → spoken.",
+    "categories": [
+      "irregular"
+    ],
+    "dailyId": "day-11-08"
+  },
+  {
+    "type": "typing",
+    "question": "Before we arrived, my aunt ___ (not finish) dinner. Χρησιμοποίησε Past Perfect.",
+    "acceptedAnswers": [
+      "had not finished",
+      "hadn’t finished"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Past Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Το before we arrived δίνει τη μεταγενέστερη άφιξη σε Simple Past. Για ό,τι είχε γίνει νωρίτερα χρησιμοποιούμε τον ζητούμενο Past Perfect: had + finished. Στην άρνηση: had not finished. Στην ερώτηση: Had + υποκείμενο + finished; Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "categories": [
+      "auxiliary",
+      "negative",
+      "tense",
+      "sequence"
+    ],
+    "tense": "Past Perfect",
+    "subject": "my aunt",
+    "dailyId": "day-11-09"
+  },
+  {
+    "type": "typing",
+    "question": "Before we arrived, ___ my aunt ___ (finish) dinner? Χρησιμοποίησε Past Perfect. Γράψε τα δύο κενά χωρισμένα με / .",
+    "acceptedAnswers": [
+      "had / finished"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Past Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Το before we arrived δίνει τη μεταγενέστερη άφιξη σε Simple Past. Για ό,τι είχε γίνει νωρίτερα χρησιμοποιούμε τον ζητούμενο Past Perfect: had + finished. Στην άρνηση: had not finished. Στην ερώτηση: Had + υποκείμενο + finished; Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "categories": [
+      "auxiliary",
+      "question",
+      "tense",
+      "sequence"
+    ],
+    "tense": "Past Perfect",
+    "subject": "my aunt",
+    "dailyId": "day-11-10"
+  }
+]

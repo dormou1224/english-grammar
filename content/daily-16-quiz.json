@@ -1,0 +1,174 @@
+[
+  {
+    "type": "typing",
+    "question": "Ανώμαλο ρήμα bring: πληκτρολόγησε τον αόριστο (Simple Past).",
+    "acceptedAnswers": [
+      "brought"
+    ],
+    "hint": "Γράψε μόνο τον τύπο του ρήματος, χωρίς βοηθητικό.",
+    "explanation": "Εδώ ζητείται τύπος ρήματος, όχι επιλογή χρόνου. bring → brought → brought.",
+    "categories": [
+      "irregular"
+    ],
+    "dailyId": "day-16-01"
+  },
+  {
+    "type": "typing",
+    "question": "By the time we arrived, ___ my mum and I ___ (finish) dinner? Χρησιμοποίησε Past Perfect. Γράψε τα δύο κενά χωρισμένα με / .",
+    "acceptedAnswers": [
+      "had / finished"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Past Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Το by the time we arrived δίνει μεταγενέστερο γεγονός. Ρωτάμε ή δηλώνουμε τι είχε γίνει πριν από αυτό: Past Perfect. Had + μετοχή για γεγονός πριν από ένα παρελθοντικό σημείο. Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "categories": [
+      "auxiliary",
+      "question",
+      "tense",
+      "sequence"
+    ],
+    "tense": "Past Perfect",
+    "subject": "my mum and I",
+    "dailyId": "day-16-02"
+  },
+  {
+    "type": "typing",
+    "question": "She ___ (try) again last Monday.",
+    "acceptedAnswers": [
+      "tried"
+    ],
+    "hint": "Βρες πρώτα τον χρόνο και μετά τον σωστό τύπο του ρήματος.",
+    "explanation": "Το yesterday / last week / last month / a moment ago δίνει ολοκληρωμένο χρονικό σημείο στο παρελθόν: Simple Past. Σύμφωνο + y: y → ied.",
+    "categories": [
+      "spelling"
+    ],
+    "tense": "Simple Past",
+    "dailyId": "day-16-03"
+  },
+  {
+    "type": "typing",
+    "question": "At eight yesterday, my mum and I ___ (not swim) at the pool. Χρησιμοποίησε Past Continuous.",
+    "acceptedAnswers": [
+      "were not swimming",
+      "weren’t swimming"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Past Continuous. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Το at eight yesterday, μαζί με τον ζητούμενο χρόνο, περιγράφει πράξη σε εξέλιξη τότε: Past Continuous. my mum and I → we: were + swimming. Στην ερώτηση το were προηγείται του υποκειμένου. swim → swimming: διπλασιάζουμε το τελικό σύμφωνο, επειδή προηγείται ένα φωνήεν και η συλλαβή τονίζεται.",
+    "categories": [
+      "auxiliary",
+      "negative",
+      "tense",
+      "agreement",
+      "spelling"
+    ],
+    "tense": "Past Continuous",
+    "subject": "my mum and I",
+    "dailyId": "day-16-04"
+  },
+  {
+    "type": "typing",
+    "question": "___ my mum and I ever ___ (eat) sushi? Γράψε τα δύο κενά χωρισμένα με / .",
+    "acceptedAnswers": [
+      "have / eaten"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Present Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Το ever ρωτά για εμπειρία μέχρι τώρα: Present Perfect. my mum and I → we: have + eaten. Eat → ate → eaten.",
+    "categories": [
+      "auxiliary",
+      "question",
+      "tense",
+      "agreement",
+      "irregular"
+    ],
+    "tense": "Present Perfect",
+    "subject": "my mum and I",
+    "dailyId": "day-16-05"
+  },
+  {
+    "type": "typing",
+    "question": "By the time we arrived, my mum and I ___ (not finish) dinner. Χρησιμοποίησε Past Perfect.",
+    "acceptedAnswers": [
+      "had not finished",
+      "hadn’t finished"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Past Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Το by the time we arrived δίνει μεταγενέστερο γεγονός. Ρωτάμε ή δηλώνουμε τι είχε γίνει πριν από αυτό: Past Perfect. Had + μετοχή για γεγονός πριν από ένα παρελθοντικό σημείο. Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "categories": [
+      "auxiliary",
+      "negative",
+      "tense",
+      "sequence"
+    ],
+    "tense": "Past Perfect",
+    "subject": "my mum and I",
+    "dailyId": "day-16-06"
+  },
+  {
+    "type": "typing",
+    "question": "My mum and I ___ (not eat) anything since this morning. Χρησιμοποίησε Present Perfect.",
+    "acceptedAnswers": [
+      "have not eaten",
+      "haven’t eaten"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Present Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Το since this morning συνδέει το παρελθόν με το παρόν: Present Perfect. my mum and I → we: have + eaten. Eat → ate → eaten.",
+    "categories": [
+      "auxiliary",
+      "negative",
+      "tense",
+      "agreement",
+      "irregular"
+    ],
+    "tense": "Present Perfect",
+    "subject": "my mum and I",
+    "dailyId": "day-16-07"
+  },
+  {
+    "type": "typing",
+    "question": "___ my mum and I ___ (go) to the park yesterday? Γράψε τα δύο κενά χωρισμένα με / .",
+    "acceptedAnswers": [
+      "did / go"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Simple Past. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Το yesterday δηλώνει ολοκληρωμένο χρόνο στο παρελθόν: Simple Past. Με did/did not χρησιμοποιούμε go, όχι went ή gone.",
+    "categories": [
+      "auxiliary",
+      "question",
+      "tense",
+      "irregular"
+    ],
+    "tense": "Simple Past",
+    "subject": "my mum and I",
+    "dailyId": "day-16-08"
+  },
+  {
+    "type": "typing",
+    "question": "___ my mum and I ___ (write) a letter at eight yesterday? Χρησιμοποίησε Past Continuous. Γράψε τα δύο κενά χωρισμένα με / .",
+    "acceptedAnswers": [
+      "were / writing"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Past Continuous. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Το at eight yesterday, μαζί με τον ζητούμενο χρόνο, περιγράφει πράξη σε εξέλιξη τότε: Past Continuous. my mum and I → we: were + writing. Στην ερώτηση το were προηγείται του υποκειμένου.",
+    "categories": [
+      "auxiliary",
+      "question",
+      "tense",
+      "agreement"
+    ],
+    "tense": "Past Continuous",
+    "subject": "my mum and I",
+    "dailyId": "day-16-09"
+  },
+  {
+    "type": "typing",
+    "question": "Ανώμαλο ρήμα bring: πληκτρολόγησε τη μετοχή (past participle).",
+    "acceptedAnswers": [
+      "brought"
+    ],
+    "hint": "Είναι ο τύπος που χρησιμοποιείται μετά από have/has/had.",
+    "explanation": "Εδώ ζητείται τύπος ρήματος, όχι επιλογή χρόνου. bring → brought → brought.",
+    "categories": [
+      "irregular"
+    ],
+    "dailyId": "day-16-10"
+  }
+]

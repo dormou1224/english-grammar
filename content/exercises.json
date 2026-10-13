@@ -638,5 +638,261 @@
   {
     "question": "When we arrived, he ___ (already drink) his tea.",
     "answer": "had already drunk — Drink → drank → drunk. Με had χρησιμοποιούμε drunk."
+  },
+  {
+    "question": "Yesterday, Mum ___ (not go) to the park.",
+    "answer": "did not go / didn’t go — Με did/did not χρησιμοποιούμε go, όχι went ή gone."
+  },
+  {
+    "question": "___ Mum ___ (go) to the park yesterday? Γράψε τα δύο κενά χωρισμένα με / .",
+    "answer": "did / go — Με did/did not χρησιμοποιούμε go, όχι went ή gone."
+  },
+  {
+    "question": "At eight yesterday, Mum ___ (not write) a letter. Χρησιμοποίησε Past Continuous.",
+    "answer": "was not writing / wasn’t writing — Mum → she: was + writing. Στην ερώτηση το was προηγείται του υποκειμένου."
+  },
+  {
+    "question": "___ Mum ___ (write) a letter at eight yesterday? Χρησιμοποίησε Past Continuous. Γράψε τα δύο κενά χωρισμένα με / .",
+    "answer": "was / writing — Mum → she: was + writing. Στην ερώτηση το was προηγείται του υποκειμένου."
+  },
+  {
+    "question": "Mum ___ (not eat) anything since this morning. Χρησιμοποίησε Present Perfect.",
+    "answer": "has not eaten / hasn’t eaten — Mum → she: has + eaten. Eat → ate → eaten."
+  },
+  {
+    "question": "___ Mum ever ___ (eat) sushi? Γράψε τα δύο κενά χωρισμένα με / .",
+    "answer": "has / eaten — Mum → she: has + eaten. Eat → ate → eaten."
+  },
+  {
+    "question": "By the time we arrived, Mum ___ (not finish) dinner. Χρησιμοποίησε Past Perfect.",
+    "answer": "had not finished / hadn’t finished — Had + μετοχή για γεγονός πριν από ένα παρελθοντικό σημείο. Το had είναι ίδιο για όλα τα πρόσωπα."
+  },
+  {
+    "question": "By the time we arrived, ___ Mum ___ (finish) dinner? Χρησιμοποίησε Past Perfect. Γράψε τα δύο κενά χωρισμένα με / .",
+    "answer": "had / finished — Had + μετοχή για γεγονός πριν από ένα παρελθοντικό σημείο. Το had είναι ίδιο για όλα τα πρόσωπα."
+  },
+  {
+    "question": "Yesterday, Dad ___ (not go) to the park.",
+    "answer": "did not go / didn’t go — Με did/did not χρησιμοποιούμε go, όχι went ή gone."
+  },
+  {
+    "question": "___ Dad ___ (go) to the park yesterday? Γράψε τα δύο κενά χωρισμένα με / .",
+    "answer": "did / go — Με did/did not χρησιμοποιούμε go, όχι went ή gone."
+  },
+  {
+    "question": "At eight yesterday, Dad ___ (not write) a letter. Χρησιμοποίησε Past Continuous.",
+    "answer": "was not writing / wasn’t writing — Dad → he: was + writing. Στην ερώτηση το was προηγείται του υποκειμένου."
+  },
+  {
+    "question": "___ Dad ___ (write) a letter at eight yesterday? Χρησιμοποίησε Past Continuous. Γράψε τα δύο κενά χωρισμένα με / .",
+    "answer": "was / writing — Dad → he: was + writing. Στην ερώτηση το was προηγείται του υποκειμένου."
+  },
+  {
+    "question": "Dad ___ (not eat) anything since this morning. Χρησιμοποίησε Present Perfect.",
+    "answer": "has not eaten / hasn’t eaten — Dad → he: has + eaten. Eat → ate → eaten."
+  },
+  {
+    "question": "___ Dad ever ___ (eat) sushi? Γράψε τα δύο κενά χωρισμένα με / .",
+    "answer": "has / eaten — Dad → he: has + eaten. Eat → ate → eaten."
+  },
+  {
+    "question": "By the time we arrived, Dad ___ (not finish) dinner. Χρησιμοποίησε Past Perfect.",
+    "answer": "had not finished / hadn’t finished — Had + μετοχή για γεγονός πριν από ένα παρελθοντικό σημείο. Το had είναι ίδιο για όλα τα πρόσωπα."
+  },
+  {
+    "question": "By the time we arrived, ___ Dad ___ (finish) dinner? Χρησιμοποίησε Past Perfect. Γράψε τα δύο κενά χωρισμένα με / .",
+    "answer": "had / finished — Had + μετοχή για γεγονός πριν από ένα παρελθοντικό σημείο. Το had είναι ίδιο για όλα τα πρόσωπα."
+  },
+  {
+    "question": "Yesterday, my aunt ___ (not go) to the park.",
+    "answer": "did not go / didn’t go — Με did/did not χρησιμοποιούμε go, όχι went ή gone."
+  },
+  {
+    "question": "___ my aunt ___ (go) to the park yesterday? Γράψε τα δύο κενά χωρισμένα με / .",
+    "answer": "did / go — Με did/did not χρησιμοποιούμε go, όχι went ή gone."
+  },
+  {
+    "question": "At eight yesterday, my aunt ___ (not write) a letter. Χρησιμοποίησε Past Continuous.",
+    "answer": "was not writing / wasn’t writing — my aunt → she: was + writing. Στην ερώτηση το was προηγείται του υποκειμένου."
+  },
+  {
+    "question": "___ my aunt ___ (write) a letter at eight yesterday? Χρησιμοποίησε Past Continuous. Γράψε τα δύο κενά χωρισμένα με / .",
+    "answer": "was / writing — my aunt → she: was + writing. Στην ερώτηση το was προηγείται του υποκειμένου."
+  },
+  {
+    "question": "My aunt ___ (not eat) anything since this morning. Χρησιμοποίησε Present Perfect.",
+    "answer": "has not eaten / hasn’t eaten — my aunt → she: has + eaten. Eat → ate → eaten."
+  },
+  {
+    "question": "___ my aunt ever ___ (eat) sushi? Γράψε τα δύο κενά χωρισμένα με / .",
+    "answer": "has / eaten — my aunt → she: has + eaten. Eat → ate → eaten."
+  },
+  {
+    "question": "By the time we arrived, my aunt ___ (not finish) dinner. Χρησιμοποίησε Past Perfect.",
+    "answer": "had not finished / hadn’t finished — Had + μετοχή για γεγονός πριν από ένα παρελθοντικό σημείο. Το had είναι ίδιο για όλα τα πρόσωπα."
+  },
+  {
+    "question": "By the time we arrived, ___ my aunt ___ (finish) dinner? Χρησιμοποίησε Past Perfect. Γράψε τα δύο κενά χωρισμένα με / .",
+    "answer": "had / finished — Had + μετοχή για γεγονός πριν από ένα παρελθοντικό σημείο. Το had είναι ίδιο για όλα τα πρόσωπα."
+  },
+  {
+    "question": "Yesterday, my aunts ___ (not go) to the park.",
+    "answer": "did not go / didn’t go — Με did/did not χρησιμοποιούμε go, όχι went ή gone."
+  },
+  {
+    "question": "___ my aunts ___ (go) to the park yesterday? Γράψε τα δύο κενά χωρισμένα με / .",
+    "answer": "did / go — Με did/did not χρησιμοποιούμε go, όχι went ή gone."
+  },
+  {
+    "question": "At eight yesterday, my aunts ___ (not write) a letter. Χρησιμοποίησε Past Continuous.",
+    "answer": "were not writing / weren’t writing — my aunts → they: were + writing. Στην ερώτηση το were προηγείται του υποκειμένου."
+  },
+  {
+    "question": "___ my aunts ___ (write) a letter at eight yesterday? Χρησιμοποίησε Past Continuous. Γράψε τα δύο κενά χωρισμένα με / .",
+    "answer": "were / writing — my aunts → they: were + writing. Στην ερώτηση το were προηγείται του υποκειμένου."
+  },
+  {
+    "question": "My aunts ___ (not eat) anything since this morning. Χρησιμοποίησε Present Perfect.",
+    "answer": "have not eaten / haven’t eaten — my aunts → they: have + eaten. Eat → ate → eaten."
+  },
+  {
+    "question": "___ my aunts ever ___ (eat) sushi? Γράψε τα δύο κενά χωρισμένα με / .",
+    "answer": "have / eaten — my aunts → they: have + eaten. Eat → ate → eaten."
+  },
+  {
+    "question": "By the time we arrived, my aunts ___ (not finish) dinner. Χρησιμοποίησε Past Perfect.",
+    "answer": "had not finished / hadn’t finished — Had + μετοχή για γεγονός πριν από ένα παρελθοντικό σημείο. Το had είναι ίδιο για όλα τα πρόσωπα."
+  },
+  {
+    "question": "By the time we arrived, ___ my aunts ___ (finish) dinner? Χρησιμοποίησε Past Perfect. Γράψε τα δύο κενά χωρισμένα με / .",
+    "answer": "had / finished — Had + μετοχή για γεγονός πριν από ένα παρελθοντικό σημείο. Το had είναι ίδιο για όλα τα πρόσωπα."
+  },
+  {
+    "question": "Yesterday, the child ___ (not go) to the park.",
+    "answer": "did not go / didn’t go — Με did/did not χρησιμοποιούμε go, όχι went ή gone."
+  },
+  {
+    "question": "___ the child ___ (go) to the park yesterday? Γράψε τα δύο κενά χωρισμένα με / .",
+    "answer": "did / go — Με did/did not χρησιμοποιούμε go, όχι went ή gone."
+  },
+  {
+    "question": "At eight yesterday, the child ___ (not write) a letter. Χρησιμοποίησε Past Continuous.",
+    "answer": "was not writing / wasn’t writing — the child → he/she: was + writing. Στην ερώτηση το was προηγείται του υποκειμένου."
+  },
+  {
+    "question": "___ the child ___ (write) a letter at eight yesterday? Χρησιμοποίησε Past Continuous. Γράψε τα δύο κενά χωρισμένα με / .",
+    "answer": "was / writing — the child → he/she: was + writing. Στην ερώτηση το was προηγείται του υποκειμένου."
+  },
+  {
+    "question": "The child ___ (not eat) anything since this morning. Χρησιμοποίησε Present Perfect.",
+    "answer": "has not eaten / hasn’t eaten — the child → he/she: has + eaten. Eat → ate → eaten."
+  },
+  {
+    "question": "___ the child ever ___ (eat) sushi? Γράψε τα δύο κενά χωρισμένα με / .",
+    "answer": "has / eaten — the child → he/she: has + eaten. Eat → ate → eaten."
+  },
+  {
+    "question": "By the time we arrived, the child ___ (not finish) dinner. Χρησιμοποίησε Past Perfect.",
+    "answer": "had not finished / hadn’t finished — Had + μετοχή για γεγονός πριν από ένα παρελθοντικό σημείο. Το had είναι ίδιο για όλα τα πρόσωπα."
+  },
+  {
+    "question": "By the time we arrived, ___ the child ___ (finish) dinner? Χρησιμοποίησε Past Perfect. Γράψε τα δύο κενά χωρισμένα με / .",
+    "answer": "had / finished — Had + μετοχή για γεγονός πριν από ένα παρελθοντικό σημείο. Το had είναι ίδιο για όλα τα πρόσωπα."
+  },
+  {
+    "question": "Yesterday, the children ___ (not go) to the park.",
+    "answer": "did not go / didn’t go — Με did/did not χρησιμοποιούμε go, όχι went ή gone."
+  },
+  {
+    "question": "___ the children ___ (go) to the park yesterday? Γράψε τα δύο κενά χωρισμένα με / .",
+    "answer": "did / go — Με did/did not χρησιμοποιούμε go, όχι went ή gone."
+  },
+  {
+    "question": "At eight yesterday, the children ___ (not write) a letter. Χρησιμοποίησε Past Continuous.",
+    "answer": "were not writing / weren’t writing — the children → they: were + writing. Στην ερώτηση το were προηγείται του υποκειμένου."
+  },
+  {
+    "question": "___ the children ___ (write) a letter at eight yesterday? Χρησιμοποίησε Past Continuous. Γράψε τα δύο κενά χωρισμένα με / .",
+    "answer": "were / writing — the children → they: were + writing. Στην ερώτηση το were προηγείται του υποκειμένου."
+  },
+  {
+    "question": "The children ___ (not eat) anything since this morning. Χρησιμοποίησε Present Perfect.",
+    "answer": "have not eaten / haven’t eaten — the children → they: have + eaten. Eat → ate → eaten."
+  },
+  {
+    "question": "___ the children ever ___ (eat) sushi? Γράψε τα δύο κενά χωρισμένα με / .",
+    "answer": "have / eaten — the children → they: have + eaten. Eat → ate → eaten."
+  },
+  {
+    "question": "By the time we arrived, the children ___ (not finish) dinner. Χρησιμοποίησε Past Perfect.",
+    "answer": "had not finished / hadn’t finished — Had + μετοχή για γεγονός πριν από ένα παρελθοντικό σημείο. Το had είναι ίδιο για όλα τα πρόσωπα."
+  },
+  {
+    "question": "By the time we arrived, ___ the children ___ (finish) dinner? Χρησιμοποίησε Past Perfect. Γράψε τα δύο κενά χωρισμένα με / .",
+    "answer": "had / finished — Had + μετοχή για γεγονός πριν από ένα παρελθοντικό σημείο. Το had είναι ίδιο για όλα τα πρόσωπα."
+  },
+  {
+    "question": "Yesterday, Andrew and his father ___ (not go) to the park.",
+    "answer": "did not go / didn’t go — Με did/did not χρησιμοποιούμε go, όχι went ή gone."
+  },
+  {
+    "question": "___ Andrew and his father ___ (go) to the park yesterday? Γράψε τα δύο κενά χωρισμένα με / .",
+    "answer": "did / go — Με did/did not χρησιμοποιούμε go, όχι went ή gone."
+  },
+  {
+    "question": "At eight yesterday, Andrew and his father ___ (not write) a letter. Χρησιμοποίησε Past Continuous.",
+    "answer": "were not writing / weren’t writing — Andrew and his father → they: were + writing. Στην ερώτηση το were προηγείται του υποκειμένου."
+  },
+  {
+    "question": "___ Andrew and his father ___ (write) a letter at eight yesterday? Χρησιμοποίησε Past Continuous. Γράψε τα δύο κενά χωρισμένα με / .",
+    "answer": "were / writing — Andrew and his father → they: were + writing. Στην ερώτηση το were προηγείται του υποκειμένου."
+  },
+  {
+    "question": "Andrew and his father ___ (not eat) anything since this morning. Χρησιμοποίησε Present Perfect.",
+    "answer": "have not eaten / haven’t eaten — Andrew and his father → they: have + eaten. Eat → ate → eaten."
+  },
+  {
+    "question": "___ Andrew and his father ever ___ (eat) sushi? Γράψε τα δύο κενά χωρισμένα με / .",
+    "answer": "have / eaten — Andrew and his father → they: have + eaten. Eat → ate → eaten."
+  },
+  {
+    "question": "By the time we arrived, Andrew and his father ___ (not finish) dinner. Χρησιμοποίησε Past Perfect.",
+    "answer": "had not finished / hadn’t finished — Had + μετοχή για γεγονός πριν από ένα παρελθοντικό σημείο. Το had είναι ίδιο για όλα τα πρόσωπα."
+  },
+  {
+    "question": "By the time we arrived, ___ Andrew and his father ___ (finish) dinner? Χρησιμοποίησε Past Perfect. Γράψε τα δύο κενά χωρισμένα με / .",
+    "answer": "had / finished — Had + μετοχή για γεγονός πριν από ένα παρελθοντικό σημείο. Το had είναι ίδιο για όλα τα πρόσωπα."
+  },
+  {
+    "question": "Yesterday, my mum and I ___ (not go) to the park.",
+    "answer": "did not go / didn’t go — Με did/did not χρησιμοποιούμε go, όχι went ή gone."
+  },
+  {
+    "question": "___ my mum and I ___ (go) to the park yesterday? Γράψε τα δύο κενά χωρισμένα με / .",
+    "answer": "did / go — Με did/did not χρησιμοποιούμε go, όχι went ή gone."
+  },
+  {
+    "question": "At eight yesterday, my mum and I ___ (not write) a letter. Χρησιμοποίησε Past Continuous.",
+    "answer": "were not writing / weren’t writing — my mum and I → we: were + writing. Στην ερώτηση το were προηγείται του υποκειμένου."
+  },
+  {
+    "question": "___ my mum and I ___ (write) a letter at eight yesterday? Χρησιμοποίησε Past Continuous. Γράψε τα δύο κενά χωρισμένα με / .",
+    "answer": "were / writing — my mum and I → we: were + writing. Στην ερώτηση το were προηγείται του υποκειμένου."
+  },
+  {
+    "question": "My mum and I ___ (not eat) anything since this morning. Χρησιμοποίησε Present Perfect.",
+    "answer": "have not eaten / haven’t eaten — my mum and I → we: have + eaten. Eat → ate → eaten."
+  },
+  {
+    "question": "___ my mum and I ever ___ (eat) sushi? Γράψε τα δύο κενά χωρισμένα με / .",
+    "answer": "have / eaten — my mum and I → we: have + eaten. Eat → ate → eaten."
+  },
+  {
+    "question": "By the time we arrived, my mum and I ___ (not finish) dinner. Χρησιμοποίησε Past Perfect.",
+    "answer": "had not finished / hadn’t finished — Had + μετοχή για γεγονός πριν από ένα παρελθοντικό σημείο. Το had είναι ίδιο για όλα τα πρόσωπα."
+  },
+  {
+    "question": "By the time we arrived, ___ my mum and I ___ (finish) dinner? Χρησιμοποίησε Past Perfect. Γράψε τα δύο κενά χωρισμένα με / .",
+    "answer": "had / finished — Had + μετοχή για γεγονός πριν από ένα παρελθοντικό σημείο. Το had είναι ίδιο για όλα τα πρόσωπα."
   }
 ]

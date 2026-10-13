@@ -9,7 +9,11 @@
     ],
     "correctIndex": 2,
     "hint": "Πρόσεξε το yesterday και το γράμμα πριν από το y.",
-    "explanation": "Yesterday: Simple Past. Σύμφωνο + y: studied."
+    "explanation": "Yesterday: Simple Past. Σύμφωνο + y: studied.",
+    "categories": [
+      "keywords",
+      "spelling"
+    ]
   },
   {
     "question": "While Dad ___ (wash) the car, the phone ___ (ring).",
@@ -21,7 +25,10 @@
     ],
     "correctIndex": 0,
     "hint": "Μία πράξη ήταν σε εξέλιξη όταν συνέβη η άλλη.",
-    "explanation": "Was washing: πράξη σε εξέλιξη. Rang: σύντομο γεγονός."
+    "explanation": "Was washing: πράξη σε εξέλιξη. Rang: σύντομο γεγονός.",
+    "categories": [
+      "keywords"
+    ]
   },
   {
     "question": "I ___ never ___ (eat) sushi.",
@@ -33,7 +40,10 @@
     ],
     "correctIndex": 3,
     "hint": "Εμπειρία ζωής μέχρι τώρα.",
-    "explanation": "Present Perfect: have + eaten. Eat → ate → eaten."
+    "explanation": "Present Perfect: have + eaten. Eat → ate → eaten.",
+    "categories": [
+      "tense"
+    ]
   },
   {
     "question": "By the time we ___ (reach) the station, the train ___ already ___ (leave).",
@@ -45,7 +55,11 @@
     ],
     "correctIndex": 1,
     "hint": "Το τρένο έφυγε πριν φτάσουμε.",
-    "explanation": "Reached: παρελθοντικό σημείο. Had left: προηγούμενη πράξη."
+    "explanation": "Reached: παρελθοντικό σημείο. Had left: προηγούμενη πράξη.",
+    "categories": [
+      "sequence",
+      "keywords"
+    ]
   },
   {
     "question": "Mum isn’t here. She ___ to the supermarket and hasn’t returned yet.",
@@ -57,7 +71,12 @@
     ],
     "correctIndex": 2,
     "hint": "Έχει επιστρέψει;",
-    "explanation": "Has gone: έχει φύγει και δεν έχει επιστρέψει."
+    "explanation": "Has gone: έχει φύγει και δεν έχει επιστρέψει.",
+    "categories": [
+      "keywords",
+      "negative",
+      "auxiliary"
+    ]
   },
   {
     "question": "They ___ (play) basketball last Saturday.",
@@ -69,7 +88,10 @@
     ],
     "correctIndex": 0,
     "hint": "Πριν από το y υπάρχει φωνήεν ή σύμφωνο;",
-    "explanation": "Last Saturday: Simple Past. Φωνήεν + y: played."
+    "explanation": "Last Saturday: Simple Past. Φωνήεν + y: played.",
+    "categories": [
+      "tense"
+    ]
   },
   {
     "question": "Συμπλήρωσε με Past Continuous: At eight o’clock last night, we ___ (have) dinner.",
@@ -81,7 +103,10 @@
     ],
     "correctIndex": 3,
     "hint": "Το have δηλώνει δραστηριότητα.",
-    "explanation": "We + were having. Το have εδώ σημαίνει δραστηριότητα."
+    "explanation": "We + were having. Το have εδώ σημαίνει δραστηριότητα.",
+    "categories": [
+      "tense"
+    ]
   },
   {
     "question": "___ you ever ___ (be) to Italy?",
@@ -93,7 +118,10 @@
     ],
     "correctIndex": 1,
     "hint": "Ρωτά για εμπειρία επίσκεψης.",
-    "explanation": "Have you ever been to…? Εμπειρία ζωής."
+    "explanation": "Have you ever been to…? Εμπειρία ζωής.",
+    "categories": [
+      "question"
+    ]
   },
   {
     "question": "When Anna ___ (open) her bag, she ___ (realise) that she ___ (forget) her keys.",
@@ -105,7 +133,11 @@
     ],
     "correctIndex": 0,
     "hint": "Η παράλειψη έγινε πριν ανοίξει την τσάντα.",
-    "explanation": "Opened / realised: αόριστος. Had forgotten: προηγούμενη παράλειψη. Το open δεν διπλασιάζει το n."
+    "explanation": "Opened / realised: αόριστος. Had forgotten: προηγούμενη παράλειψη. Το open δεν διπλασιάζει το n.",
+    "categories": [
+      "keywords",
+      "spelling"
+    ]
   },
   {
     "question": "The bus ___ (stop) outside our school yesterday.",
@@ -117,7 +149,11 @@
     ],
     "correctIndex": 2,
     "hint": "Το stop είναι μονοσύλλαβο.",
-    "explanation": "Stop → stopped, με διπλό p."
+    "explanation": "Stop → stopped, με διπλό p.",
+    "categories": [
+      "keywords",
+      "spelling"
+    ]
   },
   {
     "question": "We ___ (not / finish) our project yet.",
@@ -129,7 +165,12 @@
     ],
     "correctIndex": 1,
     "hint": "Το έργο δεν έχει ολοκληρωθεί μέχρι τώρα.",
-    "explanation": "We + haven’t finished: εκκρεμότητα έως τώρα."
+    "explanation": "We + haven’t finished: εκκρεμότητα έως τώρα.",
+    "categories": [
+      "keywords",
+      "negative",
+      "auxiliary"
+    ]
   },
   {
     "question": "While I ___ (walk) home, I ___ (see) an old friend.",
@@ -141,7 +182,10 @@
     ],
     "correctIndex": 3,
     "hint": "Το περπάτημα είναι το πλαίσιο της συνάντησης.",
-    "explanation": "Was walking: διάρκεια. Saw: αόριστος του see."
+    "explanation": "Was walking: διάρκεια. Saw: αόριστος του see.",
+    "categories": [
+      "keywords"
+    ]
   },
   {
     "question": "By the time the guests ___ (arrive), Mum ___ (prepare) dinner.",
@@ -153,7 +197,10 @@
     ],
     "correctIndex": 2,
     "hint": "Το δείπνο είχε ετοιμαστεί πριν από την άφιξη.",
-    "explanation": "Arrived: αόριστος. Had prepared: προγενέστερη ολοκλήρωση."
+    "explanation": "Arrived: αόριστος. Had prepared: προγενέστερη ολοκλήρωση.",
+    "categories": [
+      "sequence"
+    ]
   },
   {
     "question": "My parents ___ (travel) to London last summer. Χρησιμοποίησε βρετανική ορθογραφία.",
@@ -165,7 +212,10 @@
     ],
     "correctIndex": 0,
     "hint": "Θυμήσου τη βρετανική ορθογραφία του τελικού l.",
-    "explanation": "Last summer: Simple Past. Βρετανική ορθογραφία: travelled."
+    "explanation": "Last summer: Simple Past. Βρετανική ορθογραφία: travelled.",
+    "categories": [
+      "spelling"
+    ]
   },
   {
     "question": "“Where are Tom and Ben?” “They ___ to the park. They’ll be back soon.”",
@@ -177,7 +227,10 @@
     ],
     "correctIndex": 1,
     "hint": "Απουσιάζουν ακόμη.",
-    "explanation": "They + have gone: δεν έχουν επιστρέψει."
+    "explanation": "They + have gone: δεν έχουν επιστρέψει.",
+    "categories": [
+      "question"
+    ]
   },
   {
     "question": "Jack ___ (drop) his phone yesterday.",
@@ -189,7 +242,10 @@
     ],
     "correctIndex": 3,
     "hint": "Έλεγξε το τελικό σύμφωνο.",
-    "explanation": "Drop → dropped με διπλό p."
+    "explanation": "Drop → dropped με διπλό p.",
+    "categories": [
+      "keywords"
+    ]
   },
   {
     "question": "Συμπλήρωσε με Past Continuous: At this time yesterday, Mary ___ (write) an email.",
@@ -201,7 +257,10 @@
     ],
     "correctIndex": 0,
     "hint": "Mary: ενικός και τύπος -ing.",
-    "explanation": "Mary + was writing. Αφαιρούμε το e πριν από το -ing."
+    "explanation": "Mary + was writing. Αφαιρούμε το e πριν από το -ing.",
+    "categories": [
+      "keywords"
+    ]
   },
   {
     "question": "She ___ just ___ (carry) the shopping into the kitchen.",
@@ -213,7 +272,10 @@
     ],
     "correctIndex": 2,
     "hint": "Πρόσφατη ολοκλήρωση και σύμφωνο + y.",
-    "explanation": "She + has carried. Σύμφωνο + y → ied."
+    "explanation": "She + has carried. Σύμφωνο + y → ied.",
+    "categories": [
+      "tense"
+    ]
   },
   {
     "question": "When we ___ (get) to the cinema, we ___ (discover) that the film ___ already ___ (begin).",
@@ -225,7 +287,10 @@
     ],
     "correctIndex": 3,
     "hint": "Η έναρξη προηγήθηκε της άφιξης.",
-    "explanation": "Got / discovered: αόριστος. Had begun: προηγούμενη έναρξη."
+    "explanation": "Got / discovered: αόριστος. Had begun: προηγούμενη έναρξη.",
+    "categories": [
+      "keywords"
+    ]
   },
   {
     "question": "We ___ (enjoy) the school trip last Friday.",
@@ -237,7 +302,10 @@
     ],
     "correctIndex": 1,
     "hint": "Ποιο γράμμα προηγείται του y;",
-    "explanation": "Last Friday: Simple Past. Φωνήεν + y: enjoyed."
+    "explanation": "Last Friday: Simple Past. Φωνήεν + y: enjoyed.",
+    "categories": [
+      "tense"
+    ]
   },
   {
     "question": "Yesterday / last week / two days ago συνήθως δείχνουν:",
@@ -249,7 +317,10 @@
     ],
     "correctIndex": 0,
     "hint": "Εξέτασε το χρονικό σημείο αναφοράς και τη σειρά των γεγονότων.",
-    "explanation": "Δίνουν συγκεκριμένο ολοκληρωμένο χρόνο στο παρελθόν."
+    "explanation": "Δίνουν συγκεκριμένο ολοκληρωμένο χρόνο στο παρελθόν.",
+    "categories": [
+      "keywords"
+    ]
   },
   {
     "question": "So far / up to now, για εμπειρίες ή αποτελέσματα μέχρι τώρα, συνήθως δείχνουν:",
@@ -261,7 +332,10 @@
     ],
     "correctIndex": 1,
     "hint": "Εξέτασε το χρονικό σημείο αναφοράς και τη σειρά των γεγονότων.",
-    "explanation": "Το χρονικό πλαίσιο φτάνει μέχρι το παρόν."
+    "explanation": "Το χρονικό πλαίσιο φτάνει μέχρι το παρόν.",
+    "categories": [
+      "keywords"
+    ]
   },
   {
     "question": "Have you finished yet? Ποιος χρόνος χρησιμοποιείται;",
@@ -273,7 +347,11 @@
     ],
     "correctIndex": 2,
     "hint": "Εξέτασε το χρονικό σημείο αναφοράς και τη σειρά των γεγονότων.",
-    "explanation": "Το yet εδώ αφορά κάτι που περιμένουμε να έχει γίνει μέχρι τώρα."
+    "explanation": "Το yet εδώ αφορά κάτι που περιμένουμε να έχει γίνει μέχρι τώρα.",
+    "categories": [
+      "keywords",
+      "question"
+    ]
   },
   {
     "question": "She has lived here since 2020. Ποιος χρόνος χρησιμοποιείται;",
@@ -285,7 +363,10 @@
     ],
     "correctIndex": 3,
     "hint": "Εξέτασε το χρονικό σημείο αναφοράς και τη σειρά των γεγονότων.",
-    "explanation": "Το since δηλώνει την αρχή μιας κατάστασης που συνεχίζεται μέχρι τώρα."
+    "explanation": "Το since δηλώνει την αρχή μιας κατάστασης που συνεχίζεται μέχρι τώρα.",
+    "categories": [
+      "keywords"
+    ]
   },
   {
     "question": "She had lived there for ten years when she moved. Το for εδώ συνοδεύει:",
@@ -297,7 +378,10 @@
     ],
     "correctIndex": 0,
     "hint": "Εξέτασε το χρονικό σημείο αναφοράς και τη σειρά των γεγονότων.",
-    "explanation": "Το for δηλώνει διάρκεια. Δεν ορίζει μόνο του τον χρόνο: εδώ η διάρκεια προηγείται της μετακόμισης."
+    "explanation": "Το for δηλώνει διάρκεια. Δεν ορίζει μόνο του τον χρόνο: εδώ η διάρκεια προηγείται της μετακόμισης.",
+    "categories": [
+      "keywords"
+    ]
   },
   {
     "question": "At eight yesterday, I was studying. Ποιος χρόνος δείχνει την πράξη σε εξέλιξη;",
@@ -309,7 +393,11 @@
     ],
     "correctIndex": 1,
     "hint": "Εξέτασε το χρονικό σημείο αναφοράς και τη σειρά των γεγονότων.",
-    "explanation": "Η πράξη ήταν σε εξέλιξη σε συγκεκριμένη στιγμή στο παρελθόν."
+    "explanation": "Η πράξη ήταν σε εξέλιξη σε συγκεκριμένη στιγμή στο παρελθόν.",
+    "categories": [
+      "keywords",
+      "spelling"
+    ]
   },
   {
     "question": "Το when επιβάλλει πάντα Simple Past;",
@@ -321,7 +409,10 @@
     ],
     "correctIndex": 2,
     "hint": "Εξέτασε το χρονικό σημείο αναφοράς και τη σειρά των γεγονότων.",
-    "explanation": "When I arrived, she was sleeping: Simple Past και Past Continuous. Δεν επιλέγουμε χρόνο μόνο από μία λέξη."
+    "explanation": "When I arrived, she was sleeping: Simple Past και Past Continuous. Δεν επιλέγουμε χρόνο μόνο από μία λέξη.",
+    "categories": [
+      "keywords"
+    ]
   },
   {
     "question": "By the time she ___ (arrive), we ___ (finish). Η ολοκλήρωση έγινε πριν από την άφιξη. Ποιοι χρόνοι ταιριάζουν;",
@@ -333,7 +424,10 @@
     ],
     "correctIndex": 3,
     "hint": "Εξέτασε το χρονικό σημείο αναφοράς και τη σειρά των γεγονότων.",
-    "explanation": "Στο συγκεκριμένο παρελθοντικό παράδειγμα: μετά το by the time Simple Past· στην πράξη που είχε ήδη ολοκληρωθεί Past Perfect."
+    "explanation": "Στο συγκεκριμένο παρελθοντικό παράδειγμα: μετά το by the time Simple Past· στην πράξη που είχε ήδη ολοκληρωθεί Past Perfect.",
+    "categories": [
+      "sequence"
+    ]
   },
   {
     "question": "By the time the film started, they had found their seats. Τι χρόνος βρίσκεται αμέσως μετά το by the time;",
@@ -345,7 +439,10 @@
     ],
     "correctIndex": 0,
     "hint": "Εξέτασε το χρονικό σημείο αναφοράς και τη σειρά των γεγονότων.",
-    "explanation": "Started = Simple Past. Το had found είναι Past Perfect και περιγράφει το προγενέστερο γεγονός."
+    "explanation": "Started = Simple Past. Το had found είναι Past Perfect και περιγράφει το προγενέστερο γεγονός.",
+    "categories": [
+      "sequence"
+    ]
   },
   {
     "question": "By the time the film started, they had found their seats. Ποιος χρόνος βρίσκεται στην υπόλοιπη πρόταση;",
@@ -357,7 +454,10 @@
     ],
     "correctIndex": 1,
     "hint": "Εξέτασε το χρονικό σημείο αναφοράς και τη σειρά των γεγονότων.",
-    "explanation": "Had found: είχαν βρει τις θέσεις πριν αρχίσει η ταινία."
+    "explanation": "Had found: είχαν βρει τις θέσεις πριν αρχίσει η ταινία.",
+    "categories": [
+      "sequence"
+    ]
   },
   {
     "question": "Before he left, he had locked the door. Ποιοι χρόνοι χρησιμοποιούνται με τη σειρά;",
@@ -369,7 +469,10 @@
     ],
     "correctIndex": 2,
     "hint": "Εξέτασε το χρονικό σημείο αναφοράς και τη σειρά των γεγονότων.",
-    "explanation": "Left: μεταγενέστερο γεγονός. Had locked: προγενέστερο γεγονός."
+    "explanation": "Left: μεταγενέστερο γεγονός. Had locked: προγενέστερο γεγονός.",
+    "categories": [
+      "sequence"
+    ]
   },
   {
     "question": "She had packed her bag before she left. Ποιος χρόνος είναι μετά το before;",
@@ -381,7 +484,10 @@
     ],
     "correctIndex": 3,
     "hint": "Εξέτασε το χρονικό σημείο αναφοράς και τη σειρά των γεγονότων.",
-    "explanation": "Το left έπεται χρονικά του had packed. Η θέση της δευτερεύουσας δεν αλλάζει τη σειρά των γεγονότων."
+    "explanation": "Το left έπεται χρονικά του had packed. Η θέση της δευτερεύουσας δεν αλλάζει τη σειρά των γεγονότων.",
+    "categories": [
+      "sequence"
+    ]
   },
   {
     "question": "After she had finished her homework, she went out. Ποιος χρόνος είναι μετά το after;",
@@ -393,7 +499,10 @@
     ],
     "correctIndex": 0,
     "hint": "Εξέτασε το χρονικό σημείο αναφοράς και τη σειρά των γεγονότων.",
-    "explanation": "Η ολοκλήρωση προηγείται της εξόδου: had finished. Στην υπόλοιπη πρόταση went = Simple Past."
+    "explanation": "Η ολοκλήρωση προηγείται της εξόδου: had finished. Στην υπόλοιπη πρόταση went = Simple Past.",
+    "categories": [
+      "sequence"
+    ]
   },
   {
     "question": "He went to bed after he had brushed his teeth. Ποιοι χρόνοι εμφανίζονται με τη σειρά;",
@@ -405,7 +514,10 @@
     ],
     "correctIndex": 1,
     "hint": "Εξέτασε το χρονικό σημείο αναφοράς και τη σειρά των γεγονότων.",
-    "explanation": "Πρώτα έπλυνε τα δόντια του και μετά πήγε για ύπνο."
+    "explanation": "Πρώτα έπλυνε τα δόντια του και μετά πήγε για ύπνο.",
+    "categories": [
+      "sequence"
+    ]
   },
   {
     "question": "Before και after απαιτούν πάντα Past Perfect;",
@@ -417,7 +529,10 @@
     ],
     "correctIndex": 2,
     "hint": "Εξέτασε το χρονικό σημείο αναφοράς και τη σειρά των γεγονότων.",
-    "explanation": "After she finished her homework, she went out είναι επίσης σωστό. Ο Past Perfect τονίζει ότι η πρώτη πράξη είχε ήδη ολοκληρωθεί."
+    "explanation": "After she finished her homework, she went out είναι επίσης σωστό. Ο Past Perfect τονίζει ότι η πρώτη πράξη είχε ήδη ολοκληρωθεί.",
+    "categories": [
+      "sequence"
+    ]
   },
   {
     "question": "By midnight, he had finished the report. Τι ακολουθεί το by;",
@@ -429,7 +544,10 @@
     ],
     "correctIndex": 3,
     "hint": "Εξέτασε το χρονικό σημείο αναφοράς και τη σειρά των γεγονότων.",
-    "explanation": "By midnight = μέχρι τα μεσάνυχτα. Το had finished δείχνει ολοκλήρωση μέχρι αυτό το παρελθοντικό σημείο αναφοράς."
+    "explanation": "By midnight = μέχρι τα μεσάνυχτα. Το had finished δείχνει ολοκλήρωση μέχρι αυτό το παρελθοντικό σημείο αναφοράς.",
+    "categories": [
+      "sequence"
+    ]
   },
   {
     "question": "Για ολοκλήρωση μέχρι ένα παρελθοντικό σημείο: By ten last night, she ___ the work.",
@@ -441,7 +559,10 @@
     ],
     "correctIndex": 0,
     "hint": "Εξέτασε το χρονικό σημείο αναφοράς και τη σειρά των γεγονότων.",
-    "explanation": "Ο Past Perfect ταιριάζει στην ολοκλήρωση μέχρι το συγκεκριμένο παρελθοντικό σημείο αναφοράς."
+    "explanation": "Ο Past Perfect ταιριάζει στην ολοκλήρωση μέχρι το συγκεκριμένο παρελθοντικό σημείο αναφοράς.",
+    "categories": [
+      "tense"
+    ]
   },
   {
     "question": "Already, just και never δείχνουν αποκλειστικά Present Perfect;",
@@ -453,7 +574,10 @@
     ],
     "correctIndex": 1,
     "hint": "Εξέτασε το χρονικό σημείο αναφοράς και τη σειρά των γεγονότων.",
-    "explanation": "She has already left / She had already left when I arrived. Η χρονική αναφορά καθορίζει την επιλογή."
+    "explanation": "She has already left / She had already left when I arrived. Η χρονική αναφορά καθορίζει την επιλογή.",
+    "categories": [
+      "keywords"
+    ]
   },
   {
     "question": "While I was cooking, he was studying. Ποιοι χρόνοι περιγράφουν τις δύο παράλληλες πράξεις;",
@@ -465,7 +589,11 @@
     ],
     "correctIndex": 2,
     "hint": "Εξέτασε το χρονικό σημείο αναφοράς και τη σειρά των γεγονότων.",
-    "explanation": "Δύο πράξεις ήταν ταυτόχρονα σε εξέλιξη στο παρελθόν."
+    "explanation": "Δύο πράξεις ήταν ταυτόχρονα σε εξέλιξη στο παρελθόν.",
+    "categories": [
+      "keywords",
+      "spelling"
+    ]
   },
   {
     "question": "I was walking when it started raining. Ποια χρονική σχέση υπάρχει;",
@@ -477,7 +605,10 @@
     ],
     "correctIndex": 3,
     "hint": "Εξέτασε το χρονικό σημείο αναφοράς και τη σειρά των γεγονότων.",
-    "explanation": "Was walking: εξέλιξη. Started: γεγονός που συνέβη κατά τη διάρκειά της."
+    "explanation": "Was walking: εξέλιξη. Started: γεγονός που συνέβη κατά τη διάρκειά της.",
+    "categories": [
+      "keywords"
+    ]
   },
   {
     "type": "typing",
@@ -486,7 +617,10 @@
       "went"
     ],
     "hint": "Γράψε μόνο τον τύπο του ρήματος, χωρίς βοηθητικό.",
-    "explanation": "go → went → gone."
+    "explanation": "go → went → gone.",
+    "categories": [
+      "irregular"
+    ]
   },
   {
     "type": "typing",
@@ -495,7 +629,10 @@
       "gone"
     ],
     "hint": "Είναι ο τύπος που χρησιμοποιείται μετά από have/has/had.",
-    "explanation": "go → went → gone."
+    "explanation": "go → went → gone.",
+    "categories": [
+      "irregular"
+    ]
   },
   {
     "type": "typing",
@@ -504,7 +641,10 @@
       "saw"
     ],
     "hint": "Γράψε μόνο τον τύπο του ρήματος, χωρίς βοηθητικό.",
-    "explanation": "see → saw → seen."
+    "explanation": "see → saw → seen.",
+    "categories": [
+      "irregular"
+    ]
   },
   {
     "type": "typing",
@@ -513,7 +653,10 @@
       "seen"
     ],
     "hint": "Είναι ο τύπος που χρησιμοποιείται μετά από have/has/had.",
-    "explanation": "see → saw → seen."
+    "explanation": "see → saw → seen.",
+    "categories": [
+      "irregular"
+    ]
   },
   {
     "type": "typing",
@@ -522,7 +665,10 @@
       "wrote"
     ],
     "hint": "Γράψε μόνο τον τύπο του ρήματος, χωρίς βοηθητικό.",
-    "explanation": "write → wrote → written."
+    "explanation": "write → wrote → written.",
+    "categories": [
+      "irregular"
+    ]
   },
   {
     "type": "typing",
@@ -531,7 +677,10 @@
       "written"
     ],
     "hint": "Είναι ο τύπος που χρησιμοποιείται μετά από have/has/had.",
-    "explanation": "write → wrote → written."
+    "explanation": "write → wrote → written.",
+    "categories": [
+      "irregular"
+    ]
   },
   {
     "type": "typing",
@@ -540,7 +689,10 @@
       "ate"
     ],
     "hint": "Γράψε μόνο τον τύπο του ρήματος, χωρίς βοηθητικό.",
-    "explanation": "eat → ate → eaten."
+    "explanation": "eat → ate → eaten.",
+    "categories": [
+      "irregular"
+    ]
   },
   {
     "type": "typing",
@@ -549,7 +701,10 @@
       "eaten"
     ],
     "hint": "Είναι ο τύπος που χρησιμοποιείται μετά από have/has/had.",
-    "explanation": "eat → ate → eaten."
+    "explanation": "eat → ate → eaten.",
+    "categories": [
+      "irregular"
+    ]
   },
   {
     "type": "typing",
@@ -558,7 +713,10 @@
       "took"
     ],
     "hint": "Γράψε μόνο τον τύπο του ρήματος, χωρίς βοηθητικό.",
-    "explanation": "take → took → taken."
+    "explanation": "take → took → taken.",
+    "categories": [
+      "irregular"
+    ]
   },
   {
     "type": "typing",
@@ -567,7 +725,10 @@
       "taken"
     ],
     "hint": "Είναι ο τύπος που χρησιμοποιείται μετά από have/has/had.",
-    "explanation": "take → took → taken."
+    "explanation": "take → took → taken.",
+    "categories": [
+      "irregular"
+    ]
   },
   {
     "type": "typing",
@@ -576,7 +737,10 @@
       "gave"
     ],
     "hint": "Γράψε μόνο τον τύπο του ρήματος, χωρίς βοηθητικό.",
-    "explanation": "give → gave → given."
+    "explanation": "give → gave → given.",
+    "categories": [
+      "irregular"
+    ]
   },
   {
     "type": "typing",
@@ -585,7 +749,10 @@
       "given"
     ],
     "hint": "Είναι ο τύπος που χρησιμοποιείται μετά από have/has/had.",
-    "explanation": "give → gave → given."
+    "explanation": "give → gave → given.",
+    "categories": [
+      "irregular"
+    ]
   },
   {
     "type": "typing",
@@ -594,7 +761,10 @@
       "came"
     ],
     "hint": "Γράψε μόνο τον τύπο του ρήματος, χωρίς βοηθητικό.",
-    "explanation": "come → came → come."
+    "explanation": "come → came → come.",
+    "categories": [
+      "irregular"
+    ]
   },
   {
     "type": "typing",
@@ -603,7 +773,10 @@
       "come"
     ],
     "hint": "Είναι ο τύπος που χρησιμοποιείται μετά από have/has/had.",
-    "explanation": "come → came → come."
+    "explanation": "come → came → come.",
+    "categories": [
+      "irregular"
+    ]
   },
   {
     "type": "typing",
@@ -612,7 +785,10 @@
       "began"
     ],
     "hint": "Γράψε μόνο τον τύπο του ρήματος, χωρίς βοηθητικό.",
-    "explanation": "begin → began → begun."
+    "explanation": "begin → began → begun.",
+    "categories": [
+      "irregular"
+    ]
   },
   {
     "type": "typing",
@@ -621,7 +797,10 @@
       "begun"
     ],
     "hint": "Είναι ο τύπος που χρησιμοποιείται μετά από have/has/had.",
-    "explanation": "begin → began → begun."
+    "explanation": "begin → began → begun.",
+    "categories": [
+      "irregular"
+    ]
   },
   {
     "type": "typing",
@@ -630,7 +809,10 @@
       "broke"
     ],
     "hint": "Γράψε μόνο τον τύπο του ρήματος, χωρίς βοηθητικό.",
-    "explanation": "break → broke → broken."
+    "explanation": "break → broke → broken.",
+    "categories": [
+      "irregular"
+    ]
   },
   {
     "type": "typing",
@@ -639,7 +821,10 @@
       "broken"
     ],
     "hint": "Είναι ο τύπος που χρησιμοποιείται μετά από have/has/had.",
-    "explanation": "break → broke → broken."
+    "explanation": "break → broke → broken.",
+    "categories": [
+      "irregular"
+    ]
   },
   {
     "type": "typing",
@@ -648,7 +833,10 @@
       "chose"
     ],
     "hint": "Γράψε μόνο τον τύπο του ρήματος, χωρίς βοηθητικό.",
-    "explanation": "choose → chose → chosen."
+    "explanation": "choose → chose → chosen.",
+    "categories": [
+      "irregular"
+    ]
   },
   {
     "type": "typing",
@@ -657,7 +845,10 @@
       "chosen"
     ],
     "hint": "Είναι ο τύπος που χρησιμοποιείται μετά από have/has/had.",
-    "explanation": "choose → chose → chosen."
+    "explanation": "choose → chose → chosen.",
+    "categories": [
+      "irregular"
+    ]
   },
   {
     "type": "typing",
@@ -666,7 +857,10 @@
       "spoke"
     ],
     "hint": "Γράψε μόνο τον τύπο του ρήματος, χωρίς βοηθητικό.",
-    "explanation": "speak → spoke → spoken."
+    "explanation": "speak → spoke → spoken.",
+    "categories": [
+      "irregular"
+    ]
   },
   {
     "type": "typing",
@@ -675,7 +869,10 @@
       "spoken"
     ],
     "hint": "Είναι ο τύπος που χρησιμοποιείται μετά από have/has/had.",
-    "explanation": "speak → spoke → spoken."
+    "explanation": "speak → spoke → spoken.",
+    "categories": [
+      "irregular"
+    ]
   },
   {
     "type": "typing",
@@ -684,7 +881,10 @@
       "drank"
     ],
     "hint": "Γράψε μόνο τον τύπο του ρήματος, χωρίς βοηθητικό.",
-    "explanation": "drink → drank → drunk."
+    "explanation": "drink → drank → drunk.",
+    "categories": [
+      "irregular"
+    ]
   },
   {
     "type": "typing",
@@ -693,7 +893,10 @@
       "drunk"
     ],
     "hint": "Είναι ο τύπος που χρησιμοποιείται μετά από have/has/had.",
-    "explanation": "drink → drank → drunk."
+    "explanation": "drink → drank → drunk.",
+    "categories": [
+      "irregular"
+    ]
   },
   {
     "type": "typing",
@@ -702,7 +905,10 @@
       "drove"
     ],
     "hint": "Γράψε μόνο τον τύπο του ρήματος, χωρίς βοηθητικό.",
-    "explanation": "drive → drove → driven."
+    "explanation": "drive → drove → driven.",
+    "categories": [
+      "irregular"
+    ]
   },
   {
     "type": "typing",
@@ -711,7 +917,10 @@
       "driven"
     ],
     "hint": "Είναι ο τύπος που χρησιμοποιείται μετά από have/has/had.",
-    "explanation": "drive → drove → driven."
+    "explanation": "drive → drove → driven.",
+    "categories": [
+      "irregular"
+    ]
   },
   {
     "type": "typing",
@@ -720,7 +929,10 @@
       "swam"
     ],
     "hint": "Γράψε μόνο τον τύπο του ρήματος, χωρίς βοηθητικό.",
-    "explanation": "swim → swam → swum."
+    "explanation": "swim → swam → swum.",
+    "categories": [
+      "irregular"
+    ]
   },
   {
     "type": "typing",
@@ -729,7 +941,10 @@
       "swum"
     ],
     "hint": "Είναι ο τύπος που χρησιμοποιείται μετά από have/has/had.",
-    "explanation": "swim → swam → swum."
+    "explanation": "swim → swam → swum.",
+    "categories": [
+      "irregular"
+    ]
   },
   {
     "type": "typing",
@@ -738,7 +953,10 @@
       "bought"
     ],
     "hint": "Γράψε μόνο τον τύπο του ρήματος, χωρίς βοηθητικό.",
-    "explanation": "buy → bought → bought."
+    "explanation": "buy → bought → bought.",
+    "categories": [
+      "irregular"
+    ]
   },
   {
     "type": "typing",
@@ -747,7 +965,10 @@
       "bought"
     ],
     "hint": "Είναι ο τύπος που χρησιμοποιείται μετά από have/has/had.",
-    "explanation": "buy → bought → bought."
+    "explanation": "buy → bought → bought.",
+    "categories": [
+      "irregular"
+    ]
   },
   {
     "type": "typing",
@@ -756,7 +977,10 @@
       "brought"
     ],
     "hint": "Γράψε μόνο τον τύπο του ρήματος, χωρίς βοηθητικό.",
-    "explanation": "bring → brought → brought."
+    "explanation": "bring → brought → brought.",
+    "categories": [
+      "irregular"
+    ]
   },
   {
     "type": "typing",
@@ -765,7 +989,10 @@
       "brought"
     ],
     "hint": "Είναι ο τύπος που χρησιμοποιείται μετά από have/has/had.",
-    "explanation": "bring → brought → brought."
+    "explanation": "bring → brought → brought.",
+    "categories": [
+      "irregular"
+    ]
   },
   {
     "type": "typing",
@@ -774,7 +1001,10 @@
       "thought"
     ],
     "hint": "Γράψε μόνο τον τύπο του ρήματος, χωρίς βοηθητικό.",
-    "explanation": "think → thought → thought."
+    "explanation": "think → thought → thought.",
+    "categories": [
+      "irregular"
+    ]
   },
   {
     "type": "typing",
@@ -783,7 +1013,10 @@
       "thought"
     ],
     "hint": "Είναι ο τύπος που χρησιμοποιείται μετά από have/has/had.",
-    "explanation": "think → thought → thought."
+    "explanation": "think → thought → thought.",
+    "categories": [
+      "irregular"
+    ]
   },
   {
     "type": "typing",
@@ -792,7 +1025,10 @@
       "taught"
     ],
     "hint": "Γράψε μόνο τον τύπο του ρήματος, χωρίς βοηθητικό.",
-    "explanation": "teach → taught → taught."
+    "explanation": "teach → taught → taught.",
+    "categories": [
+      "irregular"
+    ]
   },
   {
     "type": "typing",
@@ -801,7 +1037,10 @@
       "taught"
     ],
     "hint": "Είναι ο τύπος που χρησιμοποιείται μετά από have/has/had.",
-    "explanation": "teach → taught → taught."
+    "explanation": "teach → taught → taught.",
+    "categories": [
+      "irregular"
+    ]
   },
   {
     "type": "typing",
@@ -810,7 +1049,10 @@
       "caught"
     ],
     "hint": "Γράψε μόνο τον τύπο του ρήματος, χωρίς βοηθητικό.",
-    "explanation": "catch → caught → caught."
+    "explanation": "catch → caught → caught.",
+    "categories": [
+      "irregular"
+    ]
   },
   {
     "type": "typing",
@@ -819,7 +1061,10 @@
       "caught"
     ],
     "hint": "Είναι ο τύπος που χρησιμοποιείται μετά από have/has/had.",
-    "explanation": "catch → caught → caught."
+    "explanation": "catch → caught → caught.",
+    "categories": [
+      "irregular"
+    ]
   },
   {
     "type": "typing",
@@ -828,7 +1073,10 @@
       "found"
     ],
     "hint": "Γράψε μόνο τον τύπο του ρήματος, χωρίς βοηθητικό.",
-    "explanation": "find → found → found."
+    "explanation": "find → found → found.",
+    "categories": [
+      "irregular"
+    ]
   },
   {
     "type": "typing",
@@ -837,7 +1085,10 @@
       "found"
     ],
     "hint": "Είναι ο τύπος που χρησιμοποιείται μετά από have/has/had.",
-    "explanation": "find → found → found."
+    "explanation": "find → found → found.",
+    "categories": [
+      "irregular"
+    ]
   },
   {
     "type": "typing",
@@ -846,7 +1097,10 @@
       "left"
     ],
     "hint": "Γράψε μόνο τον τύπο του ρήματος, χωρίς βοηθητικό.",
-    "explanation": "leave → left → left."
+    "explanation": "leave → left → left.",
+    "categories": [
+      "irregular"
+    ]
   },
   {
     "type": "typing",
@@ -855,7 +1109,10 @@
       "left"
     ],
     "hint": "Είναι ο τύπος που χρησιμοποιείται μετά από have/has/had.",
-    "explanation": "leave → left → left."
+    "explanation": "leave → left → left.",
+    "categories": [
+      "irregular"
+    ]
   },
   {
     "type": "typing",
@@ -864,7 +1121,10 @@
       "made"
     ],
     "hint": "Γράψε μόνο τον τύπο του ρήματος, χωρίς βοηθητικό.",
-    "explanation": "make → made → made."
+    "explanation": "make → made → made.",
+    "categories": [
+      "irregular"
+    ]
   },
   {
     "type": "typing",
@@ -873,7 +1133,10 @@
       "made"
     ],
     "hint": "Είναι ο τύπος που χρησιμοποιείται μετά από have/has/had.",
-    "explanation": "make → made → made."
+    "explanation": "make → made → made.",
+    "categories": [
+      "irregular"
+    ]
   },
   {
     "type": "typing",
@@ -882,7 +1145,10 @@
       "read"
     ],
     "hint": "Γράψε μόνο τον τύπο του ρήματος, χωρίς βοηθητικό.",
-    "explanation": "read → read → read."
+    "explanation": "read → read → read.",
+    "categories": [
+      "irregular"
+    ]
   },
   {
     "type": "typing",
@@ -891,7 +1157,10 @@
       "read"
     ],
     "hint": "Είναι ο τύπος που χρησιμοποιείται μετά από have/has/had.",
-    "explanation": "read → read → read."
+    "explanation": "read → read → read.",
+    "categories": [
+      "irregular"
+    ]
   },
   {
     "type": "typing",
@@ -900,7 +1169,10 @@
       "ran"
     ],
     "hint": "Γράψε μόνο τον τύπο του ρήματος, χωρίς βοηθητικό.",
-    "explanation": "run → ran → run."
+    "explanation": "run → ran → run.",
+    "categories": [
+      "irregular"
+    ]
   },
   {
     "type": "typing",
@@ -909,7 +1181,10 @@
       "run"
     ],
     "hint": "Είναι ο τύπος που χρησιμοποιείται μετά από have/has/had.",
-    "explanation": "run → ran → run."
+    "explanation": "run → ran → run.",
+    "categories": [
+      "irregular"
+    ]
   },
   {
     "type": "typing",
@@ -918,7 +1193,10 @@
       "did"
     ],
     "hint": "Γράψε μόνο τον τύπο του ρήματος, χωρίς βοηθητικό.",
-    "explanation": "do → did → done."
+    "explanation": "do → did → done.",
+    "categories": [
+      "irregular"
+    ]
   },
   {
     "type": "typing",
@@ -927,7 +1205,10 @@
       "done"
     ],
     "hint": "Είναι ο τύπος που χρησιμοποιείται μετά από have/has/had.",
-    "explanation": "do → did → done."
+    "explanation": "do → did → done.",
+    "categories": [
+      "irregular"
+    ]
   },
   {
     "type": "typing",
@@ -936,7 +1217,10 @@
       "went"
     ],
     "hint": "Βρες πρώτα τον χρόνο και μετά τον σωστό τύπο του ρήματος.",
-    "explanation": "Simple Past: συγκεκριμένος ολοκληρωμένος χρόνος."
+    "explanation": "Simple Past: συγκεκριμένος ολοκληρωμένος χρόνος.",
+    "categories": [
+      "keywords"
+    ]
   },
   {
     "type": "typing",
@@ -945,7 +1229,10 @@
       "saw"
     ],
     "hint": "Βρες πρώτα τον χρόνο και μετά τον σωστό τύπο του ρήματος.",
-    "explanation": "Simple Past του see: saw."
+    "explanation": "Simple Past του see: saw.",
+    "categories": [
+      "tense"
+    ]
   },
   {
     "type": "typing",
@@ -954,7 +1241,10 @@
       "has written"
     ],
     "hint": "Βρες πρώτα τον χρόνο και μετά τον σωστό τύπο του ρήματος.",
-    "explanation": "So far: μέχρι τώρα. He + has + written."
+    "explanation": "So far: μέχρι τώρα. He + has + written.",
+    "categories": [
+      "keywords"
+    ]
   },
   {
     "type": "typing",
@@ -964,7 +1254,12 @@
       "haven’t eaten"
     ],
     "hint": "Βρες πρώτα τον χρόνο και μετά τον σωστό τύπο του ρήματος.",
-    "explanation": "Present Perfect: have + not + eaten."
+    "explanation": "Present Perfect: have + not + eaten.",
+    "categories": [
+      "keywords",
+      "negative",
+      "auxiliary"
+    ]
   },
   {
     "type": "typing",
@@ -973,7 +1268,10 @@
       "had left"
     ],
     "hint": "Βρες πρώτα τον χρόνο και μετά τον σωστό τύπο του ρήματος.",
-    "explanation": "Το τρένο είχε φύγει πριν φτάσουμε."
+    "explanation": "Το τρένο είχε φύγει πριν φτάσουμε.",
+    "categories": [
+      "sequence"
+    ]
   },
   {
     "type": "typing",
@@ -982,7 +1280,10 @@
       "came"
     ],
     "hint": "Βρες πρώτα τον χρόνο και μετά τον σωστό τύπο του ρήματος.",
-    "explanation": "Η μεταγενέστερη άφιξη είναι σε Simple Past."
+    "explanation": "Η μεταγενέστερη άφιξη είναι σε Simple Past.",
+    "categories": [
+      "sequence"
+    ]
   },
   {
     "type": "typing",
@@ -991,7 +1292,10 @@
       "had finished"
     ],
     "hint": "Βρες πρώτα τον χρόνο και μετά τον σωστό τύπο του ρήματος.",
-    "explanation": "Had + finished: ολοκλήρωση πριν από την έξοδο."
+    "explanation": "Had + finished: ολοκλήρωση πριν από την έξοδο.",
+    "categories": [
+      "sequence"
+    ]
   },
   {
     "type": "typing",
@@ -1000,7 +1304,10 @@
       "had bought"
     ],
     "hint": "Βρες πρώτα τον χρόνο και μετά τον σωστό τύπο του ρήματος.",
-    "explanation": "Η αγορά προηγείται της αναχώρησης."
+    "explanation": "Η αγορά προηγείται της αναχώρησης.",
+    "categories": [
+      "sequence"
+    ]
   },
   {
     "type": "typing",
@@ -1009,7 +1316,10 @@
       "had completed"
     ],
     "hint": "Βρες πρώτα τον χρόνο και μετά τον σωστό τύπο του ρήματος.",
-    "explanation": "Ολοκλήρωση μέχρι ένα παρελθοντικό σημείο."
+    "explanation": "Ολοκλήρωση μέχρι ένα παρελθοντικό σημείο.",
+    "categories": [
+      "sequence"
+    ]
   },
   {
     "type": "typing",
@@ -1018,7 +1328,11 @@
       "were studying"
     ],
     "hint": "Βρες πρώτα τον χρόνο και μετά τον σωστό τύπο του ρήματος.",
-    "explanation": "We + were + studying: το y διατηρείται στο -ing."
+    "explanation": "We + were + studying: το y διατηρείται στο -ing.",
+    "categories": [
+      "keywords",
+      "spelling"
+    ]
   },
   {
     "type": "typing",
@@ -1027,7 +1341,10 @@
       "was sleeping"
     ],
     "hint": "Βρες πρώτα τον χρόνο και μετά τον σωστό τύπο του ρήματος.",
-    "explanation": "Παράλληλη πράξη σε εξέλιξη στο παρελθόν."
+    "explanation": "Παράλληλη πράξη σε εξέλιξη στο παρελθόν.",
+    "categories": [
+      "keywords"
+    ]
   },
   {
     "type": "typing",
@@ -1036,7 +1353,10 @@
       "rang"
     ],
     "hint": "Βρες πρώτα τον χρόνο και μετά τον σωστό τύπο του ρήματος.",
-    "explanation": "Το στιγμιαίο γεγονός δίνεται σε Simple Past."
+    "explanation": "Το στιγμιαίο γεγονός δίνεται σε Simple Past.",
+    "categories": [
+      "keywords"
+    ]
   },
   {
     "type": "typing",
@@ -1048,7 +1368,13 @@
       "hasn’t traveled"
     ],
     "hint": "Βρες πρώτα τον χρόνο και μετά τον σωστό τύπο του ρήματος.",
-    "explanation": "Present Perfect. Δεκτή η βρετανική και η αμερικανική ορθογραφία."
+    "explanation": "Present Perfect. Δεκτή η βρετανική και η αμερικανική ορθογραφία.",
+    "categories": [
+      "keywords",
+      "spelling",
+      "negative",
+      "auxiliary"
+    ]
   },
   {
     "type": "typing",
@@ -1057,7 +1383,10 @@
       "played"
     ],
     "hint": "Βρες πρώτα τον χρόνο και μετά τον σωστό τύπο του ρήματος.",
-    "explanation": "Φωνήεν + y: διατηρούμε το y πριν από -ed."
+    "explanation": "Φωνήεν + y: διατηρούμε το y πριν από -ed.",
+    "categories": [
+      "keywords"
+    ]
   },
   {
     "type": "typing",
@@ -1066,7 +1395,10 @@
       "tried"
     ],
     "hint": "Βρες πρώτα τον χρόνο και μετά τον σωστό τύπο του ρήματος.",
-    "explanation": "Σύμφωνο + y: y → ied."
+    "explanation": "Σύμφωνο + y: y → ied.",
+    "categories": [
+      "spelling"
+    ]
   },
   {
     "type": "typing",
@@ -1075,7 +1407,10 @@
       "cried"
     ],
     "hint": "Βρες πρώτα τον χρόνο και μετά τον σωστό τύπο του ρήματος.",
-    "explanation": "Σύμφωνο + y: cried."
+    "explanation": "Σύμφωνο + y: cried.",
+    "categories": [
+      "spelling"
+    ]
   },
   {
     "type": "typing",
@@ -1084,7 +1419,11 @@
       "stopped"
     ],
     "hint": "Βρες πρώτα τον χρόνο και μετά τον σωστό τύπο του ρήματος.",
-    "explanation": "Διπλασιάζουμε το p πριν από -ed."
+    "explanation": "Διπλασιάζουμε το p πριν από -ed.",
+    "categories": [
+      "keywords",
+      "spelling"
+    ]
   },
   {
     "type": "typing",
@@ -1093,7 +1432,10 @@
       "visited"
     ],
     "hint": "Βρες πρώτα τον χρόνο και μετά τον σωστό τύπο του ρήματος.",
-    "explanation": "Δεν τονίζεται η τελευταία συλλαβή: δεν διπλασιάζουμε το t."
+    "explanation": "Δεν τονίζεται η τελευταία συλλαβή: δεν διπλασιάζουμε το t.",
+    "categories": [
+      "spelling"
+    ]
   },
   {
     "type": "typing",
@@ -1102,7 +1444,10 @@
       "opened"
     ],
     "hint": "Βρες πρώτα τον χρόνο και μετά τον σωστό τύπο του ρήματος.",
-    "explanation": "Δεν διπλασιάζουμε το n."
+    "explanation": "Δεν διπλασιάζουμε το n.",
+    "categories": [
+      "spelling"
+    ]
   },
   {
     "type": "typing",
@@ -1111,7 +1456,10 @@
       "planned"
     ],
     "hint": "Βρες πρώτα τον χρόνο και μετά τον σωστό τύπο του ρήματος.",
-    "explanation": "Διπλασιάζουμε το n πριν από -ed."
+    "explanation": "Διπλασιάζουμε το n πριν από -ed.",
+    "categories": [
+      "spelling"
+    ]
   },
   {
     "type": "typing",
@@ -1120,7 +1468,10 @@
       "have never seen"
     ],
     "hint": "Βρες πρώτα τον χρόνο και μετά τον σωστό τύπο του ρήματος.",
-    "explanation": "Present Perfect για εμπειρία μέχρι τώρα."
+    "explanation": "Present Perfect για εμπειρία μέχρι τώρα.",
+    "categories": [
+      "sequence"
+    ]
   },
   {
     "type": "typing",
@@ -1129,7 +1480,10 @@
       "had already made"
     ],
     "hint": "Βρες πρώτα τον χρόνο και μετά τον σωστό τύπο του ρήματος.",
-    "explanation": "Το φαγητό ήταν ήδη έτοιμο πριν φτάσω."
+    "explanation": "Το φαγητό ήταν ήδη έτοιμο πριν φτάσω.",
+    "categories": [
+      "keywords"
+    ]
   },
   {
     "type": "typing",
@@ -1139,7 +1493,12 @@
       "didn’t do"
     ],
     "hint": "Βρες πρώτα τον χρόνο και μετά τον σωστό τύπο του ρήματος.",
-    "explanation": "Μετά το did not χρησιμοποιούμε το βασικό ρήμα do."
+    "explanation": "Μετά το did not χρησιμοποιούμε το βασικό ρήμα do.",
+    "categories": [
+      "keywords",
+      "negative",
+      "auxiliary"
+    ]
   },
   {
     "type": "typing",
@@ -1149,7 +1508,12 @@
       "wasn’t writing"
     ],
     "hint": "Βρες πρώτα τον χρόνο και μετά τον σωστό τύπο του ρήματος.",
-    "explanation": "Was not + writing. Αφαιρούμε το τελικό e."
+    "explanation": "Was not + writing. Αφαιρούμε το τελικό e.",
+    "categories": [
+      "keywords",
+      "negative",
+      "auxiliary"
+    ]
   },
   {
     "type": "typing",
@@ -1158,7 +1522,10 @@
       "have / taken"
     ],
     "hint": "Βρες πρώτα τον χρόνο και μετά τον σωστό τύπο του ρήματος.",
-    "explanation": "Have you ever taken…?"
+    "explanation": "Have you ever taken…?",
+    "categories": [
+      "question"
+    ]
   },
   {
     "type": "typing",
@@ -1167,7 +1534,11 @@
       "did / buy"
     ],
     "hint": "Βρες πρώτα τον χρόνο και μετά τον σωστό τύπο του ρήματος.",
-    "explanation": "Did + βασικό ρήμα, χωρίς bought μετά το did."
+    "explanation": "Did + βασικό ρήμα, χωρίς bought μετά το did.",
+    "categories": [
+      "keywords",
+      "question"
+    ]
   },
   {
     "type": "typing",
@@ -1176,7 +1547,10 @@
       "went"
     ],
     "hint": "Βρες πρώτα τον χρόνο και μετά τον σωστό τύπο του ρήματος.",
-    "explanation": "Η μεταγενέστερη πράξη είναι σε Simple Past."
+    "explanation": "Η μεταγενέστερη πράξη είναι σε Simple Past.",
+    "categories": [
+      "sequence"
+    ]
   },
   {
     "type": "typing",
@@ -1185,7 +1559,10 @@
       "left"
     ],
     "hint": "Βρες πρώτα τον χρόνο και μετά τον σωστό τύπο του ρήματος.",
-    "explanation": "Η αναχώρηση είναι το μεταγενέστερο γεγονός."
+    "explanation": "Η αναχώρηση είναι το μεταγενέστερο γεγονός.",
+    "categories": [
+      "sequence"
+    ]
   },
   {
     "type": "typing",
@@ -1194,7 +1571,10 @@
       "have lived"
     ],
     "hint": "Βρες πρώτα τον χρόνο και μετά τον σωστό τύπο του ρήματος.",
-    "explanation": "Διάρκεια κατάστασης μέχρι το παρόν."
+    "explanation": "Διάρκεια κατάστασης μέχρι το παρόν.",
+    "categories": [
+      "keywords"
+    ]
   },
   {
     "type": "typing",
@@ -1203,6 +1583,1129 @@
       "had already drunk"
     ],
     "hint": "Βρες πρώτα τον χρόνο και μετά τον σωστό τύπο του ρήματος.",
-    "explanation": "Drink → drank → drunk. Με had χρησιμοποιούμε drunk."
+    "explanation": "Drink → drank → drunk. Με had χρησιμοποιούμε drunk.",
+    "categories": [
+      "keywords"
+    ]
+  },
+  {
+    "type": "typing",
+    "question": "Yesterday, Mum ___ (not go) to the park.",
+    "acceptedAnswers": [
+      "did not go",
+      "didn’t go"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Simple Past. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Με did/did not χρησιμοποιούμε go, όχι went ή gone.",
+    "categories": [
+      "auxiliary",
+      "negative",
+      "tense",
+      "irregular"
+    ],
+    "tense": "Simple Past",
+    "subject": "Mum"
+  },
+  {
+    "type": "typing",
+    "question": "___ Mum ___ (go) to the park yesterday? Γράψε τα δύο κενά χωρισμένα με / .",
+    "acceptedAnswers": [
+      "did / go"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Simple Past. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Με did/did not χρησιμοποιούμε go, όχι went ή gone.",
+    "categories": [
+      "auxiliary",
+      "question",
+      "tense",
+      "irregular"
+    ],
+    "tense": "Simple Past",
+    "subject": "Mum"
+  },
+  {
+    "type": "typing",
+    "question": "At eight yesterday, Mum ___ (not write) a letter. Χρησιμοποίησε Past Continuous.",
+    "acceptedAnswers": [
+      "was not writing",
+      "wasn’t writing"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Past Continuous. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Mum → she: was + writing. Στην ερώτηση το was προηγείται του υποκειμένου.",
+    "categories": [
+      "auxiliary",
+      "negative",
+      "tense",
+      "agreement"
+    ],
+    "tense": "Past Continuous",
+    "subject": "Mum"
+  },
+  {
+    "type": "typing",
+    "question": "___ Mum ___ (write) a letter at eight yesterday? Χρησιμοποίησε Past Continuous. Γράψε τα δύο κενά χωρισμένα με / .",
+    "acceptedAnswers": [
+      "was / writing"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Past Continuous. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Mum → she: was + writing. Στην ερώτηση το was προηγείται του υποκειμένου.",
+    "categories": [
+      "auxiliary",
+      "question",
+      "tense",
+      "agreement"
+    ],
+    "tense": "Past Continuous",
+    "subject": "Mum"
+  },
+  {
+    "type": "typing",
+    "question": "Mum ___ (not eat) anything since this morning. Χρησιμοποίησε Present Perfect.",
+    "acceptedAnswers": [
+      "has not eaten",
+      "hasn’t eaten"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Present Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Mum → she: has + eaten. Eat → ate → eaten.",
+    "categories": [
+      "auxiliary",
+      "negative",
+      "tense",
+      "agreement",
+      "irregular"
+    ],
+    "tense": "Present Perfect",
+    "subject": "Mum"
+  },
+  {
+    "type": "typing",
+    "question": "___ Mum ever ___ (eat) sushi? Γράψε τα δύο κενά χωρισμένα με / .",
+    "acceptedAnswers": [
+      "has / eaten"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Present Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Mum → she: has + eaten. Eat → ate → eaten.",
+    "categories": [
+      "auxiliary",
+      "question",
+      "tense",
+      "agreement",
+      "irregular"
+    ],
+    "tense": "Present Perfect",
+    "subject": "Mum"
+  },
+  {
+    "type": "typing",
+    "question": "By the time we arrived, Mum ___ (not finish) dinner. Χρησιμοποίησε Past Perfect.",
+    "acceptedAnswers": [
+      "had not finished",
+      "hadn’t finished"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Past Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Had + μετοχή για γεγονός πριν από ένα παρελθοντικό σημείο. Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "categories": [
+      "auxiliary",
+      "negative",
+      "tense"
+    ],
+    "tense": "Past Perfect",
+    "subject": "Mum"
+  },
+  {
+    "type": "typing",
+    "question": "By the time we arrived, ___ Mum ___ (finish) dinner? Χρησιμοποίησε Past Perfect. Γράψε τα δύο κενά χωρισμένα με / .",
+    "acceptedAnswers": [
+      "had / finished"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Past Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Had + μετοχή για γεγονός πριν από ένα παρελθοντικό σημείο. Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "categories": [
+      "auxiliary",
+      "question",
+      "tense"
+    ],
+    "tense": "Past Perfect",
+    "subject": "Mum"
+  },
+  {
+    "type": "typing",
+    "question": "Yesterday, Dad ___ (not go) to the park.",
+    "acceptedAnswers": [
+      "did not go",
+      "didn’t go"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Simple Past. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Με did/did not χρησιμοποιούμε go, όχι went ή gone.",
+    "categories": [
+      "auxiliary",
+      "negative",
+      "tense",
+      "irregular"
+    ],
+    "tense": "Simple Past",
+    "subject": "Dad"
+  },
+  {
+    "type": "typing",
+    "question": "___ Dad ___ (go) to the park yesterday? Γράψε τα δύο κενά χωρισμένα με / .",
+    "acceptedAnswers": [
+      "did / go"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Simple Past. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Με did/did not χρησιμοποιούμε go, όχι went ή gone.",
+    "categories": [
+      "auxiliary",
+      "question",
+      "tense",
+      "irregular"
+    ],
+    "tense": "Simple Past",
+    "subject": "Dad"
+  },
+  {
+    "type": "typing",
+    "question": "At eight yesterday, Dad ___ (not write) a letter. Χρησιμοποίησε Past Continuous.",
+    "acceptedAnswers": [
+      "was not writing",
+      "wasn’t writing"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Past Continuous. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Dad → he: was + writing. Στην ερώτηση το was προηγείται του υποκειμένου.",
+    "categories": [
+      "auxiliary",
+      "negative",
+      "tense",
+      "agreement"
+    ],
+    "tense": "Past Continuous",
+    "subject": "Dad"
+  },
+  {
+    "type": "typing",
+    "question": "___ Dad ___ (write) a letter at eight yesterday? Χρησιμοποίησε Past Continuous. Γράψε τα δύο κενά χωρισμένα με / .",
+    "acceptedAnswers": [
+      "was / writing"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Past Continuous. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Dad → he: was + writing. Στην ερώτηση το was προηγείται του υποκειμένου.",
+    "categories": [
+      "auxiliary",
+      "question",
+      "tense",
+      "agreement"
+    ],
+    "tense": "Past Continuous",
+    "subject": "Dad"
+  },
+  {
+    "type": "typing",
+    "question": "Dad ___ (not eat) anything since this morning. Χρησιμοποίησε Present Perfect.",
+    "acceptedAnswers": [
+      "has not eaten",
+      "hasn’t eaten"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Present Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Dad → he: has + eaten. Eat → ate → eaten.",
+    "categories": [
+      "auxiliary",
+      "negative",
+      "tense",
+      "agreement",
+      "irregular"
+    ],
+    "tense": "Present Perfect",
+    "subject": "Dad"
+  },
+  {
+    "type": "typing",
+    "question": "___ Dad ever ___ (eat) sushi? Γράψε τα δύο κενά χωρισμένα με / .",
+    "acceptedAnswers": [
+      "has / eaten"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Present Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Dad → he: has + eaten. Eat → ate → eaten.",
+    "categories": [
+      "auxiliary",
+      "question",
+      "tense",
+      "agreement",
+      "irregular"
+    ],
+    "tense": "Present Perfect",
+    "subject": "Dad"
+  },
+  {
+    "type": "typing",
+    "question": "By the time we arrived, Dad ___ (not finish) dinner. Χρησιμοποίησε Past Perfect.",
+    "acceptedAnswers": [
+      "had not finished",
+      "hadn’t finished"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Past Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Had + μετοχή για γεγονός πριν από ένα παρελθοντικό σημείο. Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "categories": [
+      "auxiliary",
+      "negative",
+      "tense"
+    ],
+    "tense": "Past Perfect",
+    "subject": "Dad"
+  },
+  {
+    "type": "typing",
+    "question": "By the time we arrived, ___ Dad ___ (finish) dinner? Χρησιμοποίησε Past Perfect. Γράψε τα δύο κενά χωρισμένα με / .",
+    "acceptedAnswers": [
+      "had / finished"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Past Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Had + μετοχή για γεγονός πριν από ένα παρελθοντικό σημείο. Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "categories": [
+      "auxiliary",
+      "question",
+      "tense"
+    ],
+    "tense": "Past Perfect",
+    "subject": "Dad"
+  },
+  {
+    "type": "typing",
+    "question": "Yesterday, my aunt ___ (not go) to the park.",
+    "acceptedAnswers": [
+      "did not go",
+      "didn’t go"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Simple Past. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Με did/did not χρησιμοποιούμε go, όχι went ή gone.",
+    "categories": [
+      "auxiliary",
+      "negative",
+      "tense",
+      "irregular"
+    ],
+    "tense": "Simple Past",
+    "subject": "my aunt"
+  },
+  {
+    "type": "typing",
+    "question": "___ my aunt ___ (go) to the park yesterday? Γράψε τα δύο κενά χωρισμένα με / .",
+    "acceptedAnswers": [
+      "did / go"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Simple Past. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Με did/did not χρησιμοποιούμε go, όχι went ή gone.",
+    "categories": [
+      "auxiliary",
+      "question",
+      "tense",
+      "irregular"
+    ],
+    "tense": "Simple Past",
+    "subject": "my aunt"
+  },
+  {
+    "type": "typing",
+    "question": "At eight yesterday, my aunt ___ (not write) a letter. Χρησιμοποίησε Past Continuous.",
+    "acceptedAnswers": [
+      "was not writing",
+      "wasn’t writing"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Past Continuous. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "my aunt → she: was + writing. Στην ερώτηση το was προηγείται του υποκειμένου.",
+    "categories": [
+      "auxiliary",
+      "negative",
+      "tense",
+      "agreement"
+    ],
+    "tense": "Past Continuous",
+    "subject": "my aunt"
+  },
+  {
+    "type": "typing",
+    "question": "___ my aunt ___ (write) a letter at eight yesterday? Χρησιμοποίησε Past Continuous. Γράψε τα δύο κενά χωρισμένα με / .",
+    "acceptedAnswers": [
+      "was / writing"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Past Continuous. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "my aunt → she: was + writing. Στην ερώτηση το was προηγείται του υποκειμένου.",
+    "categories": [
+      "auxiliary",
+      "question",
+      "tense",
+      "agreement"
+    ],
+    "tense": "Past Continuous",
+    "subject": "my aunt"
+  },
+  {
+    "type": "typing",
+    "question": "My aunt ___ (not eat) anything since this morning. Χρησιμοποίησε Present Perfect.",
+    "acceptedAnswers": [
+      "has not eaten",
+      "hasn’t eaten"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Present Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "my aunt → she: has + eaten. Eat → ate → eaten.",
+    "categories": [
+      "auxiliary",
+      "negative",
+      "tense",
+      "agreement",
+      "irregular"
+    ],
+    "tense": "Present Perfect",
+    "subject": "my aunt"
+  },
+  {
+    "type": "typing",
+    "question": "___ my aunt ever ___ (eat) sushi? Γράψε τα δύο κενά χωρισμένα με / .",
+    "acceptedAnswers": [
+      "has / eaten"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Present Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "my aunt → she: has + eaten. Eat → ate → eaten.",
+    "categories": [
+      "auxiliary",
+      "question",
+      "tense",
+      "agreement",
+      "irregular"
+    ],
+    "tense": "Present Perfect",
+    "subject": "my aunt"
+  },
+  {
+    "type": "typing",
+    "question": "By the time we arrived, my aunt ___ (not finish) dinner. Χρησιμοποίησε Past Perfect.",
+    "acceptedAnswers": [
+      "had not finished",
+      "hadn’t finished"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Past Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Had + μετοχή για γεγονός πριν από ένα παρελθοντικό σημείο. Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "categories": [
+      "auxiliary",
+      "negative",
+      "tense"
+    ],
+    "tense": "Past Perfect",
+    "subject": "my aunt"
+  },
+  {
+    "type": "typing",
+    "question": "By the time we arrived, ___ my aunt ___ (finish) dinner? Χρησιμοποίησε Past Perfect. Γράψε τα δύο κενά χωρισμένα με / .",
+    "acceptedAnswers": [
+      "had / finished"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Past Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Had + μετοχή για γεγονός πριν από ένα παρελθοντικό σημείο. Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "categories": [
+      "auxiliary",
+      "question",
+      "tense"
+    ],
+    "tense": "Past Perfect",
+    "subject": "my aunt"
+  },
+  {
+    "type": "typing",
+    "question": "Yesterday, my aunts ___ (not go) to the park.",
+    "acceptedAnswers": [
+      "did not go",
+      "didn’t go"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Simple Past. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Με did/did not χρησιμοποιούμε go, όχι went ή gone.",
+    "categories": [
+      "auxiliary",
+      "negative",
+      "tense",
+      "irregular"
+    ],
+    "tense": "Simple Past",
+    "subject": "my aunts"
+  },
+  {
+    "type": "typing",
+    "question": "___ my aunts ___ (go) to the park yesterday? Γράψε τα δύο κενά χωρισμένα με / .",
+    "acceptedAnswers": [
+      "did / go"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Simple Past. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Με did/did not χρησιμοποιούμε go, όχι went ή gone.",
+    "categories": [
+      "auxiliary",
+      "question",
+      "tense",
+      "irregular"
+    ],
+    "tense": "Simple Past",
+    "subject": "my aunts"
+  },
+  {
+    "type": "typing",
+    "question": "At eight yesterday, my aunts ___ (not write) a letter. Χρησιμοποίησε Past Continuous.",
+    "acceptedAnswers": [
+      "were not writing",
+      "weren’t writing"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Past Continuous. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "my aunts → they: were + writing. Στην ερώτηση το were προηγείται του υποκειμένου.",
+    "categories": [
+      "auxiliary",
+      "negative",
+      "tense",
+      "agreement"
+    ],
+    "tense": "Past Continuous",
+    "subject": "my aunts"
+  },
+  {
+    "type": "typing",
+    "question": "___ my aunts ___ (write) a letter at eight yesterday? Χρησιμοποίησε Past Continuous. Γράψε τα δύο κενά χωρισμένα με / .",
+    "acceptedAnswers": [
+      "were / writing"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Past Continuous. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "my aunts → they: were + writing. Στην ερώτηση το were προηγείται του υποκειμένου.",
+    "categories": [
+      "auxiliary",
+      "question",
+      "tense",
+      "agreement"
+    ],
+    "tense": "Past Continuous",
+    "subject": "my aunts"
+  },
+  {
+    "type": "typing",
+    "question": "My aunts ___ (not eat) anything since this morning. Χρησιμοποίησε Present Perfect.",
+    "acceptedAnswers": [
+      "have not eaten",
+      "haven’t eaten"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Present Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "my aunts → they: have + eaten. Eat → ate → eaten.",
+    "categories": [
+      "auxiliary",
+      "negative",
+      "tense",
+      "agreement",
+      "irregular"
+    ],
+    "tense": "Present Perfect",
+    "subject": "my aunts"
+  },
+  {
+    "type": "typing",
+    "question": "___ my aunts ever ___ (eat) sushi? Γράψε τα δύο κενά χωρισμένα με / .",
+    "acceptedAnswers": [
+      "have / eaten"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Present Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "my aunts → they: have + eaten. Eat → ate → eaten.",
+    "categories": [
+      "auxiliary",
+      "question",
+      "tense",
+      "agreement",
+      "irregular"
+    ],
+    "tense": "Present Perfect",
+    "subject": "my aunts"
+  },
+  {
+    "type": "typing",
+    "question": "By the time we arrived, my aunts ___ (not finish) dinner. Χρησιμοποίησε Past Perfect.",
+    "acceptedAnswers": [
+      "had not finished",
+      "hadn’t finished"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Past Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Had + μετοχή για γεγονός πριν από ένα παρελθοντικό σημείο. Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "categories": [
+      "auxiliary",
+      "negative",
+      "tense"
+    ],
+    "tense": "Past Perfect",
+    "subject": "my aunts"
+  },
+  {
+    "type": "typing",
+    "question": "By the time we arrived, ___ my aunts ___ (finish) dinner? Χρησιμοποίησε Past Perfect. Γράψε τα δύο κενά χωρισμένα με / .",
+    "acceptedAnswers": [
+      "had / finished"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Past Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Had + μετοχή για γεγονός πριν από ένα παρελθοντικό σημείο. Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "categories": [
+      "auxiliary",
+      "question",
+      "tense"
+    ],
+    "tense": "Past Perfect",
+    "subject": "my aunts"
+  },
+  {
+    "type": "typing",
+    "question": "Yesterday, the child ___ (not go) to the park.",
+    "acceptedAnswers": [
+      "did not go",
+      "didn’t go"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Simple Past. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Με did/did not χρησιμοποιούμε go, όχι went ή gone.",
+    "categories": [
+      "auxiliary",
+      "negative",
+      "tense",
+      "irregular"
+    ],
+    "tense": "Simple Past",
+    "subject": "the child"
+  },
+  {
+    "type": "typing",
+    "question": "___ the child ___ (go) to the park yesterday? Γράψε τα δύο κενά χωρισμένα με / .",
+    "acceptedAnswers": [
+      "did / go"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Simple Past. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Με did/did not χρησιμοποιούμε go, όχι went ή gone.",
+    "categories": [
+      "auxiliary",
+      "question",
+      "tense",
+      "irregular"
+    ],
+    "tense": "Simple Past",
+    "subject": "the child"
+  },
+  {
+    "type": "typing",
+    "question": "At eight yesterday, the child ___ (not write) a letter. Χρησιμοποίησε Past Continuous.",
+    "acceptedAnswers": [
+      "was not writing",
+      "wasn’t writing"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Past Continuous. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "the child → he/she: was + writing. Στην ερώτηση το was προηγείται του υποκειμένου.",
+    "categories": [
+      "auxiliary",
+      "negative",
+      "tense",
+      "agreement"
+    ],
+    "tense": "Past Continuous",
+    "subject": "the child"
+  },
+  {
+    "type": "typing",
+    "question": "___ the child ___ (write) a letter at eight yesterday? Χρησιμοποίησε Past Continuous. Γράψε τα δύο κενά χωρισμένα με / .",
+    "acceptedAnswers": [
+      "was / writing"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Past Continuous. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "the child → he/she: was + writing. Στην ερώτηση το was προηγείται του υποκειμένου.",
+    "categories": [
+      "auxiliary",
+      "question",
+      "tense",
+      "agreement"
+    ],
+    "tense": "Past Continuous",
+    "subject": "the child"
+  },
+  {
+    "type": "typing",
+    "question": "The child ___ (not eat) anything since this morning. Χρησιμοποίησε Present Perfect.",
+    "acceptedAnswers": [
+      "has not eaten",
+      "hasn’t eaten"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Present Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "the child → he/she: has + eaten. Eat → ate → eaten.",
+    "categories": [
+      "auxiliary",
+      "negative",
+      "tense",
+      "agreement",
+      "irregular"
+    ],
+    "tense": "Present Perfect",
+    "subject": "the child"
+  },
+  {
+    "type": "typing",
+    "question": "___ the child ever ___ (eat) sushi? Γράψε τα δύο κενά χωρισμένα με / .",
+    "acceptedAnswers": [
+      "has / eaten"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Present Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "the child → he/she: has + eaten. Eat → ate → eaten.",
+    "categories": [
+      "auxiliary",
+      "question",
+      "tense",
+      "agreement",
+      "irregular"
+    ],
+    "tense": "Present Perfect",
+    "subject": "the child"
+  },
+  {
+    "type": "typing",
+    "question": "By the time we arrived, the child ___ (not finish) dinner. Χρησιμοποίησε Past Perfect.",
+    "acceptedAnswers": [
+      "had not finished",
+      "hadn’t finished"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Past Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Had + μετοχή για γεγονός πριν από ένα παρελθοντικό σημείο. Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "categories": [
+      "auxiliary",
+      "negative",
+      "tense"
+    ],
+    "tense": "Past Perfect",
+    "subject": "the child"
+  },
+  {
+    "type": "typing",
+    "question": "By the time we arrived, ___ the child ___ (finish) dinner? Χρησιμοποίησε Past Perfect. Γράψε τα δύο κενά χωρισμένα με / .",
+    "acceptedAnswers": [
+      "had / finished"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Past Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Had + μετοχή για γεγονός πριν από ένα παρελθοντικό σημείο. Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "categories": [
+      "auxiliary",
+      "question",
+      "tense"
+    ],
+    "tense": "Past Perfect",
+    "subject": "the child"
+  },
+  {
+    "type": "typing",
+    "question": "Yesterday, the children ___ (not go) to the park.",
+    "acceptedAnswers": [
+      "did not go",
+      "didn’t go"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Simple Past. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Με did/did not χρησιμοποιούμε go, όχι went ή gone.",
+    "categories": [
+      "auxiliary",
+      "negative",
+      "tense",
+      "irregular"
+    ],
+    "tense": "Simple Past",
+    "subject": "the children"
+  },
+  {
+    "type": "typing",
+    "question": "___ the children ___ (go) to the park yesterday? Γράψε τα δύο κενά χωρισμένα με / .",
+    "acceptedAnswers": [
+      "did / go"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Simple Past. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Με did/did not χρησιμοποιούμε go, όχι went ή gone.",
+    "categories": [
+      "auxiliary",
+      "question",
+      "tense",
+      "irregular"
+    ],
+    "tense": "Simple Past",
+    "subject": "the children"
+  },
+  {
+    "type": "typing",
+    "question": "At eight yesterday, the children ___ (not write) a letter. Χρησιμοποίησε Past Continuous.",
+    "acceptedAnswers": [
+      "were not writing",
+      "weren’t writing"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Past Continuous. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "the children → they: were + writing. Στην ερώτηση το were προηγείται του υποκειμένου.",
+    "categories": [
+      "auxiliary",
+      "negative",
+      "tense",
+      "agreement"
+    ],
+    "tense": "Past Continuous",
+    "subject": "the children"
+  },
+  {
+    "type": "typing",
+    "question": "___ the children ___ (write) a letter at eight yesterday? Χρησιμοποίησε Past Continuous. Γράψε τα δύο κενά χωρισμένα με / .",
+    "acceptedAnswers": [
+      "were / writing"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Past Continuous. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "the children → they: were + writing. Στην ερώτηση το were προηγείται του υποκειμένου.",
+    "categories": [
+      "auxiliary",
+      "question",
+      "tense",
+      "agreement"
+    ],
+    "tense": "Past Continuous",
+    "subject": "the children"
+  },
+  {
+    "type": "typing",
+    "question": "The children ___ (not eat) anything since this morning. Χρησιμοποίησε Present Perfect.",
+    "acceptedAnswers": [
+      "have not eaten",
+      "haven’t eaten"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Present Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "the children → they: have + eaten. Eat → ate → eaten.",
+    "categories": [
+      "auxiliary",
+      "negative",
+      "tense",
+      "agreement",
+      "irregular"
+    ],
+    "tense": "Present Perfect",
+    "subject": "the children"
+  },
+  {
+    "type": "typing",
+    "question": "___ the children ever ___ (eat) sushi? Γράψε τα δύο κενά χωρισμένα με / .",
+    "acceptedAnswers": [
+      "have / eaten"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Present Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "the children → they: have + eaten. Eat → ate → eaten.",
+    "categories": [
+      "auxiliary",
+      "question",
+      "tense",
+      "agreement",
+      "irregular"
+    ],
+    "tense": "Present Perfect",
+    "subject": "the children"
+  },
+  {
+    "type": "typing",
+    "question": "By the time we arrived, the children ___ (not finish) dinner. Χρησιμοποίησε Past Perfect.",
+    "acceptedAnswers": [
+      "had not finished",
+      "hadn’t finished"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Past Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Had + μετοχή για γεγονός πριν από ένα παρελθοντικό σημείο. Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "categories": [
+      "auxiliary",
+      "negative",
+      "tense"
+    ],
+    "tense": "Past Perfect",
+    "subject": "the children"
+  },
+  {
+    "type": "typing",
+    "question": "By the time we arrived, ___ the children ___ (finish) dinner? Χρησιμοποίησε Past Perfect. Γράψε τα δύο κενά χωρισμένα με / .",
+    "acceptedAnswers": [
+      "had / finished"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Past Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Had + μετοχή για γεγονός πριν από ένα παρελθοντικό σημείο. Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "categories": [
+      "auxiliary",
+      "question",
+      "tense"
+    ],
+    "tense": "Past Perfect",
+    "subject": "the children"
+  },
+  {
+    "type": "typing",
+    "question": "Yesterday, Andrew and his father ___ (not go) to the park.",
+    "acceptedAnswers": [
+      "did not go",
+      "didn’t go"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Simple Past. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Με did/did not χρησιμοποιούμε go, όχι went ή gone.",
+    "categories": [
+      "auxiliary",
+      "negative",
+      "tense",
+      "irregular"
+    ],
+    "tense": "Simple Past",
+    "subject": "Andrew and his father"
+  },
+  {
+    "type": "typing",
+    "question": "___ Andrew and his father ___ (go) to the park yesterday? Γράψε τα δύο κενά χωρισμένα με / .",
+    "acceptedAnswers": [
+      "did / go"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Simple Past. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Με did/did not χρησιμοποιούμε go, όχι went ή gone.",
+    "categories": [
+      "auxiliary",
+      "question",
+      "tense",
+      "irregular"
+    ],
+    "tense": "Simple Past",
+    "subject": "Andrew and his father"
+  },
+  {
+    "type": "typing",
+    "question": "At eight yesterday, Andrew and his father ___ (not write) a letter. Χρησιμοποίησε Past Continuous.",
+    "acceptedAnswers": [
+      "were not writing",
+      "weren’t writing"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Past Continuous. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Andrew and his father → they: were + writing. Στην ερώτηση το were προηγείται του υποκειμένου.",
+    "categories": [
+      "auxiliary",
+      "negative",
+      "tense",
+      "agreement"
+    ],
+    "tense": "Past Continuous",
+    "subject": "Andrew and his father"
+  },
+  {
+    "type": "typing",
+    "question": "___ Andrew and his father ___ (write) a letter at eight yesterday? Χρησιμοποίησε Past Continuous. Γράψε τα δύο κενά χωρισμένα με / .",
+    "acceptedAnswers": [
+      "were / writing"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Past Continuous. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Andrew and his father → they: were + writing. Στην ερώτηση το were προηγείται του υποκειμένου.",
+    "categories": [
+      "auxiliary",
+      "question",
+      "tense",
+      "agreement"
+    ],
+    "tense": "Past Continuous",
+    "subject": "Andrew and his father"
+  },
+  {
+    "type": "typing",
+    "question": "Andrew and his father ___ (not eat) anything since this morning. Χρησιμοποίησε Present Perfect.",
+    "acceptedAnswers": [
+      "have not eaten",
+      "haven’t eaten"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Present Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Andrew and his father → they: have + eaten. Eat → ate → eaten.",
+    "categories": [
+      "auxiliary",
+      "negative",
+      "tense",
+      "agreement",
+      "irregular"
+    ],
+    "tense": "Present Perfect",
+    "subject": "Andrew and his father"
+  },
+  {
+    "type": "typing",
+    "question": "___ Andrew and his father ever ___ (eat) sushi? Γράψε τα δύο κενά χωρισμένα με / .",
+    "acceptedAnswers": [
+      "have / eaten"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Present Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Andrew and his father → they: have + eaten. Eat → ate → eaten.",
+    "categories": [
+      "auxiliary",
+      "question",
+      "tense",
+      "agreement",
+      "irregular"
+    ],
+    "tense": "Present Perfect",
+    "subject": "Andrew and his father"
+  },
+  {
+    "type": "typing",
+    "question": "By the time we arrived, Andrew and his father ___ (not finish) dinner. Χρησιμοποίησε Past Perfect.",
+    "acceptedAnswers": [
+      "had not finished",
+      "hadn’t finished"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Past Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Had + μετοχή για γεγονός πριν από ένα παρελθοντικό σημείο. Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "categories": [
+      "auxiliary",
+      "negative",
+      "tense"
+    ],
+    "tense": "Past Perfect",
+    "subject": "Andrew and his father"
+  },
+  {
+    "type": "typing",
+    "question": "By the time we arrived, ___ Andrew and his father ___ (finish) dinner? Χρησιμοποίησε Past Perfect. Γράψε τα δύο κενά χωρισμένα με / .",
+    "acceptedAnswers": [
+      "had / finished"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Past Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Had + μετοχή για γεγονός πριν από ένα παρελθοντικό σημείο. Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "categories": [
+      "auxiliary",
+      "question",
+      "tense"
+    ],
+    "tense": "Past Perfect",
+    "subject": "Andrew and his father"
+  },
+  {
+    "type": "typing",
+    "question": "Yesterday, my mum and I ___ (not go) to the park.",
+    "acceptedAnswers": [
+      "did not go",
+      "didn’t go"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Simple Past. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Με did/did not χρησιμοποιούμε go, όχι went ή gone.",
+    "categories": [
+      "auxiliary",
+      "negative",
+      "tense",
+      "irregular"
+    ],
+    "tense": "Simple Past",
+    "subject": "my mum and I"
+  },
+  {
+    "type": "typing",
+    "question": "___ my mum and I ___ (go) to the park yesterday? Γράψε τα δύο κενά χωρισμένα με / .",
+    "acceptedAnswers": [
+      "did / go"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Simple Past. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Με did/did not χρησιμοποιούμε go, όχι went ή gone.",
+    "categories": [
+      "auxiliary",
+      "question",
+      "tense",
+      "irregular"
+    ],
+    "tense": "Simple Past",
+    "subject": "my mum and I"
+  },
+  {
+    "type": "typing",
+    "question": "At eight yesterday, my mum and I ___ (not write) a letter. Χρησιμοποίησε Past Continuous.",
+    "acceptedAnswers": [
+      "were not writing",
+      "weren’t writing"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Past Continuous. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "my mum and I → we: were + writing. Στην ερώτηση το were προηγείται του υποκειμένου.",
+    "categories": [
+      "auxiliary",
+      "negative",
+      "tense",
+      "agreement"
+    ],
+    "tense": "Past Continuous",
+    "subject": "my mum and I"
+  },
+  {
+    "type": "typing",
+    "question": "___ my mum and I ___ (write) a letter at eight yesterday? Χρησιμοποίησε Past Continuous. Γράψε τα δύο κενά χωρισμένα με / .",
+    "acceptedAnswers": [
+      "were / writing"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Past Continuous. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "my mum and I → we: were + writing. Στην ερώτηση το were προηγείται του υποκειμένου.",
+    "categories": [
+      "auxiliary",
+      "question",
+      "tense",
+      "agreement"
+    ],
+    "tense": "Past Continuous",
+    "subject": "my mum and I"
+  },
+  {
+    "type": "typing",
+    "question": "My mum and I ___ (not eat) anything since this morning. Χρησιμοποίησε Present Perfect.",
+    "acceptedAnswers": [
+      "have not eaten",
+      "haven’t eaten"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Present Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "my mum and I → we: have + eaten. Eat → ate → eaten.",
+    "categories": [
+      "auxiliary",
+      "negative",
+      "tense",
+      "agreement",
+      "irregular"
+    ],
+    "tense": "Present Perfect",
+    "subject": "my mum and I"
+  },
+  {
+    "type": "typing",
+    "question": "___ my mum and I ever ___ (eat) sushi? Γράψε τα δύο κενά χωρισμένα με / .",
+    "acceptedAnswers": [
+      "have / eaten"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Present Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "my mum and I → we: have + eaten. Eat → ate → eaten.",
+    "categories": [
+      "auxiliary",
+      "question",
+      "tense",
+      "agreement",
+      "irregular"
+    ],
+    "tense": "Present Perfect",
+    "subject": "my mum and I"
+  },
+  {
+    "type": "typing",
+    "question": "By the time we arrived, my mum and I ___ (not finish) dinner. Χρησιμοποίησε Past Perfect.",
+    "acceptedAnswers": [
+      "had not finished",
+      "hadn’t finished"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Past Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Had + μετοχή για γεγονός πριν από ένα παρελθοντικό σημείο. Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "categories": [
+      "auxiliary",
+      "negative",
+      "tense"
+    ],
+    "tense": "Past Perfect",
+    "subject": "my mum and I"
+  },
+  {
+    "type": "typing",
+    "question": "By the time we arrived, ___ my mum and I ___ (finish) dinner? Χρησιμοποίησε Past Perfect. Γράψε τα δύο κενά χωρισμένα με / .",
+    "acceptedAnswers": [
+      "had / finished"
+    ],
+    "hint": "Ο ζητούμενος χρόνος είναι Past Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "explanation": "Had + μετοχή για γεγονός πριν από ένα παρελθοντικό σημείο. Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "categories": [
+      "auxiliary",
+      "question",
+      "tense"
+    ],
+    "tense": "Past Perfect",
+    "subject": "my mum and I"
   }
 ]
