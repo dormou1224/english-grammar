@@ -6,7 +6,7 @@
       "was / writing"
     ],
     "hint": "Ο ζητούμενος χρόνος είναι Past Continuous. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
-    "explanation": "Το at eight yesterday, μαζί με τον ζητούμενο χρόνο, περιγράφει πράξη σε εξέλιξη τότε: Past Continuous. my aunt → she: was + writing. Στην ερώτηση το was προηγείται του υποκειμένου.",
+    "explanation": "Το at eight yesterday δηλώνει συγκεκριμένη ώρα στο παρελθόν. Στο πρόγραμμα αυτό βαθμολογούμε μόνο Past Continuous, για πράξη σε εξέλιξη. my aunt → was. Ερώτηση: Was + υποκείμενο + writing; write → writing: αφαιρούμε το άφωνο e.",
     "categories": [
       "auxiliary",
       "question",
@@ -25,7 +25,7 @@
       "wasn’t running"
     ],
     "hint": "Ο ζητούμενος χρόνος είναι Past Continuous. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
-    "explanation": "Το at eight yesterday, μαζί με τον ζητούμενο χρόνο, περιγράφει πράξη σε εξέλιξη τότε: Past Continuous. my aunt → she: was + running. Στην ερώτηση το was προηγείται του υποκειμένου. run → running: διπλασιάζουμε το τελικό σύμφωνο, επειδή προηγείται ένα φωνήεν και η συλλαβή τονίζεται.",
+    "explanation": "Το at eight yesterday δηλώνει συγκεκριμένη ώρα στο παρελθόν. Στο πρόγραμμα αυτό βαθμολογούμε μόνο Past Continuous, για πράξη σε εξέλιξη. my aunt → was. Άρνηση: was + not + running. run → running: διπλασιάζουμε το τελικό σύμφωνο.",
     "categories": [
       "auxiliary",
       "negative",
@@ -72,22 +72,24 @@
   },
   {
     "type": "typing",
-    "question": "By the time we arrived, my aunt ___ (not finish) dinner. Χρησιμοποίησε Past Perfect.",
+    "question": "While my aunts ___ (cook dinner), a visitor ___ (arrive). Γράψε τα δύο κενά χωρισμένα με / .",
     "acceptedAnswers": [
-      "had not finished",
-      "hadn’t finished"
+      "were cooking dinner / arrived"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Past Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
-    "explanation": "Το by the time we arrived δίνει μεταγενέστερο γεγονός. Ρωτάμε ή δηλώνουμε τι είχε γίνει πριν από αυτό: Past Perfect. Had + μετοχή για γεγονός πριν από ένα παρελθοντικό σημείο. Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "hint": "Ποια πράξη ήταν ήδη σε εξέλιξη και ποιο γεγονός συνέβη τότε;",
+    "explanation": "Το while εισάγει την πράξη με διάρκεια: were cooking dinner (Past Continuous). Το σύντομο γεγονός που παρεμβάλλεται είναι arrived (Simple Past). Σχηματισμός: was/were + ρήμα σε -ing για την εξέλιξη, αόριστος για το σύντομο γεγονός. Το γεγονός συμβαίνει κατά τη διάρκεια της άλλης πράξης και δεν σημαίνει απαραίτητα ότι εκείνη σταμάτησε οριστικά.",
     "categories": [
+      "duration-event",
+      "keywords",
       "auxiliary",
-      "negative",
-      "tense",
-      "sequence"
+      "agreement"
     ],
-    "tense": "Past Perfect",
-    "subject": "my aunt",
-    "dailyId": "day-19-05"
+    "tenses": [
+      "Past Continuous",
+      "Simple Past"
+    ],
+    "connector": "while",
+    "dailyId": "day-19-while"
   },
   {
     "type": "typing",
@@ -109,22 +111,24 @@
   },
   {
     "type": "typing",
-    "question": "Yesterday, Dad ___ (not go) to the park.",
+    "question": "My aunt ___ (write a letter) when the phone ___ (buzz). Γράψε τα δύο κενά χωρισμένα με / .",
     "acceptedAnswers": [
-      "did not go",
-      "didn’t go"
+      "was writing a letter / buzzed"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Simple Past. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
-    "explanation": "Το yesterday δηλώνει ολοκληρωμένο χρόνο στο παρελθόν: Simple Past. Με did/did not χρησιμοποιούμε go, όχι went ή gone.",
+    "hint": "Ποια πράξη ήταν ήδη σε εξέλιξη και ποιο γεγονός συνέβη τότε;",
+    "explanation": "Η πράξη με διάρκεια είναι was writing a letter (Past Continuous). Μετά το when έχουμε το σύντομο γεγονός buzzed (Simple Past). Σχηματισμός: was/were + ρήμα σε -ing για την εξέλιξη, αόριστος για το σύντομο γεγονός. Το γεγονός συμβαίνει κατά τη διάρκεια της άλλης πράξης και δεν σημαίνει απαραίτητα ότι εκείνη σταμάτησε οριστικά. write → writing: αφαιρούμε το τελικό άφωνο e.",
     "categories": [
+      "duration-event",
+      "keywords",
       "auxiliary",
-      "negative",
-      "tense",
-      "irregular"
+      "agreement"
     ],
-    "tense": "Simple Past",
-    "subject": "Dad",
-    "dailyId": "day-19-07"
+    "tenses": [
+      "Past Continuous",
+      "Simple Past"
+    ],
+    "connector": "when",
+    "dailyId": "day-19-when"
   },
   {
     "type": "typing",

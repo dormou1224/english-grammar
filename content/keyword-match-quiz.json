@@ -375,5 +375,77 @@
     "categories": [
       "keywords"
     ]
+  },
+  {
+    "type": "matching",
+    "question": "Σύνδεσμος και χρόνος στο συγκεκριμένο παράδειγμα.",
+    "matches": [
+      {
+        "label": "when: I was sleeping when the alarm went off. Ποιος χρόνος ακολουθεί το when;",
+        "answer": "Simple Past",
+        "options": [
+          "Simple Past",
+          "Past Continuous",
+          "Present Perfect",
+          "Past Perfect",
+          "Present Perfect ή Past Perfect, ανάλογα με το πλαίσιο",
+          "Δεν προσδιορίζει μόνο του έναν χρόνο"
+        ]
+      }
+    ],
+    "hint": "Ξεχώρισε τη διάρκεια από το σύντομο γεγονός.",
+    "explanation": "Το went off είναι το σύντομο γεγονός. Το was sleeping είναι η πράξη σε εξέλιξη.",
+    "categories": [
+      "duration-event",
+      "keywords"
+    ]
+  },
+  {
+    "type": "matching",
+    "question": "Σύνδεσμος και χρόνος στο συγκεκριμένο παράδειγμα.",
+    "matches": [
+      {
+        "label": "while: The alarm went off while I was sleeping. Ποιος χρόνος ακολουθεί το while;",
+        "answer": "Past Continuous",
+        "options": [
+          "Simple Past",
+          "Past Continuous",
+          "Present Perfect",
+          "Past Perfect",
+          "Present Perfect ή Past Perfect, ανάλογα με το πλαίσιο",
+          "Δεν προσδιορίζει μόνο του έναν χρόνο"
+        ]
+      }
+    ],
+    "hint": "Ξεχώρισε τη διάρκεια από το σύντομο γεγονός.",
+    "explanation": "Το was sleeping περιγράφει την πράξη με διάρκεια. Το went off είναι το σύντομο γεγονός.",
+    "categories": [
+      "duration-event",
+      "keywords"
+    ]
+  },
+  {
+    "type": "matching",
+    "question": "Σύνδεσμος και χρόνος στο συγκεκριμένο παράδειγμα.",
+    "matches": [
+      {
+        "label": "as: As I was walking to school, I met Anna. Ποιος χρόνος ακολουθεί το as;",
+        "answer": "Past Continuous",
+        "options": [
+          "Simple Past",
+          "Past Continuous",
+          "Present Perfect",
+          "Past Perfect",
+          "Present Perfect ή Past Perfect, ανάλογα με το πλαίσιο",
+          "Δεν προσδιορίζει μόνο του έναν χρόνο"
+        ]
+      }
+    ],
+    "hint": "Ξεχώρισε τη διάρκεια από το σύντομο γεγονός.",
+    "explanation": "Στο συγκεκριμένο παράδειγμα was walking είναι η πράξη σε εξέλιξη και met το σύντομο γεγονός.",
+    "categories": [
+      "duration-event",
+      "keywords"
+    ]
   }
 ]

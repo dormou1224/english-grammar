@@ -1,38 +1,45 @@
 [
   {
     "type": "typing",
-    "question": "___ my aunts ___ (go) to the park yesterday? Γράψε τα δύο κενά χωρισμένα με / .",
+    "question": "When the lights ___ (go out), my mum and I ___ (read a book). Γράψε τα δύο κενά χωρισμένα με / .",
     "acceptedAnswers": [
-      "did / go"
+      "went out / were reading a book"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Simple Past. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
-    "explanation": "Το yesterday δηλώνει ολοκληρωμένο χρόνο στο παρελθόν: Simple Past. Με did/did not χρησιμοποιούμε go, όχι went ή gone.",
+    "hint": "Ποια πράξη ήταν ήδη σε εξέλιξη και ποιο γεγονός συνέβη τότε;",
+    "explanation": "Μετά το when, το σύντομο γεγονός είναι went out (Simple Past). Η πράξη που ήταν ήδη σε εξέλιξη είναι were reading a book (Past Continuous). Σχηματισμός: was/were + ρήμα σε -ing για την εξέλιξη, αόριστος για το σύντομο γεγονός. Το γεγονός συμβαίνει κατά τη διάρκεια της άλλης πράξης και δεν σημαίνει απαραίτητα ότι εκείνη σταμάτησε οριστικά.",
     "categories": [
+      "duration-event",
+      "keywords",
       "auxiliary",
-      "question",
-      "tense",
-      "irregular"
+      "agreement"
     ],
-    "tense": "Simple Past",
-    "subject": "my aunts",
-    "dailyId": "day-24-01"
+    "tenses": [
+      "Past Continuous",
+      "Simple Past"
+    ],
+    "connector": "when",
+    "dailyId": "day-24-when"
   },
   {
     "type": "typing",
-    "question": "After my mum and I ___ (finish) dinner, we arrived. Χρησιμοποίησε Past Perfect.",
+    "question": "While Dad ___ (study English), someone ___ (knock). Γράψε τα δύο κενά χωρισμένα με / .",
     "acceptedAnswers": [
-      "had finished"
+      "was studying English / knocked"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Past Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
-    "explanation": "Η ολοκλήρωση του δείπνου προηγήθηκε της άφιξης: had + finished. Στο συγκεκριμένο παράδειγμα μετά το after έχουμε Past Perfect και στη μεταγενέστερη πράξη Simple Past. Με after μπορεί επίσης να χρησιμοποιηθεί Simple Past, αλλά εδώ ζητείται Past Perfect.",
+    "hint": "Ποια πράξη ήταν ήδη σε εξέλιξη και ποιο γεγονός συνέβη τότε;",
+    "explanation": "Το while εισάγει την πράξη με διάρκεια: was studying English (Past Continuous). Το σύντομο γεγονός που παρεμβάλλεται είναι knocked (Simple Past). Σχηματισμός: was/were + ρήμα σε -ing για την εξέλιξη, αόριστος για το σύντομο γεγονός. Το γεγονός συμβαίνει κατά τη διάρκεια της άλλης πράξης και δεν σημαίνει απαραίτητα ότι εκείνη σταμάτησε οριστικά. study → studying: διατηρούμε το y.",
     "categories": [
-      "tense",
-      "sequence",
-      "auxiliary"
+      "duration-event",
+      "keywords",
+      "auxiliary",
+      "agreement"
     ],
-    "tense": "Past Perfect",
-    "subject": "my mum and I",
-    "dailyId": "day-24-02"
+    "tenses": [
+      "Past Continuous",
+      "Simple Past"
+    ],
+    "connector": "while",
+    "dailyId": "day-24-while"
   },
   {
     "type": "typing",
@@ -62,7 +69,7 @@
       "weren’t swimming"
     ],
     "hint": "Ο ζητούμενος χρόνος είναι Past Continuous. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
-    "explanation": "Το at eight yesterday, μαζί με τον ζητούμενο χρόνο, περιγράφει πράξη σε εξέλιξη τότε: Past Continuous. my mum and I → we: were + swimming. Στην ερώτηση το were προηγείται του υποκειμένου. swim → swimming: διπλασιάζουμε το τελικό σύμφωνο, επειδή προηγείται ένα φωνήεν και η συλλαβή τονίζεται.",
+    "explanation": "Το at eight yesterday δηλώνει συγκεκριμένη ώρα στο παρελθόν. Στο πρόγραμμα αυτό βαθμολογούμε μόνο Past Continuous, για πράξη σε εξέλιξη. my mum and I → were. Άρνηση: were + not + swimming. swim → swimming: διπλασιάζουμε το τελικό σύμφωνο.",
     "categories": [
       "auxiliary",
       "negative",
@@ -81,7 +88,7 @@
       "were / writing"
     ],
     "hint": "Ο ζητούμενος χρόνος είναι Past Continuous. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
-    "explanation": "Το at eight yesterday, μαζί με τον ζητούμενο χρόνο, περιγράφει πράξη σε εξέλιξη τότε: Past Continuous. my mum and I → we: were + writing. Στην ερώτηση το were προηγείται του υποκειμένου.",
+    "explanation": "Το at eight yesterday δηλώνει συγκεκριμένη ώρα στο παρελθόν. Στο πρόγραμμα αυτό βαθμολογούμε μόνο Past Continuous, για πράξη σε εξέλιξη. my mum and I → were. Ερώτηση: Were + υποκείμενο + writing; write → writing: αφαιρούμε το άφωνο e.",
     "categories": [
       "auxiliary",
       "question",

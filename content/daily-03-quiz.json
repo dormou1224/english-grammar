@@ -7,7 +7,7 @@
       "wasn’t running"
     ],
     "hint": "Ο ζητούμενος χρόνος είναι Past Continuous. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
-    "explanation": "Το at eight yesterday, μαζί με τον ζητούμενο χρόνο, περιγράφει πράξη σε εξέλιξη τότε: Past Continuous. my aunt → she: was + running. Στην ερώτηση το was προηγείται του υποκειμένου. run → running: διπλασιάζουμε το τελικό σύμφωνο, επειδή προηγείται ένα φωνήεν και η συλλαβή τονίζεται.",
+    "explanation": "Το at eight yesterday δηλώνει συγκεκριμένη ώρα στο παρελθόν. Στο πρόγραμμα αυτό βαθμολογούμε μόνο Past Continuous, για πράξη σε εξέλιξη. my aunt → was. Άρνηση: was + not + running. run → running: διπλασιάζουμε το τελικό σύμφωνο.",
     "categories": [
       "auxiliary",
       "negative",
@@ -21,20 +21,24 @@
   },
   {
     "type": "typing",
-    "question": "After my aunt ___ (finish) dinner, we arrived. Χρησιμοποίησε Past Perfect.",
+    "question": "While my aunts ___ (swim at the pool), the rain ___ (start). Γράψε τα δύο κενά χωρισμένα με / .",
     "acceptedAnswers": [
-      "had finished"
+      "were swimming at the pool / started"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Past Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
-    "explanation": "Η ολοκλήρωση του δείπνου προηγήθηκε της άφιξης: had + finished. Στο συγκεκριμένο παράδειγμα μετά το after έχουμε Past Perfect και στη μεταγενέστερη πράξη Simple Past. Με after μπορεί επίσης να χρησιμοποιηθεί Simple Past, αλλά εδώ ζητείται Past Perfect.",
+    "hint": "Ποια πράξη ήταν ήδη σε εξέλιξη και ποιο γεγονός συνέβη τότε;",
+    "explanation": "Το while εισάγει την πράξη με διάρκεια: were swimming at the pool (Past Continuous). Το σύντομο γεγονός που παρεμβάλλεται είναι started (Simple Past). Σχηματισμός: was/were + ρήμα σε -ing για την εξέλιξη, αόριστος για το σύντομο γεγονός. Το γεγονός συμβαίνει κατά τη διάρκεια της άλλης πράξης και δεν σημαίνει απαραίτητα ότι εκείνη σταμάτησε οριστικά. swim → swimming: διπλασιάζουμε το m.",
     "categories": [
-      "tense",
-      "sequence",
-      "auxiliary"
+      "duration-event",
+      "keywords",
+      "auxiliary",
+      "agreement"
     ],
-    "tense": "Past Perfect",
-    "subject": "my aunt",
-    "dailyId": "day-03-02"
+    "tenses": [
+      "Past Continuous",
+      "Simple Past"
+    ],
+    "connector": "while",
+    "dailyId": "day-03-while"
   },
   {
     "type": "typing",
@@ -105,7 +109,7 @@
       "was / writing"
     ],
     "hint": "Ο ζητούμενος χρόνος είναι Past Continuous. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
-    "explanation": "Το at eight yesterday, μαζί με τον ζητούμενο χρόνο, περιγράφει πράξη σε εξέλιξη τότε: Past Continuous. my aunt → she: was + writing. Στην ερώτηση το was προηγείται του υποκειμένου.",
+    "explanation": "Το at eight yesterday δηλώνει συγκεκριμένη ώρα στο παρελθόν. Στο πρόγραμμα αυτό βαθμολογούμε μόνο Past Continuous, για πράξη σε εξέλιξη. my aunt → was. Ερώτηση: Was + υποκείμενο + writing; write → writing: αφαιρούμε το άφωνο e.",
     "categories": [
       "auxiliary",
       "question",
@@ -138,22 +142,24 @@
   },
   {
     "type": "typing",
-    "question": "Yesterday, Dad ___ (not go) to the park.",
+    "question": "My aunt ___ (sleep) when the alarm ___ (go off). Γράψε τα δύο κενά χωρισμένα με / .",
     "acceptedAnswers": [
-      "did not go",
-      "didn’t go"
+      "was sleeping / went off"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Simple Past. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
-    "explanation": "Το yesterday δηλώνει ολοκληρωμένο χρόνο στο παρελθόν: Simple Past. Με did/did not χρησιμοποιούμε go, όχι went ή gone.",
+    "hint": "Ποια πράξη ήταν ήδη σε εξέλιξη και ποιο γεγονός συνέβη τότε;",
+    "explanation": "Η πράξη με διάρκεια είναι was sleeping (Past Continuous). Μετά το when έχουμε το σύντομο γεγονός went off (Simple Past). Σχηματισμός: was/were + ρήμα σε -ing για την εξέλιξη, αόριστος για το σύντομο γεγονός. Το γεγονός συμβαίνει κατά τη διάρκεια της άλλης πράξης και δεν σημαίνει απαραίτητα ότι εκείνη σταμάτησε οριστικά.",
     "categories": [
+      "duration-event",
+      "keywords",
       "auxiliary",
-      "negative",
-      "tense",
-      "irregular"
+      "agreement"
     ],
-    "tense": "Simple Past",
-    "subject": "Dad",
-    "dailyId": "day-03-09"
+    "tenses": [
+      "Past Continuous",
+      "Simple Past"
+    ],
+    "connector": "when",
+    "dailyId": "day-03-when"
   },
   {
     "type": "typing",

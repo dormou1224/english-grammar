@@ -21,21 +21,24 @@
   },
   {
     "type": "typing",
-    "question": "Before we arrived, ___ the child ___ (finish) dinner? Χρησιμοποίησε Past Perfect. Γράψε τα δύο κενά χωρισμένα με / .",
+    "question": "While the children ___ (cook dinner), a visitor ___ (arrive). Γράψε τα δύο κενά χωρισμένα με / .",
     "acceptedAnswers": [
-      "had / finished"
+      "were cooking dinner / arrived"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Past Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
-    "explanation": "Το before we arrived δίνει τη μεταγενέστερη άφιξη σε Simple Past. Για ό,τι είχε γίνει νωρίτερα χρησιμοποιούμε τον ζητούμενο Past Perfect: had + finished. Στην άρνηση: had not finished. Στην ερώτηση: Had + υποκείμενο + finished; Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "hint": "Ποια πράξη ήταν ήδη σε εξέλιξη και ποιο γεγονός συνέβη τότε;",
+    "explanation": "Το while εισάγει την πράξη με διάρκεια: were cooking dinner (Past Continuous). Το σύντομο γεγονός που παρεμβάλλεται είναι arrived (Simple Past). Σχηματισμός: was/were + ρήμα σε -ing για την εξέλιξη, αόριστος για το σύντομο γεγονός. Το γεγονός συμβαίνει κατά τη διάρκεια της άλλης πράξης και δεν σημαίνει απαραίτητα ότι εκείνη σταμάτησε οριστικά.",
     "categories": [
+      "duration-event",
+      "keywords",
       "auxiliary",
-      "question",
-      "tense",
-      "sequence"
+      "agreement"
     ],
-    "tense": "Past Perfect",
-    "subject": "the child",
-    "dailyId": "day-29-02"
+    "tenses": [
+      "Past Continuous",
+      "Simple Past"
+    ],
+    "connector": "while",
+    "dailyId": "day-29-while"
   },
   {
     "type": "typing",
@@ -91,7 +94,7 @@
       "wasn’t running"
     ],
     "hint": "Ο ζητούμενος χρόνος είναι Past Continuous. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
-    "explanation": "Το at eight yesterday, μαζί με τον ζητούμενο χρόνο, περιγράφει πράξη σε εξέλιξη τότε: Past Continuous. the child → he/she: was + running. Στην ερώτηση το was προηγείται του υποκειμένου. run → running: διπλασιάζουμε το τελικό σύμφωνο, επειδή προηγείται ένα φωνήεν και η συλλαβή τονίζεται.",
+    "explanation": "Το at eight yesterday δηλώνει συγκεκριμένη ώρα στο παρελθόν. Στο πρόγραμμα αυτό βαθμολογούμε μόνο Past Continuous, για πράξη σε εξέλιξη. the child → was. Άρνηση: was + not + running. run → running: διπλασιάζουμε το τελικό σύμφωνο.",
     "categories": [
       "auxiliary",
       "negative",
@@ -124,22 +127,24 @@
   },
   {
     "type": "typing",
-    "question": "Yesterday, Andrew and his father ___ (not go) to the park.",
+    "question": "The child ___ (write a letter) when the phone ___ (buzz). Γράψε τα δύο κενά χωρισμένα με / .",
     "acceptedAnswers": [
-      "did not go",
-      "didn’t go"
+      "was writing a letter / buzzed"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Simple Past. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
-    "explanation": "Το yesterday δηλώνει ολοκληρωμένο χρόνο στο παρελθόν: Simple Past. Με did/did not χρησιμοποιούμε go, όχι went ή gone.",
+    "hint": "Ποια πράξη ήταν ήδη σε εξέλιξη και ποιο γεγονός συνέβη τότε;",
+    "explanation": "Η πράξη με διάρκεια είναι was writing a letter (Past Continuous). Μετά το when έχουμε το σύντομο γεγονός buzzed (Simple Past). Σχηματισμός: was/were + ρήμα σε -ing για την εξέλιξη, αόριστος για το σύντομο γεγονός. Το γεγονός συμβαίνει κατά τη διάρκεια της άλλης πράξης και δεν σημαίνει απαραίτητα ότι εκείνη σταμάτησε οριστικά. write → writing: αφαιρούμε το τελικό άφωνο e.",
     "categories": [
+      "duration-event",
+      "keywords",
       "auxiliary",
-      "negative",
-      "tense",
-      "irregular"
+      "agreement"
     ],
-    "tense": "Simple Past",
-    "subject": "Andrew and his father",
-    "dailyId": "day-29-08"
+    "tenses": [
+      "Past Continuous",
+      "Simple Past"
+    ],
+    "connector": "when",
+    "dailyId": "day-29-when"
   },
   {
     "type": "typing",
@@ -161,7 +166,7 @@
       "was / writing"
     ],
     "hint": "Ο ζητούμενος χρόνος είναι Past Continuous. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
-    "explanation": "Το at eight yesterday, μαζί με τον ζητούμενο χρόνο, περιγράφει πράξη σε εξέλιξη τότε: Past Continuous. the child → he/she: was + writing. Στην ερώτηση το was προηγείται του υποκειμένου.",
+    "explanation": "Το at eight yesterday δηλώνει συγκεκριμένη ώρα στο παρελθόν. Στο πρόγραμμα αυτό βαθμολογούμε μόνο Past Continuous, για πράξη σε εξέλιξη. the child → was. Ερώτηση: Was + υποκείμενο + writing; write → writing: αφαιρούμε το άφωνο e.",
     "categories": [
       "auxiliary",
       "question",
