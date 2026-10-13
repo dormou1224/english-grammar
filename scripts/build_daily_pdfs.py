@@ -12,6 +12,7 @@ def printable(q):
  text=q['question'];answers=list(q['acceptedAnswers']);reason=q['explanation']
  text=re.sub(r'\s*Χρησιμοποίησε [^.]+\.', '', text)
  text=re.sub(r'\s*Γράψε τα δύο κενά χωρισμένα με / \.', '', text)
+ text=re.sub(r'\s*Γράψε όλα τα κενά, με τη σειρά, χωρισμένα με / \.', '', text)
  if 'Ανώμαλο ρήμα' in text:
   text=text.replace('πληκτρολόγησε τον αόριστο (Simple Past).','Αόριστος: ___').replace('πληκτρολόγησε τη μετοχή (past participle).','Μετοχή: ___')
  # Both clauses now have unanswered verbs. Answer order follows the printed blanks.

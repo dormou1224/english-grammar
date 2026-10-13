@@ -1,12 +1,12 @@
 [
   {
     "type": "typing",
-    "question": "The child ___ (not eat) anything since this morning. Χρησιμοποίησε Present Perfect.",
+    "question": "The child ___ (not eat) anything since this morning.",
     "acceptedAnswers": [
       "has not eaten",
       "hasn’t eaten"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Present Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "hint": "Έλεγξε αν η πράξη συνδέεται με το παρόν (π.χ. εμπειρία μέχρι τώρα, since, yet). Πριν σχηματίσεις τον Present Perfect, βρες την αντωνυμία του υποκειμένου: he/she/it → has, I/you/we/they → have. Έπειτα βάλε τη μετοχή του ρήματος.",
     "explanation": "Το since this morning συνδέει το παρελθόν με το παρόν: Present Perfect. the child → he/she: has + eaten. Eat → ate → eaten.",
     "categories": [
       "auxiliary",
@@ -21,11 +21,11 @@
   },
   {
     "type": "typing",
-    "question": "While the children ___ (cook dinner), a visitor ___ (arrive). Γράψε τα δύο κενά χωρισμένα με / .",
+    "question": "While the children ___ (cook dinner), a visitor ___ (arrive). Γράψε όλα τα κενά, με τη σειρά, χωρισμένα με / .",
     "acceptedAnswers": [
       "were cooking dinner / arrived"
     ],
-    "hint": "Ποια πράξη ήταν ήδη σε εξέλιξη και ποιο γεγονός συνέβη τότε;",
+    "hint": "Πρόσεξε ποια πράξη είχε διάρκεια και ήταν ήδη σε εξέλιξη: αυτή παίρνει Past Continuous. Το πιο σύντομο γεγονός που παρεμβάλλεται παίρνει Simple Past. Πριν σχηματίσεις τον Past Continuous, βρες την αντωνυμία του υποκειμένου: I/he/she/it → was, you/we/they → were. Έπειτα βάλε το κύριο ρήμα σε -ing.",
     "explanation": "Το while εισάγει την πράξη με διάρκεια: were cooking dinner (Past Continuous). Το σύντομο γεγονός που παρεμβάλλεται είναι arrived (Simple Past). Σχηματισμός: was/were + ρήμα σε -ing για την εξέλιξη, αόριστος για το σύντομο γεγονός. Το γεγονός συμβαίνει κατά τη διάρκεια της άλλης πράξης και δεν σημαίνει απαραίτητα ότι εκείνη σταμάτησε οριστικά.",
     "categories": [
       "duration-event",
@@ -42,11 +42,11 @@
   },
   {
     "type": "typing",
-    "question": "___ the child ever ___ (eat) sushi? Γράψε τα δύο κενά χωρισμένα με / .",
+    "question": "___ the child ever ___ (eat) sushi? Γράψε όλα τα κενά, με τη σειρά, χωρισμένα με / .",
     "acceptedAnswers": [
       "has / eaten"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Present Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "hint": "Έλεγξε αν η πράξη συνδέεται με το παρόν (π.χ. εμπειρία μέχρι τώρα, since, yet). Πριν σχηματίσεις τον Present Perfect, βρες την αντωνυμία του υποκειμένου: he/she/it → has, I/you/we/they → have. Έπειτα βάλε τη μετοχή του ρήματος.",
     "explanation": "Το ever ρωτά για εμπειρία μέχρι τώρα: Present Perfect. the child → he/she: has + eaten. Eat → ate → eaten.",
     "categories": [
       "auxiliary",
@@ -78,7 +78,7 @@
     "acceptedAnswers": [
       "played"
     ],
-    "hint": "Βρες πρώτα τον χρόνο και μετά τον σωστό τύπο του ρήματος.",
+    "hint": "Βρες το παρελθοντικό χρονικό σημείο. Ο Simple Past δεν αλλάζει ανάλογα με το πρόσωπο. Σε άρνηση/ερώτηση χρησιμοποιούμε did και το βασικό ρήμα, όχι αόριστο μετά το did.",
     "explanation": "Το yesterday / last week / last month / a moment ago δίνει ολοκληρωμένο χρονικό σημείο στο παρελθόν: Simple Past. Φωνήεν + y: διατηρούμε το y πριν από -ed.",
     "categories": [
       "keywords"
@@ -88,12 +88,12 @@
   },
   {
     "type": "typing",
-    "question": "At eight yesterday, the child ___ (not run) in the park. Χρησιμοποίησε Past Continuous.",
+    "question": "At eight yesterday, the child ___ (not run) in the park.",
     "acceptedAnswers": [
       "was not running",
       "wasn’t running"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Past Continuous. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "hint": "Η συγκεκριμένη ώρα στο παρελθόν δείχνει, σύμφωνα με τον κανόνα της ύλης μας, πράξη σε εξέλιξη. Πριν σχηματίσεις τον Past Continuous, βρες την αντωνυμία του υποκειμένου: I/he/she/it → was, you/we/they → were. Έπειτα βάλε το κύριο ρήμα σε -ing. Πρόσεξε επίσης την ορθογραφία της κατάληξης και αν χρειάζεται αλλαγή του y, αφαίρεση e ή διπλασιασμός συμφώνου.",
     "explanation": "Το at eight yesterday δηλώνει συγκεκριμένη ώρα στο παρελθόν. Στο πρόγραμμα αυτό βαθμολογούμε μόνο Past Continuous, για πράξη σε εξέλιξη. the child → was. Άρνηση: was + not + running. run → running: διπλασιάζουμε το τελικό σύμφωνο.",
     "categories": [
       "auxiliary",
@@ -108,13 +108,15 @@
   },
   {
     "type": "typing",
-    "question": "Before we arrived, the child ___ (not finish) dinner. Χρησιμοποίησε Past Perfect.",
+    "question": "Before we ___ (arrive), the child ___ (not finish) dinner. Γράψε όλα τα κενά, με τη σειρά, χωρισμένα με / .",
     "acceptedAnswers": [
-      "had not finished",
-      "hadn’t finished"
+      "arrived / had not finished",
+      "arrived / hadn’t finished",
+      "arrived / did not finish",
+      "arrived / didn’t finish"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Past Perfect. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
-    "explanation": "Το before we arrived δίνει τη μεταγενέστερη άφιξη σε Simple Past. Για ό,τι είχε γίνει νωρίτερα χρησιμοποιούμε τον ζητούμενο Past Perfect: had + finished. Στην άρνηση: had not finished. Στην ερώτηση: Had + υποκείμενο + finished; Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "hint": "Πρόσεξε τη σειρά των γεγονότων: στο μοτίβο που εξασκούμε, η παλαιότερη πράξη παίρνει Past Perfect (had + μετοχή) και η μεταγενέστερη Simple Past. Το had είναι ίδιο για όλα τα πρόσωπα.",
+    "explanation": "Η άφιξη είναι το μεταγενέστερο γεγονός: arrived (Simple Past). Η άλλη πράξη αναφέρεται σε χρόνο πριν από την άφιξη: had + finished, με not στην άρνηση ή had πριν από το υποκείμενο στην ερώτηση. Με before είναι επίσης σωστή η χρήση Simple Past και στα δύο μέρη, όπως στις εναλλακτικές λύσεις.",
     "categories": [
       "auxiliary",
       "negative",
@@ -127,11 +129,11 @@
   },
   {
     "type": "typing",
-    "question": "The child ___ (write a letter) when the phone ___ (buzz). Γράψε τα δύο κενά χωρισμένα με / .",
+    "question": "The child ___ (write a letter) when the phone ___ (buzz). Γράψε όλα τα κενά, με τη σειρά, χωρισμένα με / .",
     "acceptedAnswers": [
       "was writing a letter / buzzed"
     ],
-    "hint": "Ποια πράξη ήταν ήδη σε εξέλιξη και ποιο γεγονός συνέβη τότε;",
+    "hint": "Πρόσεξε ποια πράξη είχε διάρκεια και ήταν ήδη σε εξέλιξη: αυτή παίρνει Past Continuous. Το πιο σύντομο γεγονός που παρεμβάλλεται παίρνει Simple Past. Πριν σχηματίσεις τον Past Continuous, βρες την αντωνυμία του υποκειμένου: I/he/she/it → was, you/we/they → were. Έπειτα βάλε το κύριο ρήμα σε -ing.",
     "explanation": "Η πράξη με διάρκεια είναι was writing a letter (Past Continuous). Μετά το when έχουμε το σύντομο γεγονός buzzed (Simple Past). Σχηματισμός: was/were + ρήμα σε -ing για την εξέλιξη, αόριστος για το σύντομο γεγονός. Το γεγονός συμβαίνει κατά τη διάρκεια της άλλης πράξης και δεν σημαίνει απαραίτητα ότι εκείνη σταμάτησε οριστικά. write → writing: αφαιρούμε το τελικό άφωνο e.",
     "categories": [
       "duration-event",
@@ -161,11 +163,11 @@
   },
   {
     "type": "typing",
-    "question": "___ the child ___ (write) a letter at eight yesterday? Χρησιμοποίησε Past Continuous. Γράψε τα δύο κενά χωρισμένα με / .",
+    "question": "___ the child ___ (write) a letter at eight yesterday? Γράψε όλα τα κενά, με τη σειρά, χωρισμένα με / .",
     "acceptedAnswers": [
       "was / writing"
     ],
-    "hint": "Ο ζητούμενος χρόνος είναι Past Continuous. Βρες την αντωνυμία που αντιστοιχεί στο υποκείμενο.",
+    "hint": "Η συγκεκριμένη ώρα στο παρελθόν δείχνει, σύμφωνα με τον κανόνα της ύλης μας, πράξη σε εξέλιξη. Πριν σχηματίσεις τον Past Continuous, βρες την αντωνυμία του υποκειμένου: I/he/she/it → was, you/we/they → were. Έπειτα βάλε το κύριο ρήμα σε -ing.",
     "explanation": "Το at eight yesterday δηλώνει συγκεκριμένη ώρα στο παρελθόν. Στο πρόγραμμα αυτό βαθμολογούμε μόνο Past Continuous, για πράξη σε εξέλιξη. the child → was. Ερώτηση: Was + υποκείμενο + writing; write → writing: αφαιρούμε το άφωνο e.",
     "categories": [
       "auxiliary",
