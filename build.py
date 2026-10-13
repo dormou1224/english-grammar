@@ -8,7 +8,9 @@ for name,items in content.items():
  if name.endswith('quiz'):
   for q in items:
    assert q['hint'] and q['explanation']
-   if q.get('type')=='typing':assert q['acceptedAnswers'] and all(isinstance(a,str) and a.strip() for a in q['acceptedAnswers'])
+   if q.get('type')=='matching':
+    assert q['matches'] and all(m['answer'] in m['options'] and len(set(m['options']))==len(m['options']) for m in q['matches'])
+   elif q.get('type')=='typing':assert q['acceptedAnswers'] and all(isinstance(a,str) and a.strip() for a in q['acceptedAnswers'])
    else:assert len(q['options'])==4 and len(set(q['options']))==4 and 0<=q['correctIndex']<4
  elif name.endswith('exercises'):
   for q in items:assert q['question'] and q['answer']
@@ -25,10 +27,11 @@ for p in root.glob('*.html'):
  if p.name in ['English-Grammar-Quiz.html','Junior-English-Quiz.html']:continue
  html=p.read_text(encoding='utf-8').replace('<link rel="stylesheet" href="assets/style.css">',f'<style>{css}</style>')
  html=html.replace('<script defer src="assets/loader.js"></script>',f'<script>window.QUIZ_CONTENT={data};</script>')
- scripts=re.findall(r'<script defer src="assets/(\w+).js"></script>',html)
- html=re.sub(r'<script defer src="assets/\w+.js"></script>','',html)
+ scripts=re.findall(r'<script defer src="assets/([\w-]+).js"></script>',html)
+ html=re.sub(r'<script defer src="assets/[\w-]+.js"></script>','',html)
  if scripts:html=html.replace('</body>','<script>'+(root/'assets/loader.js').read_text()+'</script>'+''.join('<script>'+(root/'assets'/f'{s}.js').read_text()+'</script>' for s in scripts)+'</body>')
  (out/p.name).write_text(html,encoding='utf-8')
 for p in root.glob('*.pdf'):shutil.copy(p,out)
+if (root/'daily-pdfs').exists():shutil.copytree(root/'daily-pdfs',out/'daily-pdfs')
 shutil.copy(out/'tenses.html',root/'English-Grammar-Quiz.html');shutil.copy(out/'tenses.html',out/'English-Grammar-Quiz.html')
 print('Validated content and built',len(list(out.glob('*.html'))),'offline pages.')
